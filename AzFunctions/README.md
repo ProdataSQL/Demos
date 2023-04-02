@@ -4,6 +4,7 @@ Welcome to the sample c# Azure functions. This contains two sample projects writ
 - TestProject1.csproj. A sample C# unit test project that shows how make a unit test for an azure function using a mock HTTP request object.
 
 ## Key concepts to demo
+
 - A template for writing c# Azure function that use Datalakes and SQL
 - Example of using the latest Azure.Identity for both Managed Identity when run from Azure and Visual Studio Azure Identity when run from Visual Studio.
 - Example use of the newer DataLakeServiceClient instead of the more generic BlobServiceClient.
@@ -12,6 +13,7 @@ Welcome to the sample c# Azure functions. This contains two sample projects writ
 - Use of a local.settings.json file and Envioronment variables to have different settings in VS Studio versus Azure. Specificaaly the ExcludeManagedIdentityCredential boolean flag.
 
 ## Setup and Permissions
+
 To get this example to work you will need a few things:
 
 1. An ASDL Storage Account with a container
@@ -24,11 +26,13 @@ To get this example to work you will need a few things:
 This can be cumbersome, but good news its once off setup.
 
 ## Why use an Azure Function 
+
 Theres a few scenarios where Azure Functions can be useful with data engineering, even if you are using ADF:
 
 - When the source file needs some high code solution to parse nasty files.
-- C# does allow for more streamlined file procesing. At the extepse of development time. This can lead to better performance. More than 2x in this case of a 12MN file
+- C# does allow for more streamlined file procesing. At the extepse of development time. This can lead to better performance. More than 2x in this case of a 12MB file.
 - When the low code ADF envionment is not flexible enough.
+- Azure functions can be considerably cheaper than ADF for copying files if you are not using a self Hosted Integration Run Time.
 
 ## Performance Testing ADF Copy v c# Azure function
 
