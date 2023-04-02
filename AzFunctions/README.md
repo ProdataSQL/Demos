@@ -6,7 +6,7 @@ Welcome to the sample c# Azure functions. This contains two sample projects writ
 ## Key concepts to demo
 - A template for writing c# Azure function that use Datalakes and SQL
 - Example of using the latest Azure.Identity for both Managed Identity when run from Azure and Visual Studio Azure Identity when run from Visual Studio.
-- Example use of the DataLakeServiceClient instead of the more generic BlobServiceClient.
+- Example use of the newer DataLakeServiceClient instead of the more generic BlobServiceClient.
 - Example use of SqlBulkCopy API to write a Dataset from Dot.Ney to SQL with a Bulk API.
 - Sample Dot.Net Unit Test project showing how to write unit tests to develop and test functions locally so you dont have to mess with debugging as much in Azure.
 - Use of a local.settings.json file and Envioronment variables to have different settings in VS Studio versus Azure. Specificaaly the ExcludeManagedIdentityCredential boolean flag.
@@ -25,7 +25,8 @@ This can be cumbersome, but good news its once off setup.
 
 ## Why use an Azure Function 
 Theres a few scenarios where Azure Functions can be useful with data engineering, even if you are using ADF:
-- When the source file needs some high code solution to parse naasty files.
+
+- When the source file needs some high code solution to parse nasty files.
 - C# does allow for more streamlined file procesing. At the extepse of development time. This can lead to better performance. More than 2x in this case of a 12MN file
 - When the low code ADF envionment is not flexible enough.
 
@@ -53,9 +54,16 @@ ADF Pipeline runing using Azure Function Activity
 ![ADF Unit Test ](ADF.PNG)
 
 ## Going from this sample to Production Quality
+
 While the API calls are similae, there are some things we do slighty differently in a commerical/production solution. We didnt show them here to keep it as a simple demo:
 
 - We would not place the code inside the azure function. Better to put the logic into a dedicated Class solution.  
 - We write unit tests based on the seperate logic classes rather than try and mock up azure function calls. This lets us develop and test code without worrying about any pecularities of azure functions.
 - We do not use the APIs like Azure.Identity, or DataLakeClient within the function or logic class. Instead we create our own library which wraps the APIs for easier re-use.
 - This example using a DataTable, sometimes we may develop data processing using a more streaming method such as and IDataReader interface, or chunking the DataTable into 1MB chunks.
+- Note that we use the full Visual Studio and not Visual Code for c# projects. This is mainly due to use of tools liek VS Unit Test and Jet Brains to help development. We tend to use VS code more fro scripting languages like Powershell and Python. But many authors do use VS Code for c#.
+
+## References 
+https://prodata.ie/2022/06/16/enabling-managed-identity-authentication-on-azure-functions-in-data-factory/
+https://www.mssqltips.com/sqlservertip/7532/retrieve-file-azure-blob-storage-azure-function/
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-access-azure-sql-with-managed-identity
