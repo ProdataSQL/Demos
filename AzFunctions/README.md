@@ -13,12 +13,13 @@ Welcome to the sample c# Azure functions. This contains two sample projects writ
 
 ## Setup and Permissions
 To get this example to work you will need a few things:
-1. an ASDL Storage Account with a container
+
+1. An ASDL Storage Account with a container
 2. Upload sampel CSV from https://www.kaggle.com/datasets/utsh0dey/25k-movie-dataset
 3. A SQL DB or Syanpse SQL Pool with table creates as per [CreateTable.sql](Minimal/C#/CreateTable.sql)
-4. Azure function published from source code.
+4. Azure function published from source code. [ExtracApp.sln](Minimal/C%23/ExtractApp.sln)
 5. Managed Identity Setup on AzFunction and ADF as per [this blog](https://prodata.ie/2022/06/16/enabling-managed-identity-authentication-on-azure-functions-in-data-factory/)
-6. Grant the Function App Identity permissions on the SqlServer.
+6. Grant the Function App Identity permissions on the SqlServer. [this article](https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-access-azure-sql-with-managed-identity)
 
 This can be cumbersome, but good news its once off setup.
 
@@ -53,10 +54,8 @@ ADF Pipeline runing using Azure Function Activity
 
 ## Going from this sample to Production Quality
 While the API calls are similae, there are some things we do slighty differently in a commerical/production solution. We didnt show them here to keep it as a simple demo:
+
 - We would not place the code inside the azure function. Better to put the logic into a dedicated Class solution.  
 - We write unit tests based on the seperate logic classes rather than try and mock up azure function calls. This lets us develop and test code without worrying about any pecularities of azure functions.
 - We do not use the APIs like Azure.Identity, or DataLakeClient within the function or logic class. Instead we create our own library which wraps the APIs for easier re-use.
-
-
-
-[def]: .\Performance.PNG
+- This example using a DataTable, sometimes we may develop data processing using a more streaming method such as and IDataReader interface, or chunking the DataTable into 1MB chunks.
