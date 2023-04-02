@@ -23,13 +23,13 @@ To get this example to work you will need a few things:
 This can be cumbersome, but good news its once off setup.
 
 ## Why use an Azure Function 
-Theres a few scenarios where Azure Functions can be useful with data engineering, even if you are using ADF.
-- When the source file needs some high code solution to parse.
+Theres a few scenarios where Azure Functions can be useful with data engineering, even if you are using ADF:
+- When the source file needs some high code solution to parse naasty files.
 - C# does allow for more streamlined file procesing. At the extepse of development time. This can lead to better performance. More than 2x in this case of a 12MN file
 - When the low code ADF envionment is not flexible enough.
 
-
 ## Performance Testing ADF Copy v c# Azure function
+
 As a performance test we took a sample 12 MB CSV File which you can download from kaggle here
 https://www.kaggle.com/datasets/utsh0dey/25k-movie-dataset
 
@@ -37,8 +37,8 @@ We then read the file and loaded it into SQL using two scenarios
 - The Standard Copy Activity using the SqlPool COPY option.
 - This sample c# azure function.
 
-Avergage ruin times are show below. Potentially the c# azure funciton was more than 2x faster. 
-![Performance Comparison](.\Performance.PNG)
+Average run times are show below. Potentially the c# azure funciton was more than 2x faster then the ADF Copy Activity.
+![Performance Comparison](Performance.PNG)
 
 Note: We were using the most basic tier of azure functions on a Linux host. The "consumption" plan is about 1 core and 1.5GB ram so really limited in resources.
 
@@ -57,3 +57,6 @@ While the API calls are similae, there are some things we do slighty differently
 - We write unit tests based on the seperate logic classes rather than try and mock up azure function calls. This lets us develop and test code without worrying about any pecularities of azure functions.
 - We do not use the APIs like Azure.Identity, or DataLakeClient within the function or logic class. Instead we create our own library which wraps the APIs for easier re-use.
 
+
+
+[def]: .\Performance.PNG
