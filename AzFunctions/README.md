@@ -65,15 +65,15 @@ ADF Pipeline runing using Azure Function Activity
 
 ## Going from this sample to Production Quality
 
-While the API calls are similae, there are some things we do slighty differently in a commerical/production solution. We didnt show them here to keep it as a simple demo:
+While the API calls are similar, there are some things we do slighty differently in a commerical/production solution. We didn't show them here to keep it as a simple demo:
 
 - We would not place the code inside the azure function. Better to put the logic into a dedicated Class solution.  
 - We write unit tests based on the seperate logic classes rather than try and mock up azure function calls. This lets us develop and test code without worrying about any pecularities of azure functions.
 - We do not use the APIs like Azure.Identity, or DataLakeClient within the function or logic class. Instead we create our own library which wraps the APIs for easier re-use.
 - This example using a DataTable, sometimes we may develop data processing using a more streaming method such as and IDataReader interface, or chunking the DataTable into 1MB chunks.
-- Note that we use the full Visual Studio and not Visual Code for c# projects. This is mainly due to use of tools liek VS Unit Test and Jet Brains to help development. We tend to use VS code more fro scripting languages like Powershell and Python. But many authors do use VS Code for c#.
+- Note that we use the full Visual Studio and not Visual Code for c# projects. This is mainly due to use of tools like VS Unit Test and Jet Brains to help development. We tend to use VS code more for scripting languages like Powershell and Python. But many authors do use VS Code for c#.
 
-## References 
+## References
 
 https://prodata.ie/2022/06/16/enabling-managed-identity-authentication-on-azure-functions-in-data-factory/
 https://www.mssqltips.com/sqlservertip/7532/retrieve-file-azure-blob-storage-azure-function/
