@@ -1,0 +1,501 @@
+_company_name,Company domain name,Pipeline,Deal owner,Create Date,Deal Name,Amount,Deal probability,Forecast probability,Deal Stage,_use_close_date,Close Date,Priority
+Blogtags,blogtags.com,Sales Pipeline,Test User 2,2021-08-25,Blogtags Deal (2021-08-25),2491,"","",Presentation scheduled,2021-09-12,"",
+Gigashots,gigashots.com,Sales Pipeline,Clayton Farr,2020-09-09,Gigashots Deal (2020-09-09),3644,"","",Closed lost,2020-09-28,"",Medium
+Kwilith,kwilith.com,Sales Pipeline,Clayton Farr,2021-09-23,Kwilith Deal (2021-09-23),3417,"","",Closed lost,2021-10-10,"",Low
+Yozio,yozio.com,Sales Pipeline,Test User 2,2021-11-20,Yozio Deal (2021-11-20),1464,"","",Appointment scheduled,2021-12-29,"",Medium
+Ntags,ntags.com,Sales Pipeline,Test User 2,2020-07-03,Ntags Deal (2020-07-03),1732,"","",Closed lost,2020-08-04,"",Low
+Yodel,yodel.com,Sales Pipeline,Test User 2,2020-04-22,Yodel Deal (2020-04-22),419,"","",Closed lost,2020-06-01,"",
+Flashdog,flashdog.com,Sales Pipeline,Test User 2,2020-09-23,Flashdog Deal (2020-09-23),4932,"","",Closed lost,2020-10-18,"",
+Gevee,gevee.com,Sales Pipeline,Test User 2,2020-06-11,Gevee Deal (2020-06-11),4597,"","",Closed lost,2020-07-22,"",
+Dabvine,dabvine.com,Sales Pipeline,Test User 2,2021-08-02,Dabvine Deal (2021-08-02),2325,"","",Decision maker bought-In,2021-08-19,"",
+Einti,einti.com,Sales Pipeline,Clayton Farr,2020-03-24,Einti Deal (2020-03-24),4858,"","",Qualified to buy,2020-05-04,"",
+Brainverse,brainverse.com,Sales Pipeline,Clayton Farr,2020-05-18,Brainverse Deal (2020-05-18),512,"","",Closed lost,2020-06-10,"",
+Edgetag,edgetag.com,Sales Pipeline,Test User 2,2020-11-18,Edgetag Deal (2020-11-18),125,"","",Closed lost,2020-12-30,"",
+Rhyzio,rhyzio.com,Sales Pipeline,Test User 2,2020-06-17,Rhyzio Deal (2020-06-17),648,"","",Closed lost,2020-07-12,"",Low
+Oodoo,oodoo.com,Sales Pipeline,Test User 2,2020-08-09,Oodoo Deal (2020-08-09),1683,"","",Closed lost,2020-09-12,"",Medium
+Zoozzy,zoozzy.com,Sales Pipeline,Test User 2,2020-05-28,Zoozzy Deal (2020-05-28),2983,"","",Presentation scheduled,2020-06-25,"",High
+Jetwire,jetwire.com,Sales Pipeline,Clayton Farr,2021-12-21,Jetwire Deal (2021-12-21),2964,"","",Closed won,2022-01-26,2022-01-26,High
+Npath,npath.com,Sales Pipeline,Clayton Farr,2021-08-21,Npath Deal (2021-08-21),4799,"","",Contract sent,2021-09-08,"",
+Brainsphere,brainsphere.com,Sales Pipeline,Clayton Farr,2020-09-23,Brainsphere Deal (2020-09-23),2408,"","",Closed lost,2020-10-22,"",
+Trilith,trilith.com,Sales Pipeline,Clayton Farr,2021-05-21,Trilith Deal (2021-05-21),2259,"","",Closed lost,2021-06-05,"",
+Jabbertype,jabbertype.com,Sales Pipeline,Test User 2,2021-05-06,Jabbertype Deal (2021-05-06),616,"","",Closed lost,2021-05-28,"",
+Avamm,avamm.com,Sales Pipeline,Clayton Farr,2020-10-08,Avamm Deal (2020-10-08),3503,"","",Closed lost,2020-10-26,"",High
+Flipopia,flipopia.com,Sales Pipeline,Clayton Farr,2021-07-25,Flipopia Deal (2021-07-25),434,"","",Closed lost,2021-08-24,"",
+Jayo,jayo.com,Sales Pipeline,Clayton Farr,2020-08-14,Jayo Deal (2020-08-14),2732,"","",Closed lost,2020-09-08,"",
+Eamia,eamia.com,Sales Pipeline,Clayton Farr,2021-02-13,Eamia Deal (2021-02-13),4581,"","",Closed won,2021-03-13,2021-03-13,
+Yoveo,yoveo.com,Sales Pipeline,Clayton Farr,2020-04-05,Yoveo Deal (2020-04-05),2067,"","",Closed lost,2020-05-10,"",
+Quaxo,quaxo.com,Sales Pipeline,Clayton Farr,2020-07-15,Quaxo Deal (2020-07-15),1632,"","",Closed won,2020-08-06,2020-08-06,
+Abata,abata.com,Sales Pipeline,Test User 2,2020-05-09,Abata Deal (2020-05-09),1240,"","",Closed lost,2020-06-15,"",
+Mydo,mydo.com,Sales Pipeline,Test User 2,2020-07-15,Mydo Deal (2020-07-15),1090,"","",Closed lost,2020-08-23,"",Low
+Zava,zava.com,Sales Pipeline,Clayton Farr,2021-01-10,Zava Deal (2021-01-10),700,"","",Closed won,2021-02-17,2021-02-17,Medium
+Yodel,yodel.com,Sales Pipeline,Clayton Farr,2021-04-15,Yodel Deal (2021-04-15),4685,"","",Closed lost,2021-05-18,"",
+Wordtune,wordtune.com,Sales Pipeline,Test User 2,2021-02-20,Wordtune Deal (2021-02-20),2475,"","",Contract sent,2021-03-23,"",Low
+Rhycero,rhycero.com,Sales Pipeline,Clayton Farr,2021-06-21,Rhycero Deal (2021-06-21),4247,"","",Closed lost,2021-07-10,"",Low
+Omba,omba.com,Sales Pipeline,Test User 2,2021-03-23,Omba Deal (2021-03-23),2787,"","",Closed lost,2021-04-21,"",High
+Abatz,abatz.com,Sales Pipeline,Clayton Farr,2020-11-12,Abatz Deal (2020-11-12),3071,"","",Closed won,2020-12-06,2020-12-06,Medium
+Kaymbo,kaymbo.com,Sales Pipeline,Test User 2,2021-08-08,Kaymbo Deal (2021-08-08),3348,"","",Closed lost,2021-09-22,"",Low
+Agivu,agivu.com,Sales Pipeline,Test User 2,2021-10-11,Agivu Deal (2021-10-11),1694,"","",Closed lost,2021-11-02,"",Low
+JumpXS,jumpxs.com,Sales Pipeline,Clayton Farr,2021-05-14,JumpXS Deal (2021-05-14),3286,"","",Closed lost,2021-06-03,"",
+Yakitri,yakitri.com,Sales Pipeline,Test User 2,2021-04-19,Yakitri Deal (2021-04-19),2566,"","",Closed lost,2021-05-07,"",Low
+Livetube,livetube.com,Sales Pipeline,Test User 2,2020-07-01,Livetube Deal (2020-07-01),1114,"","",Closed lost,2020-08-11,"",Low
+Rooxo,rooxo.com,Sales Pipeline,Clayton Farr,2021-11-17,Rooxo Deal (2021-11-17),4576,"","",Closed lost,2021-12-23,"",Medium
+Jatri,jatri.com,Sales Pipeline,Test User 2,2020-03-25,Jatri Deal (2020-03-25),2639,"","",Closed won,2020-04-22,2020-04-22,
+Mydo,mydo.com,Sales Pipeline,Clayton Farr,2021-04-09,Mydo Deal (2021-04-09),4450,"","",Closed lost,2021-05-24,"",Medium
+Skyvu,skyvu.com,Sales Pipeline,Clayton Farr,2020-11-12,Skyvu Deal (2020-11-12),4699,"","",Closed lost,2020-12-25,"",
+Fivebridge,fivebridge.com,Sales Pipeline,Test User 2,2021-07-30,Fivebridge Deal (2021-07-30),1653,"","",Closed lost,2021-08-28,"",
+BlogXS,blogxs.com,Sales Pipeline,Test User 2,2021-03-12,BlogXS Deal (2021-03-12),2963,"","",Closed won,2021-04-08,2021-04-08,
+Skalith,skalith.com,Sales Pipeline,Clayton Farr,2021-01-24,Skalith Deal (2021-01-24),982,"","",Closed won,2021-02-19,2021-02-19,
+Zoombox,zoombox.com,Sales Pipeline,Test User 2,2020-12-03,Zoombox Deal (2020-12-03),2822,"","",Decision maker bought-In,2020-12-27,"",Medium
+Jabbertype,jabbertype.com,Sales Pipeline,Test User 2,2020-01-30,Jabbertype Deal (2020-01-30),2081,"","",Closed won,2020-03-04,2020-03-04,
+Yambee,yambee.com,Sales Pipeline,Clayton Farr,2020-07-26,Yambee Deal (2020-07-26),3838,"","",Closed lost,2020-08-28,"",
+Blogspan,blogspan.com,Sales Pipeline,Test User 2,2020-03-28,Blogspan Deal (2020-03-28),1482,"","",Closed lost,2020-04-27,"",High
+Omba,omba.com,Sales Pipeline,Clayton Farr,2020-03-04,Omba Deal (2020-03-04),1369,"","",Closed lost,2020-03-20,"",
+Browsetype,browsetype.com,Sales Pipeline,Clayton Farr,2021-11-03,Browsetype Deal (2021-11-03),340,"","",Closed lost,2021-12-04,"",Medium
+Eidel,eidel.com,Sales Pipeline,Clayton Farr,2021-08-22,Eidel Deal (2021-08-22),4976,"","",Closed won,2021-09-25,2021-09-25,Medium
+Browsecat,browsecat.com,Sales Pipeline,Clayton Farr,2021-07-04,Browsecat Deal (2021-07-04),674,"","",Closed lost,2021-08-15,"",
+Skynoodle,skynoodle.com,Sales Pipeline,Test User 2,2020-05-23,Skynoodle Deal (2020-05-23),394,"","",Closed won,2020-06-13,2020-06-13,
+Mita,mita.com,Sales Pipeline,Test User 2,2021-09-04,Mita Deal (2021-09-04),4073,"","",Closed won,2021-09-24,2021-09-24,Low
+Zoombox,zoombox.com,Sales Pipeline,Test User 2,2021-02-05,Zoombox Deal (2021-02-05),2749,"","",Closed won,2021-03-19,2021-03-19,
+Abata,abata.com,Sales Pipeline,Clayton Farr,2020-05-18,Abata Deal (2020-05-18),1249,"","",Closed won,2020-06-11,2020-06-11,
+Skyvu,skyvu.com,Sales Pipeline,Clayton Farr,2021-02-08,Skyvu Deal (2021-02-08),1724,"","",Closed won,2021-03-09,2021-03-09,
+Abata,abata.com,Sales Pipeline,Clayton Farr,2021-11-24,Abata Deal (2021-11-24),3991,"","",Closed lost,2021-12-09,"",
+Jabbertype,jabbertype.com,Sales Pipeline,Clayton Farr,2021-09-10,Jabbertype Deal (2021-09-10),3373,"","",Closed lost,2021-10-04,"",
+Devshare,devshare.com,Sales Pipeline,Clayton Farr,2020-12-15,Devshare Deal (2020-12-15),183,"","",Closed won,2020-12-30,2020-12-30,Low
+Fivebridge,fivebridge.com,Sales Pipeline,Test User 2,2020-10-07,Fivebridge Deal (2020-10-07),2516,"","",Closed lost,2020-11-10,"",
+Yodo,yodo.com,Sales Pipeline,Clayton Farr,2020-08-10,Yodo Deal (2020-08-10),3035,"","",Contract sent,2020-09-03,"",
+Centizu,centizu.com,Sales Pipeline,Clayton Farr,2020-08-26,Centizu Deal (2020-08-26),3919,"","",Closed lost,2020-09-26,"",
+Eare,eare.com,Sales Pipeline,Clayton Farr,2020-02-24,Eare Deal (2020-02-24),1480,"","",Closed lost,2020-04-03,"",
+Yadel,yadel.com,Sales Pipeline,Test User 2,2021-11-30,Yadel Deal (2021-11-30),1124,"","",Closed won,2021-12-28,2021-12-28,
+Skiba,skiba.com,Sales Pipeline,Clayton Farr,2021-08-24,Skiba Deal (2021-08-24),3656,"","",Closed lost,2021-09-13,"",
+Wordtune,wordtune.com,Sales Pipeline,Clayton Farr,2021-01-12,Wordtune Deal (2021-01-12),3984,"","",Closed lost,2021-02-02,"",
+Wikibox,wikibox.com,Sales Pipeline,Clayton Farr,2021-07-06,Wikibox Deal (2021-07-06),3586,"","",Closed lost,2021-08-07,"",
+Topiczoom,topiczoom.com,Sales Pipeline,Clayton Farr,2021-07-11,Topiczoom Deal (2021-07-11),1691,"","",Qualified to buy,2021-08-02,"",
+Jatri,jatri.com,Sales Pipeline,Clayton Farr,2020-02-14,Jatri Deal (2020-02-14),3898,"","",Closed lost,2020-03-26,"",
+Einti,einti.com,Sales Pipeline,Test User 2,2020-05-30,Einti Deal (2020-05-30),2277,"","",Closed lost,2020-07-14,"",
+Voonix,voonix.com,Sales Pipeline,Test User 2,2020-01-31,Voonix Deal (2020-01-31),3505,"","",Closed lost,2020-02-16,"",High
+Twitterlist,twitterlist.com,Sales Pipeline,Test User 2,2020-05-05,Twitterlist Deal (2020-05-05),1954,"","",Closed lost,2020-05-21,"",
+Izio,izio.com,Sales Pipeline,Test User 2,2021-12-23,Izio Deal (2021-12-23),793,"","",Contract sent,2022-02-03,"",
+Oba,oba.com,Sales Pipeline,Test User 2,2020-02-26,Oba Deal (2020-02-26),1702,"","",Closed lost,2020-03-20,"",
+Skyndu,skyndu.com,Sales Pipeline,Test User 2,2020-06-27,Skyndu Deal (2020-06-27),3228,"","",Contract sent,2020-08-01,"",
+Wordware,wordware.com,Sales Pipeline,Test User 2,2021-01-29,Wordware Deal (2021-01-29),1723,"","",Closed lost,2021-03-03,"",
+Trilith,trilith.com,Sales Pipeline,Clayton Farr,2020-10-31,Trilith Deal (2020-10-31),3526,"","",Closed won,2020-11-28,2020-11-28,High
+Skiba,skiba.com,Sales Pipeline,Clayton Farr,2020-04-05,Skiba Deal (2020-04-05),4712,"","",Closed lost,2020-05-15,"",High
+Topiczoom,topiczoom.com,Sales Pipeline,Clayton Farr,2021-09-26,Topiczoom Deal (2021-09-26),4941,"","",Closed lost,2021-10-19,"",Low
+InnoZ,innoz.com,Sales Pipeline,Test User 2,2021-04-25,InnoZ Deal (2021-04-25),997,"","",Closed won,2021-06-02,2021-06-02,High
+Browseblab,browseblab.com,Sales Pipeline,Test User 2,2021-02-02,Browseblab Deal (2021-02-02),1124,"","",Closed lost,2021-03-02,"",High
+Wikibox,wikibox.com,Sales Pipeline,Test User 2,2020-06-09,Wikibox Deal (2020-06-09),1338,"","",Contract sent,2020-07-22,"",
+Plambee,plambee.com,Sales Pipeline,Test User 2,2021-01-08,Plambee Deal (2021-01-08),1439,"","",Presentation scheduled,2021-02-21,"",Low
+Tekfly,tekfly.com,Sales Pipeline,Test User 2,2021-02-12,Tekfly Deal (2021-02-12),512,"","",Closed lost,2021-03-24,"",
+Zava,zava.com,Sales Pipeline,Clayton Farr,2020-11-03,Zava Deal (2020-11-03),2191,"","",Closed lost,2020-11-30,"",
+Skinte,skinte.com,Sales Pipeline,Clayton Farr,2021-11-05,Skinte Deal (2021-11-05),721,"","",Appointment scheduled,2021-12-20,"",
+Npath,npath.com,Sales Pipeline,Test User 2,2020-10-06,Npath Deal (2020-10-06),2143,"","",Closed lost,2020-11-20,"",Medium
+Blognation,blognation.com,Sales Pipeline,Clayton Farr,2021-09-04,Blognation Deal (2021-09-04),3472,"","",Closed lost,2021-10-07,"",
+Skyvu,skyvu.com,Sales Pipeline,Clayton Farr,2020-09-13,Skyvu Deal (2020-09-13),4059,"","",Closed won,2020-10-25,2020-10-25,
+Skiba,skiba.com,Sales Pipeline,Clayton Farr,2020-07-09,Skiba Deal (2020-07-09),3950,"","",Closed won,2020-07-29,2020-07-29,
+Browsebug,browsebug.com,Sales Pipeline,Test User 2,2021-10-16,Browsebug Deal (2021-10-16),1342,"","",Closed lost,2021-11-13,"",
+Mydo,mydo.com,Sales Pipeline,Clayton Farr,2021-05-26,Mydo Deal (2021-05-26),3854,"","",Closed won,2021-06-27,2021-06-27,
+Zoovu,zoovu.com,Sales Pipeline,Test User 2,2020-03-27,Zoovu Deal (2020-03-27),875,"","",Qualified to buy,2020-04-12,"",
+Skyba,skyba.com,Sales Pipeline,Clayton Farr,2021-10-15,Skyba Deal (2021-10-15),1122,"","",Closed lost,2021-11-11,"",
+Yotz,yotz.com,Sales Pipeline,Clayton Farr,2021-12-06,Yotz Deal (2021-12-06),3808,"","",Closed lost,2022-01-04,"",High
+Aibox,aibox.com,Sales Pipeline,Clayton Farr,2021-07-28,Aibox Deal (2021-07-28),2131,"","",Closed lost,2021-08-18,"",
+Thoughtblab,thoughtblab.com,Sales Pipeline,Clayton Farr,2021-06-27,Thoughtblab Deal (2021-06-27),4795,"","",Closed won,2021-08-05,2021-08-05,
+Topiczoom,topiczoom.com,Sales Pipeline,Test User 2,2020-10-19,Topiczoom Deal (2020-10-19),1614,"","",Closed lost,2020-12-03,"",Medium
+Mydo,mydo.com,Sales Pipeline,Test User 2,2021-09-27,Mydo Deal (2021-09-27),249,"","",Appointment scheduled,2021-10-13,"",Medium
+Agivu,agivu.com,Sales Pipeline,Test User 2,2020-04-27,Agivu Deal (2020-04-27),4747,"","",Decision maker bought-In,2020-06-10,"",Medium
+Blogpad,blogpad.com,Sales Pipeline,Clayton Farr,2020-11-29,Blogpad Deal (2020-11-29),416,"","",Closed lost,2020-12-26,"",Medium
+Rooxo,rooxo.com,Sales Pipeline,Test User 2,2020-04-22,Rooxo Deal (2020-04-22),225,"","",Closed lost,2020-05-08,"",
+Wordtune,wordtune.com,Sales Pipeline,Test User 2,2020-12-12,Wordtune Deal (2020-12-12),3874,"","",Closed lost,2021-01-04,"",
+Edgeclub,edgeclub.com,Sales Pipeline,Clayton Farr,2020-10-24,Edgeclub Deal (2020-10-24),4353,"","",Closed lost,2020-11-19,"",
+Avamm,avamm.com,Sales Pipeline,Test User 2,2020-03-15,Avamm Deal (2020-03-15),1171,"","",Closed lost,2020-04-17,"",Low
+Yodoo,yodoo.com,Sales Pipeline,Clayton Farr,2020-10-28,Yodoo Deal (2020-10-28),3798,"","",Closed lost,2020-11-17,"",
+Yoveo,yoveo.com,Sales Pipeline,Clayton Farr,2020-10-16,Yoveo Deal (2020-10-16),3595,"","",Closed won,2020-11-20,2020-11-20,
+Skalith,skalith.com,Sales Pipeline,Test User 2,2020-06-05,Skalith Deal (2020-06-05),3146,"","",Appointment scheduled,2020-06-27,"",Medium
+Vimbo,vimbo.com,Sales Pipeline,Test User 2,2020-02-08,Vimbo Deal (2020-02-08),1288,"","",Closed won,2020-02-27,2020-02-27,
+Jaxworks,jaxworks.com,Sales Pipeline,Clayton Farr,2020-10-04,Jaxworks Deal (2020-10-04),4679,"","",Decision maker bought-In,2020-10-28,"",
+Fivespan,fivespan.com,Sales Pipeline,Clayton Farr,2020-03-25,Fivespan Deal (2020-03-25),3019,"","",Closed lost,2020-05-08,"",
+Cogidoo,cogidoo.com,Sales Pipeline,Test User 2,2020-03-30,Cogidoo Deal (2020-03-30),2530,"","",Closed lost,2020-04-22,"",High
+Agimba,agimba.com,Sales Pipeline,Test User 2,2021-06-12,Agimba Deal (2021-06-12),4485,"","",Closed lost,2021-06-28,"",Low
+Gevee,gevee.com,Sales Pipeline,Test User 2,2021-05-24,Gevee Deal (2021-05-24),1951,"","",Closed won,2021-06-18,2021-06-18,
+Lazzy,lazzy.com,Sales Pipeline,Clayton Farr,2020-05-22,Lazzy Deal (2020-05-22),3309,"","",Closed won,2020-07-04,2020-07-04,Medium
+Plambee,plambee.com,Sales Pipeline,Test User 2,2020-05-24,Plambee Deal (2020-05-24),1692,"","",Contract sent,2020-06-20,"",
+Mita,mita.com,Sales Pipeline,Test User 2,2021-07-13,Mita Deal (2021-07-13),4419,"","",Closed lost,2021-08-01,"",
+Fivespan,fivespan.com,Sales Pipeline,Test User 2,2021-06-06,Fivespan Deal (2021-06-06),477,"","",Closed lost,2021-07-09,"",Low
+Twitternation,twitternation.com,Sales Pipeline,Clayton Farr,2021-03-18,Twitternation Deal (2021-03-18),3652,"","",Closed lost,2021-04-19,"",
+Janyx,janyx.com,Sales Pipeline,Clayton Farr,2020-07-16,Janyx Deal (2020-07-16),2269,"","",Closed lost,2020-08-17,"",
+Izio,izio.com,Sales Pipeline,Clayton Farr,2020-09-25,Izio Deal (2020-09-25),2427,"","",Closed won,2020-10-28,2020-10-28,
+Voonte,voonte.com,Sales Pipeline,Clayton Farr,2021-09-16,Voonte Deal (2021-09-16),2560,"","",Appointment scheduled,2021-10-20,"",Low
+Yambee,yambee.com,Sales Pipeline,Test User 2,2020-07-02,Yambee Deal (2020-07-02),3336,"","",Closed won,2020-08-02,2020-08-02,Low
+Youtags,youtags.com,Sales Pipeline,Test User 2,2020-01-22,Youtags Deal (2020-01-22),3508,"","",Closed lost,2020-03-03,"",
+Wikibox,wikibox.com,Sales Pipeline,Clayton Farr,2020-04-23,Wikibox Deal (2020-04-23),2047,"","",Closed lost,2020-06-06,"",High
+Zooveo,zooveo.com,Sales Pipeline,Test User 2,2020-02-15,Zooveo Deal (2020-02-15),1644,"","",Closed won,2020-03-17,2020-03-17,
+Skyvu,skyvu.com,Sales Pipeline,Test User 2,2020-09-10,Skyvu Deal (2020-09-10),2471,"","",Qualified to buy,2020-10-09,"",Low
+Kazu,kazu.com,Sales Pipeline,Clayton Farr,2021-08-05,Kazu Deal (2021-08-05),2190,"","",Closed lost,2021-08-22,"",
+Nlounge,nlounge.com,Sales Pipeline,Clayton Farr,2020-07-10,Nlounge Deal (2020-07-10),1780,"","",Closed won,2020-07-30,2020-07-30,
+Skiba,skiba.com,Sales Pipeline,Clayton Farr,2021-11-25,Skiba Deal (2021-11-25),269,"","",Closed lost,2021-12-21,"",
+Eayo,eayo.com,Sales Pipeline,Test User 2,2021-03-04,Eayo Deal (2021-03-04),3800,"","",Closed lost,2021-03-23,"",
+Plambee,plambee.com,Sales Pipeline,Test User 2,2020-12-07,Plambee Deal (2020-12-07),2493,"","",Closed lost,2020-12-28,"",
+Eamia,eamia.com,Sales Pipeline,Test User 2,2021-11-16,Eamia Deal (2021-11-16),2639,"","",Closed lost,2021-12-06,"",
+Devshare,devshare.com,Sales Pipeline,Test User 2,2020-12-28,Devshare Deal (2020-12-28),4255,"","",Closed won,2021-01-12,2021-01-12,
+JumpXS,jumpxs.com,Sales Pipeline,Clayton Farr,2021-03-08,JumpXS Deal (2021-03-08),811,"","",Closed lost,2021-03-23,"",
+Jatri,jatri.com,Sales Pipeline,Test User 2,2020-10-16,Jatri Deal (2020-10-16),2203,"","",Closed lost,2020-11-10,"",Low
+Npath,npath.com,Sales Pipeline,Clayton Farr,2021-05-29,Npath Deal (2021-05-29),146,"","",Closed won,2021-06-23,2021-06-23,
+Wordpedia,wordpedia.com,Sales Pipeline,Clayton Farr,2021-10-16,Wordpedia Deal (2021-10-16),2954,"","",Closed lost,2021-11-21,"",Low
+Viva,viva.com,Sales Pipeline,Clayton Farr,2021-06-13,Viva Deal (2021-06-13),782,"","",Closed won,2021-07-16,2021-07-16,
+Feednation,feednation.com,Sales Pipeline,Clayton Farr,2020-09-22,Feednation Deal (2020-09-22),3074,"","",Closed won,2020-10-13,2020-10-13,
+Meezzy,meezzy.com,Sales Pipeline,Clayton Farr,2020-04-11,Meezzy Deal (2020-04-11),1678,"","",Closed won,2020-05-24,2020-05-24,
+Realcube,realcube.com,Sales Pipeline,Test User 2,2020-10-21,Realcube Deal (2020-10-21),1723,"","",Closed lost,2020-11-12,"",
+Jabbersphere,jabbersphere.com,Sales Pipeline,Clayton Farr,2020-07-28,Jabbersphere Deal (2020-07-28),2758,"","",Closed lost,2020-09-04,"",
+Browsebug,browsebug.com,Sales Pipeline,Clayton Farr,2021-04-12,Browsebug Deal (2021-04-12),1739,"","",Closed lost,2021-04-30,"",
+Jaxnation,jaxnation.com,Sales Pipeline,Clayton Farr,2021-11-02,Jaxnation Deal (2021-11-02),1132,"","",Closed won,2021-11-27,2021-11-27,
+Mydeo,mydeo.com,Sales Pipeline,Test User 2,2021-10-09,Mydeo Deal (2021-10-09),3483,"","",Closed lost,2021-11-09,"",Low
+Quimm,quimm.com,Sales Pipeline,Test User 2,2020-02-08,Quimm Deal (2020-02-08),3714,"","",Closed won,2020-02-24,2020-02-24,
+Agivu,agivu.com,Sales Pipeline,Clayton Farr,2021-08-24,Agivu Deal (2021-08-24),2790,"","",Closed won,2021-09-17,2021-09-17,High
+Vimbo,vimbo.com,Sales Pipeline,Test User 2,2021-04-10,Vimbo Deal (2021-04-10),1955,"","",Decision maker bought-In,2021-05-17,"",
+Dynabox,dynabox.com,Sales Pipeline,Clayton Farr,2020-11-13,Dynabox Deal (2020-11-13),1596,"","",Qualified to buy,2020-12-13,"",
+Browsecat,browsecat.com,Sales Pipeline,Test User 2,2021-02-21,Browsecat Deal (2021-02-21),3602,"","",Closed lost,2021-04-07,"",
+Kazu,kazu.com,Sales Pipeline,Test User 2,2020-12-16,Kazu Deal (2020-12-16),2246,"","",Closed lost,2021-01-30,"",
+Avamm,avamm.com,Sales Pipeline,Clayton Farr,2021-01-26,Avamm Deal (2021-01-26),116,"","",Appointment scheduled,2021-02-26,"",High
+Izio,izio.com,Sales Pipeline,Test User 2,2020-09-13,Izio Deal (2020-09-13),3715,"","",Closed lost,2020-10-07,"",
+Blogspan,blogspan.com,Sales Pipeline,Clayton Farr,2021-06-03,Blogspan Deal (2021-06-03),3210,"","",Closed lost,2021-07-17,"",
+Topicstorm,topicstorm.com,Sales Pipeline,Test User 2,2021-12-03,Topicstorm Deal (2021-12-03),4250,"","",Closed lost,2021-12-20,"",
+Agimba,agimba.com,Sales Pipeline,Clayton Farr,2020-04-18,Agimba Deal (2020-04-18),2813,"","",Closed lost,2020-05-22,"",
+Avaveo,avaveo.com,Sales Pipeline,Test User 2,2021-09-04,Avaveo Deal (2021-09-04),4253,"","",Closed won,2021-10-11,2021-10-11,
+Eire,eire.com,Sales Pipeline,Test User 2,2021-06-27,Eire Deal (2021-06-27),4411,"","",Closed lost,2021-07-13,"",Low
+Innojam,innojam.com,Sales Pipeline,Test User 2,2020-06-13,Innojam Deal (2020-06-13),2128,"","",Closed lost,2020-07-21,"",Low
+Jayo,jayo.com,Sales Pipeline,Clayton Farr,2020-09-15,Jayo Deal (2020-09-15),1560,"","",Closed lost,2020-10-22,"",
+Jabbersphere,jabbersphere.com,Sales Pipeline,Test User 2,2021-07-19,Jabbersphere Deal (2021-07-19),488,"","",Closed lost,2021-08-23,"",
+Bubbletube,bubbletube.com,Sales Pipeline,Clayton Farr,2021-10-30,Bubbletube Deal (2021-10-30),2104,"","",Closed won,2021-12-01,2021-12-01,
+Avamm,avamm.com,Sales Pipeline,Test User 2,2020-02-07,Avamm Deal (2020-02-07),331,"","",Closed lost,2020-03-20,"",
+Yakidoo,yakidoo.com,Sales Pipeline,Clayton Farr,2020-03-29,Yakidoo Deal (2020-03-29),1161,"","",Closed lost,2020-05-07,"",
+Browsebug,browsebug.com,Sales Pipeline,Test User 2,2020-06-20,Browsebug Deal (2020-06-20),3076,"","",Closed lost,2020-07-18,"",
+Trilith,trilith.com,Sales Pipeline,Test User 2,2021-09-11,Trilith Deal (2021-09-11),1470,"","",Closed lost,2021-10-11,"",
+Jaxnation,jaxnation.com,Sales Pipeline,Clayton Farr,2021-09-20,Jaxnation Deal (2021-09-20),2813,"","",Appointment scheduled,2021-10-05,"",
+Meezzy,meezzy.com,Sales Pipeline,Clayton Farr,2020-11-20,Meezzy Deal (2020-11-20),2428,"","",Closed lost,2020-12-17,"",
+Bubblebox,bubblebox.com,Sales Pipeline,Clayton Farr,2020-08-08,Bubblebox Deal (2020-08-08),2631,"","",Closed lost,2020-09-16,"",High
+Jetwire,jetwire.com,Sales Pipeline,Test User 2,2021-07-13,Jetwire Deal (2021-07-13),1809,"","",Appointment scheduled,2021-08-14,"",Medium
+Skippad,skippad.com,Sales Pipeline,Clayton Farr,2020-02-11,Skippad Deal (2020-02-11),3140,"","",Closed won,2020-03-05,2020-03-05,High
+Yoveo,yoveo.com,Sales Pipeline,Test User 2,2021-01-24,Yoveo Deal (2021-01-24),3249,"","",Closed won,2021-02-20,2021-02-20,Medium
+Centidel,centidel.com,Sales Pipeline,Clayton Farr,2021-06-18,Centidel Deal (2021-06-18),2647,"","",Closed won,2021-07-15,2021-07-15,High
+JumpXS,jumpxs.com,Sales Pipeline,Clayton Farr,2021-08-31,JumpXS Deal (2021-08-31),3564,"","",Closed lost,2021-10-09,"",Low
+Browsedrive,browsedrive.com,Sales Pipeline,Clayton Farr,2020-03-22,Browsedrive Deal (2020-03-22),2194,"","",Closed won,2020-04-18,2020-04-18,
+Yodel,yodel.com,Sales Pipeline,Clayton Farr,2020-07-04,Yodel Deal (2020-07-04),1609,"","",Closed won,2020-08-04,2020-08-04,
+Minyx,minyx.com,Sales Pipeline,Test User 2,2021-10-15,Minyx Deal (2021-10-15),1023,"","",Closed lost,2021-11-09,"",
+Zoozzy,zoozzy.com,Sales Pipeline,Test User 2,2021-12-04,Zoozzy Deal (2021-12-04),2825,"","",Closed lost,2022-01-16,"",Medium
+Abata,abata.com,Sales Pipeline,Test User 2,2020-09-10,Abata Deal (2020-09-10),2984,"","",Closed won,2020-10-06,2020-10-06,
+Wordpedia,wordpedia.com,Sales Pipeline,Clayton Farr,2020-01-18,Wordpedia Deal (2020-01-18),3010,"","",Closed lost,2020-02-28,"",High
+Skyvu,skyvu.com,Sales Pipeline,Clayton Farr,2020-04-23,Skyvu Deal (2020-04-23),263,"","",Closed lost,2020-06-06,"",
+Eare,eare.com,Sales Pipeline,Test User 2,2021-11-26,Eare Deal (2021-11-26),4442,"","",Decision maker bought-In,2021-12-16,"",
+Skaboo,skaboo.com,Sales Pipeline,Test User 2,2021-04-23,Skaboo Deal (2021-04-23),1074,"","",Closed lost,2021-06-06,"",Low
+Flashpoint,flashpoint.com,Sales Pipeline,Test User 2,2020-07-05,Flashpoint Deal (2020-07-05),4272,"","",Qualified to buy,2020-08-18,"",Medium
+Feednation,feednation.com,Sales Pipeline,Test User 2,2020-01-25,Feednation Deal (2020-01-25),835,"","",Closed lost,2020-03-01,"",
+Youspan,youspan.com,Sales Pipeline,Clayton Farr,2021-08-09,Youspan Deal (2021-08-09),3029,"","",Closed won,2021-09-10,2021-09-10,
+Miboo,miboo.com,Sales Pipeline,Clayton Farr,2021-05-18,Miboo Deal (2021-05-18),2474,"","",Closed won,2021-06-26,2021-06-26,Medium
+Zava,zava.com,Sales Pipeline,Clayton Farr,2021-10-07,Zava Deal (2021-10-07),1395,"","",Closed won,2021-11-18,2021-11-18,High
+Trilith,trilith.com,Sales Pipeline,Clayton Farr,2021-08-01,Trilith Deal (2021-08-01),1815,"","",Closed won,2021-08-31,2021-08-31,
+Dynabox,dynabox.com,Sales Pipeline,Clayton Farr,2021-05-01,Dynabox Deal (2021-05-01),379,"","",Closed lost,2021-06-15,"",
+Yombu,yombu.com,Sales Pipeline,Test User 2,2021-06-19,Yombu Deal (2021-06-19),2512,"","",Closed lost,2021-07-06,"",Medium
+Muxo,muxo.com,Sales Pipeline,Test User 2,2021-12-02,Muxo Deal (2021-12-02),1071,"","",Closed won,2022-01-03,2022-01-03,Low
+Brainsphere,brainsphere.com,Sales Pipeline,Clayton Farr,2021-12-21,Brainsphere Deal (2021-12-21),699,"","",Closed won,2022-01-23,2022-01-23,High
+Twitternation,twitternation.com,Sales Pipeline,Clayton Farr,2021-05-22,Twitternation Deal (2021-05-22),3270,"","",Closed lost,2021-06-17,"",
+Trilith,trilith.com,Sales Pipeline,Clayton Farr,2021-02-27,Trilith Deal (2021-02-27),3614,"","",Closed won,2021-03-24,2021-03-24,
+Thoughtsphere,thoughtsphere.com,Sales Pipeline,Clayton Farr,2020-11-18,Thoughtsphere Deal (2020-11-18),828,"","",Decision maker bought-In,2021-01-02,"",Low
+Meeveo,meeveo.com,Sales Pipeline,Test User 2,2020-01-25,Meeveo Deal (2020-01-25),686,"","",Closed lost,2020-03-03,"",Low
+Jayo,jayo.com,Sales Pipeline,Clayton Farr,2021-01-13,Jayo Deal (2021-01-13),502,"","",Closed lost,2021-02-22,"",
+Jaloo,jaloo.com,Sales Pipeline,Clayton Farr,2021-02-02,Jaloo Deal (2021-02-02),4309,"","",Closed won,2021-02-24,2021-02-24,Medium
+Cogilith,cogilith.com,Sales Pipeline,Test User 2,2021-12-01,Cogilith Deal (2021-12-01),1837,"","",Closed lost,2022-01-13,"",
+Kazu,kazu.com,Sales Pipeline,Test User 2,2020-09-26,Kazu Deal (2020-09-26),1868,"","",Closed lost,2020-11-01,"",Medium
+Jayo,jayo.com,Sales Pipeline,Test User 2,2021-03-09,Jayo Deal (2021-03-09),1023,"","",Closed lost,2021-04-13,"",Low
+Youbridge,youbridge.com,Sales Pipeline,Test User 2,2021-08-09,Youbridge Deal (2021-08-09),4917,"","",Closed lost,2021-09-02,"",Medium
+Eamia,eamia.com,Sales Pipeline,Clayton Farr,2021-06-26,Eamia Deal (2021-06-26),304,"","",Closed won,2021-08-07,2021-08-07,
+Muxo,muxo.com,Sales Pipeline,Clayton Farr,2020-10-09,Muxo Deal (2020-10-09),3492,"","",Closed lost,2020-10-27,"",
+Gabtune,gabtune.com,Sales Pipeline,Test User 2,2020-11-30,Gabtune Deal (2020-11-30),375,"","",Closed won,2020-12-18,2020-12-18,Medium
+Twitternation,twitternation.com,Sales Pipeline,Clayton Farr,2020-06-14,Twitternation Deal (2020-06-14),822,"","",Closed lost,2020-07-27,"",Low
+Gigashots,gigashots.com,Sales Pipeline,Test User 2,2021-10-15,Gigashots Deal (2021-10-15),4591,"","",Qualified to buy,2021-11-28,"",Low
+Twinte,twinte.com,Sales Pipeline,Clayton Farr,2020-01-27,Twinte Deal (2020-01-27),1629,"","",Closed lost,2020-02-28,"",
+Einti,einti.com,Sales Pipeline,Test User 2,2020-11-05,Einti Deal (2020-11-05),4048,"","",Closed lost,2020-12-07,"",Medium
+Camido,camido.com,Sales Pipeline,Clayton Farr,2020-01-16,Camido Deal (2020-01-16),4057,"","",Closed lost,2020-02-21,"",Low
+Gabspot,gabspot.com,Sales Pipeline,Test User 2,2020-03-10,Gabspot Deal (2020-03-10),2383,"","",Closed won,2020-04-09,2020-04-09,Low
+Muxo,muxo.com,Sales Pipeline,Clayton Farr,2020-06-18,Muxo Deal (2020-06-18),3122,"","",Closed won,2020-08-01,2020-08-01,Medium
+Viva,viva.com,Sales Pipeline,Test User 2,2021-10-06,Viva Deal (2021-10-06),586,"","",Closed won,2021-10-21,2021-10-21,Low
+Fivespan,fivespan.com,Sales Pipeline,Clayton Farr,2020-07-29,Fivespan Deal (2020-07-29),812,"","",Closed lost,2020-08-23,"",
+Wikibox,wikibox.com,Sales Pipeline,Test User 2,2020-01-20,Wikibox Deal (2020-01-20),2199,"","",Presentation scheduled,2020-02-10,"",Low
+Thoughtstorm,thoughtstorm.com,Sales Pipeline,Clayton Farr,2020-10-12,Thoughtstorm Deal (2020-10-12),3220,"","",Closed won,2020-10-31,2020-10-31,High
+Oyope,oyope.com,Sales Pipeline,Test User 2,2021-01-05,Oyope Deal (2021-01-05),4778,"","",Closed won,2021-02-10,2021-02-10,
+Meezzy,meezzy.com,Sales Pipeline,Test User 2,2020-11-27,Meezzy Deal (2020-11-27),3322,"","",Closed lost,2020-12-17,"",Low
+Chatterbridge,chatterbridge.com,Sales Pipeline,Test User 2,2021-04-23,Chatterbridge Deal (2021-04-23),3495,"","",Closed lost,2021-05-16,"",
+Mydo,mydo.com,Sales Pipeline,Clayton Farr,2021-06-08,Mydo Deal (2021-06-08),3015,"","",Closed won,2021-07-21,2021-07-21,
+Skyndu,skyndu.com,Sales Pipeline,Test User 2,2021-01-13,Skyndu Deal (2021-01-13),3562,"","",Closed won,2021-02-10,2021-02-10,
+Eayo,eayo.com,Sales Pipeline,Clayton Farr,2020-10-26,Eayo Deal (2020-10-26),1218,"","",Closed won,2020-11-15,2020-11-15,
+Trilith,trilith.com,Sales Pipeline,Test User 2,2020-11-12,Trilith Deal (2020-11-12),1961,"","",Closed lost,2020-12-26,"",
+Innojam,innojam.com,Sales Pipeline,Test User 2,2020-04-08,Innojam Deal (2020-04-08),359,"","",Closed lost,2020-05-07,"",
+Browsebug,browsebug.com,Sales Pipeline,Test User 2,2020-07-13,Browsebug Deal (2020-07-13),2362,"","",Closed lost,2020-07-30,"",
+Pixonyx,pixonyx.com,Sales Pipeline,Test User 2,2021-09-04,Pixonyx Deal (2021-09-04),4736,"","",Closed lost,2021-09-23,"",
+Topiczoom,topiczoom.com,Sales Pipeline,Test User 2,2021-10-08,Topiczoom Deal (2021-10-08),313,"","",Decision maker bought-In,2021-11-02,"",Low
+Eidel,eidel.com,Sales Pipeline,Clayton Farr,2021-04-28,Eidel Deal (2021-04-28),1451,"","",Closed won,2021-06-12,2021-06-12,
+Leenti,leenti.com,Sales Pipeline,Clayton Farr,2020-08-24,Leenti Deal (2020-08-24),2965,"","",Closed lost,2020-10-02,"",
+Cogidoo,cogidoo.com,Sales Pipeline,Clayton Farr,2020-06-05,Cogidoo Deal (2020-06-05),4167,"","",Appointment scheduled,2020-06-21,"",Medium
+Topiczoom,topiczoom.com,Sales Pipeline,Clayton Farr,2020-05-09,Topiczoom Deal (2020-05-09),206,"","",Closed won,2020-06-10,2020-06-10,
+Kaymbo,kaymbo.com,Sales Pipeline,Test User 2,2020-05-23,Kaymbo Deal (2020-05-23),1651,"","",Closed lost,2020-06-07,"",Low
+Ntags,ntags.com,Sales Pipeline,Test User 2,2021-05-12,Ntags Deal (2021-05-12),4809,"","",Closed lost,2021-06-04,"",
+Dabtype,dabtype.com,Sales Pipeline,Clayton Farr,2020-07-02,Dabtype Deal (2020-07-02),1573,"","",Closed won,2020-07-20,2020-07-20,Low
+Fatz,fatz.com,Sales Pipeline,Test User 2,2021-03-19,Fatz Deal (2021-03-19),1978,"","",Closed lost,2021-04-17,"",
+Voonix,voonix.com,Sales Pipeline,Test User 2,2020-03-10,Voonix Deal (2020-03-10),3645,"","",Closed won,2020-04-02,2020-04-02,
+Voonix,voonix.com,Sales Pipeline,Clayton Farr,2021-05-17,Voonix Deal (2021-05-17),4051,"","",Closed won,2021-06-07,2021-06-07,
+Skyndu,skyndu.com,Sales Pipeline,Test User 2,2021-05-28,Skyndu Deal (2021-05-28),831,"","",Closed won,2021-06-15,2021-06-15,
+Abatz,abatz.com,Sales Pipeline,Test User 2,2021-09-09,Abatz Deal (2021-09-09),2917,"","",Closed won,2021-10-20,2021-10-20,
+Kaymbo,kaymbo.com,Sales Pipeline,Clayton Farr,2020-10-18,Kaymbo Deal (2020-10-18),2492,"","",Closed won,2020-11-14,2020-11-14,
+Vimbo,vimbo.com,Sales Pipeline,Clayton Farr,2020-09-30,Vimbo Deal (2020-09-30),3373,"","",Closed lost,2020-10-17,"",
+Edgetag,edgetag.com,Sales Pipeline,Clayton Farr,2021-04-03,Edgetag Deal (2021-04-03),104,"","",Closed won,2021-04-25,2021-04-25,
+JumpXS,jumpxs.com,Sales Pipeline,Clayton Farr,2021-08-30,JumpXS Deal (2021-08-30),3909,"","",Closed won,2021-09-22,2021-09-22,Medium
+Gevee,gevee.com,Sales Pipeline,Clayton Farr,2021-11-12,Gevee Deal (2021-11-12),896,"","",Closed won,2021-12-01,2021-12-01,High
+Lazzy,lazzy.com,Sales Pipeline,Clayton Farr,2020-07-21,Lazzy Deal (2020-07-21),1637,"","",Closed lost,2020-08-08,"",Medium
+Browsebug,browsebug.com,Sales Pipeline,Test User 2,2021-09-08,Browsebug Deal (2021-09-08),215,"","",Contract sent,2021-10-22,"",Low
+Realbridge,realbridge.com,Sales Pipeline,Test User 2,2020-11-17,Realbridge Deal (2020-11-17),2175,"","",Closed lost,2020-12-21,"",
+Eayo,eayo.com,Sales Pipeline,Clayton Farr,2020-08-09,Eayo Deal (2020-08-09),727,"","",Closed lost,2020-09-22,"",
+Photofeed,photofeed.com,Sales Pipeline,Clayton Farr,2021-04-05,Photofeed Deal (2021-04-05),2410,"","",Closed lost,2021-05-11,"",
+Ntag,ntag.com,Sales Pipeline,Test User 2,2020-03-17,Ntag Deal (2020-03-17),4205,"","",Closed lost,2020-04-16,"",
+Aibox,aibox.com,Sales Pipeline,Test User 2,2020-09-01,Aibox Deal (2020-09-01),4811,"","",Closed lost,2020-09-18,"",High
+Yakijo,yakijo.com,Sales Pipeline,Test User 2,2021-01-02,Yakijo Deal (2021-01-02),653,"","",Contract sent,2021-02-14,"",
+MeejoMeemm,meejomeemm.com,Sales Pipeline,Test User 2,2021-04-23,MeejoMeemm Deal (2021-04-23),2313,"","",Closed won,2021-06-05,2021-06-05,
+Youtags,youtags.com,Sales Pipeline,Clayton Farr,2020-12-21,Youtags Deal (2020-12-21),4242,"","",Closed lost,2021-01-05,"",
+Photobug,photobug.com,Sales Pipeline,Clayton Farr,2021-10-22,Photobug Deal (2021-10-22),4640,"","",Closed lost,2021-11-25,"",Medium
+Zooveo,zooveo.com,Sales Pipeline,Test User 2,2021-10-10,Zooveo Deal (2021-10-10),935,"","",Contract sent,2021-11-05,"",
+Realcube,realcube.com,Sales Pipeline,Clayton Farr,2021-03-22,Realcube Deal (2021-03-22),123,"","",Closed won,2021-04-14,2021-04-14,
+Yodoo,yodoo.com,Sales Pipeline,Clayton Farr,2021-09-15,Yodoo Deal (2021-09-15),2367,"","",Closed won,2021-10-12,2021-10-12,High
+Browsedrive,browsedrive.com,Sales Pipeline,Test User 2,2021-01-25,Browsedrive Deal (2021-01-25),4824,"","",Closed lost,2021-02-12,"",
+Youtags,youtags.com,Sales Pipeline,Test User 2,2020-08-17,Youtags Deal (2020-08-17),1050,"","",Closed won,2020-09-18,2020-09-18,High
+Eamia,eamia.com,Sales Pipeline,Clayton Farr,2021-04-03,Eamia Deal (2021-04-03),4764,"","",Closed lost,2021-05-11,"",
+Roomm,roomm.com,Sales Pipeline,Test User 2,2021-01-12,Roomm Deal (2021-01-12),1752,"","",Closed lost,2021-01-31,"",Low
+Dynabox,dynabox.com,Sales Pipeline,Clayton Farr,2021-01-14,Dynabox Deal (2021-01-14),3084,"","",Closed lost,2021-02-19,"",Medium
+Skyndu,skyndu.com,Sales Pipeline,Clayton Farr,2021-08-23,Skyndu Deal (2021-08-23),412,"","",Closed lost,2021-10-02,"",
+BlogXS,blogxs.com,Sales Pipeline,Test User 2,2020-12-25,BlogXS Deal (2020-12-25),4069,"","",Closed won,2021-01-14,2021-01-14,
+Topiczoom,topiczoom.com,Sales Pipeline,Test User 2,2021-12-17,Topiczoom Deal (2021-12-17),1234,"","",Closed won,2022-01-29,2022-01-29,
+Izio,izio.com,Sales Pipeline,Clayton Farr,2021-10-14,Izio Deal (2021-10-14),2389,"","",Qualified to buy,2021-11-11,"",High
+Blogspan,blogspan.com,Sales Pipeline,Clayton Farr,2020-04-20,Blogspan Deal (2020-04-20),2985,"","",Closed won,2020-05-18,2020-05-18,Medium
+Dynabox,dynabox.com,Sales Pipeline,Clayton Farr,2021-11-04,Dynabox Deal (2021-11-04),288,"","",Closed lost,2021-12-02,"",
+Eire,eire.com,Sales Pipeline,Test User 2,2021-07-19,Eire Deal (2021-07-19),4403,"","",Closed won,2021-08-05,2021-08-05,Medium
+Yambee,yambee.com,Sales Pipeline,Test User 2,2020-05-10,Yambee Deal (2020-05-10),1724,"","",Closed lost,2020-06-10,"",High
+Skippad,skippad.com,Sales Pipeline,Clayton Farr,2020-04-12,Skippad Deal (2020-04-12),1301,"","",Closed lost,2020-05-05,"",
+Eare,eare.com,Sales Pipeline,Clayton Farr,2021-10-02,Eare Deal (2021-10-02),835,"","",Closed won,2021-11-13,2021-11-13,
+Dabvine,dabvine.com,Sales Pipeline,Test User 2,2021-12-06,Dabvine Deal (2021-12-06),3086,"","",Decision maker bought-In,2022-01-16,"",
+Yambee,yambee.com,Sales Pipeline,Clayton Farr,2021-04-04,Yambee Deal (2021-04-04),3500,"","",Closed lost,2021-05-03,"",Low
+Avaveo,avaveo.com,Sales Pipeline,Clayton Farr,2021-10-26,Avaveo Deal (2021-10-26),3340,"","",Decision maker bought-In,2021-11-21,"",Medium
+Blogtag,blogtag.com,Sales Pipeline,Clayton Farr,2020-06-16,Blogtag Deal (2020-06-16),729,"","",Closed won,2020-07-31,2020-07-31,
+Abatz,abatz.com,Sales Pipeline,Test User 2,2020-09-06,Abatz Deal (2020-09-06),2688,"","",Closed lost,2020-10-05,"",
+Yakidoo,yakidoo.com,Sales Pipeline,Clayton Farr,2020-07-24,Yakidoo Deal (2020-07-24),3676,"","",Closed lost,2020-08-25,"",
+Yakitri,yakitri.com,Sales Pipeline,Clayton Farr,2021-10-16,Yakitri Deal (2021-10-16),4085,"","",Closed won,2021-11-12,2021-11-12,
+JumpXS,jumpxs.com,Sales Pipeline,Test User 2,2020-06-05,JumpXS Deal (2020-06-05),2987,"","",Closed won,2020-06-30,2020-06-30,
+Cogilith,cogilith.com,Sales Pipeline,Clayton Farr,2021-09-05,Cogilith Deal (2021-09-05),3882,"","",Closed won,2021-09-20,2021-09-20,
+Youtags,youtags.com,Sales Pipeline,Clayton Farr,2021-09-13,Youtags Deal (2021-09-13),4689,"","",Qualified to buy,2021-10-12,"",
+Eazzy,eazzy.com,Sales Pipeline,Clayton Farr,2021-02-01,Eazzy Deal (2021-02-01),2088,"","",Closed lost,2021-02-27,"",
+Wordtune,wordtune.com,Sales Pipeline,Test User 2,2020-06-25,Wordtune Deal (2020-06-25),3301,"","",Closed lost,2020-07-12,"",Low
+Quinu,quinu.com,Sales Pipeline,Test User 2,2021-03-18,Quinu Deal (2021-03-18),769,"","",Contract sent,2021-04-23,"",
+Mydeo,mydeo.com,Sales Pipeline,Test User 2,2021-09-13,Mydeo Deal (2021-09-13),678,"","",Closed lost,2021-09-30,"",
+Edgetag,edgetag.com,Sales Pipeline,Clayton Farr,2020-11-09,Edgetag Deal (2020-11-09),1604,"","",Closed won,2020-12-08,2020-12-08,
+Oyope,oyope.com,Sales Pipeline,Test User 2,2020-07-26,Oyope Deal (2020-07-26),2112,"","",Closed lost,2020-09-08,"",High
+Mycat,mycat.com,Sales Pipeline,Clayton Farr,2021-05-17,Mycat Deal (2021-05-17),639,"","",Closed lost,2021-06-11,"",Low
+Yotz,yotz.com,Sales Pipeline,Clayton Farr,2020-02-23,Yotz Deal (2020-02-23),1705,"","",Closed lost,2020-03-31,"",
+Edgeclub,edgeclub.com,Sales Pipeline,Clayton Farr,2021-04-24,Edgeclub Deal (2021-04-24),3123,"","",Closed won,2021-05-19,2021-05-19,Medium
+Skinte,skinte.com,Sales Pipeline,Test User 2,2020-04-26,Skinte Deal (2020-04-26),1839,"","",Closed lost,2020-05-20,"",
+Skinte,skinte.com,Sales Pipeline,Clayton Farr,2020-03-09,Skinte Deal (2020-03-09),3185,"","",Closed won,2020-04-02,2020-04-02,Medium
+Devshare,devshare.com,Sales Pipeline,Clayton Farr,2021-07-30,Devshare Deal (2021-07-30),1176,"","",Decision maker bought-In,2021-08-28,"",
+Midel,midel.com,Sales Pipeline,Clayton Farr,2020-03-10,Midel Deal (2020-03-10),1830,"","",Closed won,2020-04-14,2020-04-14,Low
+Zava,zava.com,Sales Pipeline,Clayton Farr,2020-12-01,Zava Deal (2020-12-01),357,"","",Closed won,2021-01-10,2021-01-10,
+Miboo,miboo.com,Sales Pipeline,Clayton Farr,2021-12-21,Miboo Deal (2021-12-21),2847,"","",Contract sent,2022-01-25,"",High
+Bubblebox,bubblebox.com,Sales Pipeline,Clayton Farr,2021-06-17,Bubblebox Deal (2021-06-17),3074,"","",Closed lost,2021-07-08,"",Low
+Flipopia,flipopia.com,Sales Pipeline,Clayton Farr,2021-07-31,Flipopia Deal (2021-07-31),3424,"","",Closed won,2021-08-22,2021-08-22,
+Photofeed,photofeed.com,Sales Pipeline,Clayton Farr,2020-08-01,Photofeed Deal (2020-08-01),509,"","",Appointment scheduled,2020-09-04,"",
+Skyba,skyba.com,Sales Pipeline,Test User 2,2021-01-28,Skyba Deal (2021-01-28),3317,"","",Closed lost,2021-03-04,"",
+Quimm,quimm.com,Sales Pipeline,Clayton Farr,2021-07-28,Quimm Deal (2021-07-28),2180,"","",Closed won,2021-09-03,2021-09-03,Low
+Eamia,eamia.com,Sales Pipeline,Test User 2,2020-02-16,Eamia Deal (2020-02-16),3203,"","",Closed lost,2020-03-26,"",
+Jazzy,jazzy.com,Sales Pipeline,Test User 2,2020-02-07,Jazzy Deal (2020-02-07),568,"","",Closed lost,2020-03-12,"",Low
+Yabox,yabox.com,Sales Pipeline,Clayton Farr,2020-05-28,Yabox Deal (2020-05-28),2023,"","",Closed lost,2020-06-26,"",
+Kaymbo,kaymbo.com,Sales Pipeline,Clayton Farr,2020-09-11,Kaymbo Deal (2020-09-11),4542,"","",Closed won,2020-10-22,2020-10-22,Low
+Bubblemix,bubblemix.com,Sales Pipeline,Clayton Farr,2021-11-04,Bubblemix Deal (2021-11-04),3409,"","",Closed lost,2021-12-18,"",
+Topdrive,topdrive.com,Sales Pipeline,Test User 2,2021-07-28,Topdrive Deal (2021-07-28),3574,"","",Closed lost,2021-09-07,"",
+Fanoodle,fanoodle.com,Sales Pipeline,Test User 2,2020-12-27,Fanoodle Deal (2020-12-27),2636,"","",Closed lost,2021-02-02,"",
+Cogilith,cogilith.com,Sales Pipeline,Test User 2,2021-11-13,Cogilith Deal (2021-11-13),2418,"","",Closed lost,2021-12-01,"",
+Vimbo,vimbo.com,Sales Pipeline,Test User 2,2021-05-18,Vimbo Deal (2021-05-18),423,"","",Closed won,2021-06-10,2021-06-10,
+Skippad,skippad.com,Sales Pipeline,Clayton Farr,2021-11-03,Skippad Deal (2021-11-03),1768,"","",Closed lost,2021-11-28,"",
+Skiba,skiba.com,Sales Pipeline,Test User 2,2021-12-15,Skiba Deal (2021-12-15),1093,"","",Closed lost,2022-01-12,"",
+Trilith,trilith.com,Sales Pipeline,Test User 2,2020-04-26,Trilith Deal (2020-04-26),4493,"","",Closed lost,2020-06-02,"",
+Yozio,yozio.com,Sales Pipeline,Clayton Farr,2021-08-17,Yozio Deal (2021-08-17),2133,"","",Closed won,2021-09-23,2021-09-23,High
+Edgepulse,edgepulse.com,Sales Pipeline,Test User 2,2020-08-19,Edgepulse Deal (2020-08-19),2715,"","",Closed lost,2020-09-07,"",
+Rhynyx,rhynyx.com,Sales Pipeline,Test User 2,2021-11-05,Rhynyx Deal (2021-11-05),1989,"","",Closed won,2021-12-09,2021-12-09,
+Eire,eire.com,Sales Pipeline,Test User 2,2020-11-28,Eire Deal (2020-11-28),2031,"","",Contract sent,2020-12-18,"",Medium
+Zoomcast,zoomcast.com,Sales Pipeline,Clayton Farr,2020-02-20,Zoomcast Deal (2020-02-20),423,"","",Closed lost,2020-04-01,"",
+Blogpad,blogpad.com,Sales Pipeline,Clayton Farr,2021-02-09,Blogpad Deal (2021-02-09),3500,"","",Closed lost,2021-03-10,"",
+Avaveo,avaveo.com,Sales Pipeline,Test User 2,2020-04-30,Avaveo Deal (2020-04-30),3705,"","",Closed lost,2020-05-31,"",High
+Voolia,voolia.com,Sales Pipeline,Clayton Farr,2021-09-16,Voolia Deal (2021-09-16),2161,"","",Closed lost,2021-10-03,"",High
+Yombu,yombu.com,Sales Pipeline,Clayton Farr,2021-07-29,Yombu Deal (2021-07-29),2807,"","",Closed won,2021-09-06,2021-09-06,Medium
+Blogspan,blogspan.com,Sales Pipeline,Test User 2,2021-02-21,Blogspan Deal (2021-02-21),3618,"","",Closed won,2021-03-10,2021-03-10,Low
+Yakidoo,yakidoo.com,Sales Pipeline,Test User 2,2020-09-03,Yakidoo Deal (2020-09-03),4410,"","",Closed won,2020-09-27,2020-09-27,
+Browsetype,browsetype.com,Sales Pipeline,Test User 2,2021-11-09,Browsetype Deal (2021-11-09),3230,"","",Closed lost,2021-11-27,"",
+Bubblebox,bubblebox.com,Sales Pipeline,Test User 2,2021-08-21,Bubblebox Deal (2021-08-21),2285,"","",Closed lost,2021-09-20,"",
+Janyx,janyx.com,Sales Pipeline,Test User 2,2020-01-18,Janyx Deal (2020-01-18),2031,"","",Closed lost,2020-02-17,"",
+Dabvine,dabvine.com,Sales Pipeline,Test User 2,2020-02-13,Dabvine Deal (2020-02-13),1097,"","",Contract sent,2020-02-28,"",
+Quimm,quimm.com,Sales Pipeline,Clayton Farr,2021-09-28,Quimm Deal (2021-09-28),3967,"","",Closed lost,2021-10-18,"",
+Thoughtblab,thoughtblab.com,Sales Pipeline,Test User 2,2020-12-22,Thoughtblab Deal (2020-12-22),3370,"","",Qualified to buy,2021-01-28,"",
+Blogtags,blogtags.com,Sales Pipeline,Test User 2,2020-08-07,Blogtags Deal (2020-08-07),3619,"","",Closed lost,2020-09-16,"",
+Realcube,realcube.com,Sales Pipeline,Clayton Farr,2021-11-03,Realcube Deal (2021-11-03),1935,"","",Closed lost,2021-12-04,"",
+Zoombox,zoombox.com,Sales Pipeline,Clayton Farr,2020-08-09,Zoombox Deal (2020-08-09),3628,"","",Contract sent,2020-09-17,"",High
+Oodoo,oodoo.com,Sales Pipeline,Clayton Farr,2020-03-23,Oodoo Deal (2020-03-23),405,"","",Qualified to buy,2020-04-10,"",Low
+Skiba,skiba.com,Sales Pipeline,Test User 2,2021-08-31,Skiba Deal (2021-08-31),2570,"","",Closed won,2021-10-07,2021-10-07,
+Skippad,skippad.com,Sales Pipeline,Clayton Farr,2021-08-06,Skippad Deal (2021-08-06),2159,"","",Qualified to buy,2021-09-16,"",Low
+Yakitri,yakitri.com,Sales Pipeline,Test User 2,2020-05-25,Yakitri Deal (2020-05-25),208,"","",Closed lost,2020-06-19,"",
+Camido,camido.com,Sales Pipeline,Test User 2,2021-03-29,Camido Deal (2021-03-29),1591,"","",Closed lost,2021-04-22,"",High
+Gevee,gevee.com,Sales Pipeline,Test User 2,2021-01-02,Gevee Deal (2021-01-02),2868,"","",Closed lost,2021-02-04,"",High
+Photojam,photojam.com,Sales Pipeline,Clayton Farr,2020-03-04,Photojam Deal (2020-03-04),3387,"","",Closed lost,2020-04-01,"",
+Flashpoint,flashpoint.com,Sales Pipeline,Clayton Farr,2020-10-04,Flashpoint Deal (2020-10-04),1334,"","",Appointment scheduled,2020-10-25,"",
+Youtags,youtags.com,Sales Pipeline,Clayton Farr,2021-05-10,Youtags Deal (2021-05-10),2635,"","",Qualified to buy,2021-05-28,"",High
+Npath,npath.com,Sales Pipeline,Test User 2,2020-06-19,Npath Deal (2020-06-19),1311,"","",Closed lost,2020-07-30,"",
+Wordpedia,wordpedia.com,Sales Pipeline,Test User 2,2020-10-11,Wordpedia Deal (2020-10-11),787,"","",Closed lost,2020-11-03,"",High
+Digitube,digitube.com,Sales Pipeline,Test User 2,2021-12-17,Digitube Deal (2021-12-17),1595,"","",Closed won,2022-01-10,2022-01-10,
+Gabvine,gabvine.com,Sales Pipeline,Test User 2,2020-03-28,Gabvine Deal (2020-03-28),1512,"","",Closed lost,2020-04-15,"",
+Yoveo,yoveo.com,Sales Pipeline,Test User 2,2021-04-03,Yoveo Deal (2021-04-03),2935,"","",Closed won,2021-05-07,2021-05-07,
+Browsecat,browsecat.com,Sales Pipeline,Clayton Farr,2021-08-07,Browsecat Deal (2021-08-07),1338,"","",Closed won,2021-09-18,2021-09-18,Medium
+Viva,viva.com,Sales Pipeline,Clayton Farr,2021-01-10,Viva Deal (2021-01-10),3956,"","",Closed lost,2021-02-06,"",Low
+Brainverse,brainverse.com,Sales Pipeline,Clayton Farr,2020-06-14,Brainverse Deal (2020-06-14),1596,"","",Closed won,2020-07-25,2020-07-25,
+Jabbertype,jabbertype.com,Sales Pipeline,Test User 2,2021-03-16,Jabbertype Deal (2021-03-16),3515,"","",Closed lost,2021-04-19,"",
+Linklinks,linklinks.com,Sales Pipeline,Test User 2,2021-06-15,Linklinks Deal (2021-06-15),164,"","",Closed won,2021-07-10,2021-07-10,
+Voolia,voolia.com,Sales Pipeline,Clayton Farr,2020-05-08,Voolia Deal (2020-05-08),313,"","",Closed won,2020-06-15,2020-06-15,High
+Innojam,innojam.com,Sales Pipeline,Test User 2,2020-08-19,Innojam Deal (2020-08-19),2135,"","",Closed lost,2020-09-09,"",Low
+Cogidoo,cogidoo.com,Sales Pipeline,Clayton Farr,2021-07-17,Cogidoo Deal (2021-07-17),2159,"","",Closed lost,2021-08-26,"",Low
+Npath,npath.com,Sales Pipeline,Test User 2,2021-04-09,Npath Deal (2021-04-09),3080,"","",Closed lost,2021-05-03,"",
+Yodo,yodo.com,Sales Pipeline,Test User 2,2021-11-29,Yodo Deal (2021-11-29),3263,"","",Closed won,2022-01-11,2022-01-11,
+Bubblebox,bubblebox.com,Sales Pipeline,Clayton Farr,2020-01-26,Bubblebox Deal (2020-01-26),1173,"","",Closed lost,2020-02-24,"",
+Abata,abata.com,Sales Pipeline,Test User 2,2020-09-24,Abata Deal (2020-09-24),3624,"","",Closed won,2020-11-07,2020-11-07,
+Yodo,yodo.com,Sales Pipeline,Test User 2,2021-01-29,Yodo Deal (2021-01-29),3046,"","",Closed lost,2021-03-05,"",
+Voonte,voonte.com,Sales Pipeline,Test User 2,2020-10-10,Voonte Deal (2020-10-10),2879,"","",Closed lost,2020-11-09,"",Low
+Browseblab,browseblab.com,Sales Pipeline,Clayton Farr,2020-03-15,Browseblab Deal (2020-03-15),656,"","",Closed lost,2020-04-08,"",Medium
+Fivespan,fivespan.com,Sales Pipeline,Test User 2,2020-07-06,Fivespan Deal (2020-07-06),3642,"","",Closed won,2020-08-17,2020-08-17,
+Yakidoo,yakidoo.com,Sales Pipeline,Clayton Farr,2020-11-06,Yakidoo Deal (2020-11-06),1029,"","",Closed won,2020-11-26,2020-11-26,
+Gabtype,gabtype.com,Sales Pipeline,Test User 2,2020-03-08,Gabtype Deal (2020-03-08),1450,"","",Closed lost,2020-03-29,"",
+Centizu,centizu.com,Sales Pipeline,Test User 2,2021-05-24,Centizu Deal (2021-05-24),3172,"","",Closed lost,2021-06-23,"",
+Voolia,voolia.com,Sales Pipeline,Test User 2,2020-09-09,Voolia Deal (2020-09-09),2994,"","",Closed lost,2020-10-19,"",
+Yakidoo,yakidoo.com,Sales Pipeline,Clayton Farr,2021-11-10,Yakidoo Deal (2021-11-10),3136,"","",Closed won,2021-12-05,2021-12-05,High
+Wordpedia,wordpedia.com,Sales Pipeline,Clayton Farr,2020-07-27,Wordpedia Deal (2020-07-27),997,"","",Qualified to buy,2020-09-04,"",
+Midel,midel.com,Sales Pipeline,Test User 2,2021-05-28,Midel Deal (2021-05-28),214,"","",Closed won,2021-07-03,2021-07-03,
+Lazzy,lazzy.com,Sales Pipeline,Clayton Farr,2021-04-02,Lazzy Deal (2021-04-02),3410,"","",Closed lost,2021-05-16,"",
+Agimba,agimba.com,Sales Pipeline,Clayton Farr,2020-03-04,Agimba Deal (2020-03-04),3585,"","",Closed won,2020-04-18,2020-04-18,High
+Viva,viva.com,Sales Pipeline,Test User 2,2021-11-07,Viva Deal (2021-11-07),364,"","",Closed lost,2021-12-22,"",Low
+Wikibox,wikibox.com,Sales Pipeline,Clayton Farr,2021-12-02,Wikibox Deal (2021-12-02),1574,"","",Closed lost,2021-12-21,"",
+Skyvu,skyvu.com,Sales Pipeline,Test User 2,2021-04-29,Skyvu Deal (2021-04-29),4467,"","",Closed lost,2021-05-24,"",High
+Jabbertype,jabbertype.com,Sales Pipeline,Clayton Farr,2021-01-22,Jabbertype Deal (2021-01-22),2492,"","",Closed lost,2021-02-07,"",
+Mydeo,mydeo.com,Sales Pipeline,Clayton Farr,2020-08-17,Mydeo Deal (2020-08-17),4052,"","",Closed lost,2020-09-25,"",
+Yodel,yodel.com,Sales Pipeline,Test User 2,2021-01-09,Yodel Deal (2021-01-09),3084,"","",Closed lost,2021-02-11,"",
+Gabtune,gabtune.com,Sales Pipeline,Test User 2,2020-05-12,Gabtune Deal (2020-05-12),3215,"","",Closed won,2020-06-12,2020-06-12,High
+Cogibox,cogibox.com,Sales Pipeline,Test User 2,2021-12-12,Cogibox Deal (2021-12-12),4206,"","",Closed won,2022-01-21,2022-01-21,
+Blogspan,blogspan.com,Sales Pipeline,Test User 2,2021-08-29,Blogspan Deal (2021-08-29),487,"","",Closed lost,2021-10-10,"",
+Myworks,myworks.com,Sales Pipeline,Clayton Farr,2021-12-10,Myworks Deal (2021-12-10),3987,"","",Closed lost,2022-01-21,"",
+Gabtune,gabtune.com,Sales Pipeline,Test User 2,2020-03-21,Gabtune Deal (2020-03-21),2709,"","",Closed lost,2020-05-05,"",High
+Thoughtstorm,thoughtstorm.com,Sales Pipeline,Test User 2,2021-06-30,Thoughtstorm Deal (2021-06-30),398,"","",Closed lost,2021-08-03,"",
+Eamia,eamia.com,Sales Pipeline,Test User 2,2020-08-27,Eamia Deal (2020-08-27),570,"","",Closed lost,2020-09-18,"",Low
+Devcast,devcast.com,Sales Pipeline,Clayton Farr,2021-03-30,Devcast Deal (2021-03-30),1986,"","",Closed won,2021-05-10,2021-05-10,Medium
+Rhyzio,rhyzio.com,Sales Pipeline,Test User 2,2020-09-08,Rhyzio Deal (2020-09-08),3643,"","",Closed lost,2020-10-12,"",
+Twitternation,twitternation.com,Sales Pipeline,Test User 2,2020-07-12,Twitternation Deal (2020-07-12),238,"","",Closed lost,2020-08-10,"",
+Twinte,twinte.com,Sales Pipeline,Test User 2,2020-05-31,Twinte Deal (2020-05-31),3414,"","",Closed lost,2020-07-10,"",
+Npath,npath.com,Sales Pipeline,Test User 2,2020-08-03,Npath Deal (2020-08-03),409,"","",Closed won,2020-09-15,2020-09-15,
+Innojam,innojam.com,Sales Pipeline,Test User 2,2020-03-04,Innojam Deal (2020-03-04),1827,"","",Decision maker bought-In,2020-04-13,"",
+InnoZ,innoz.com,Sales Pipeline,Test User 2,2021-06-26,InnoZ Deal (2021-06-26),4810,"","",Closed lost,2021-07-23,"",
+Skynoodle,skynoodle.com,Sales Pipeline,Test User 2,2020-03-01,Skynoodle Deal (2020-03-01),121,"","",Closed lost,2020-03-18,"",
+Yambee,yambee.com,Sales Pipeline,Test User 2,2021-01-05,Yambee Deal (2021-01-05),4598,"","",Closed lost,2021-01-31,"",Medium
+Gabtune,gabtune.com,Sales Pipeline,Test User 2,2020-07-14,Gabtune Deal (2020-07-14),3788,"","",Closed lost,2020-08-02,"",Medium
+Ooba,ooba.com,Sales Pipeline,Clayton Farr,2020-11-10,Ooba Deal (2020-11-10),3328,"","",Closed lost,2020-12-19,"",
+Twitternation,twitternation.com,Sales Pipeline,Clayton Farr,2020-02-20,Twitternation Deal (2020-02-20),3684,"","",Closed lost,2020-04-02,"",
+Chatterbridge,chatterbridge.com,Sales Pipeline,Clayton Farr,2020-10-23,Chatterbridge Deal (2020-10-23),3977,"","",Closed lost,2020-11-11,"",High
+Npath,npath.com,Sales Pipeline,Test User 2,2021-12-07,Npath Deal (2021-12-07),4964,"","",Qualified to buy,2022-01-14,"",
+Kwilith,kwilith.com,Sales Pipeline,Clayton Farr,2020-04-18,Kwilith Deal (2020-04-18),479,"","",Closed won,2020-06-01,2020-06-01,Low
+Eazzy,eazzy.com,Sales Pipeline,Clayton Farr,2020-11-21,Eazzy Deal (2020-11-21),3565,"","",Closed lost,2020-12-16,"",
+Twinder,twinder.com,Sales Pipeline,Clayton Farr,2020-10-07,Twinder Deal (2020-10-07),2917,"","",Closed lost,2020-10-26,"",
+Dynabox,dynabox.com,Sales Pipeline,Test User 2,2020-02-08,Dynabox Deal (2020-02-08),3886,"","",Closed lost,2020-03-20,"",
+Cogibox,cogibox.com,Sales Pipeline,Test User 2,2020-07-17,Cogibox Deal (2020-07-17),591,"","",Closed won,2020-08-17,2020-08-17,
+Realcube,realcube.com,Sales Pipeline,Test User 2,2020-03-12,Realcube Deal (2020-03-12),4877,"","",Closed lost,2020-04-06,"",Low
+Flipopia,flipopia.com,Sales Pipeline,Test User 2,2021-07-25,Flipopia Deal (2021-07-25),3857,"","",Closed lost,2021-09-06,"",High
+Yodoo,yodoo.com,Sales Pipeline,Test User 2,2021-11-25,Yodoo Deal (2021-11-25),3233,"","",Qualified to buy,2021-12-21,"",
+Devify,devify.com,Sales Pipeline,Clayton Farr,2021-01-10,Devify Deal (2021-01-10),4965,"","",Closed lost,2021-01-28,"",
+Rhynyx,rhynyx.com,Sales Pipeline,Test User 2,2021-10-25,Rhynyx Deal (2021-10-25),2344,"","",Closed won,2021-11-29,2021-11-29,
+Zoovu,zoovu.com,Sales Pipeline,Test User 2,2021-04-10,Zoovu Deal (2021-04-10),3616,"","",Closed lost,2021-04-28,"",Medium
+Tazzy,tazzy.com,Sales Pipeline,Test User 2,2021-08-26,Tazzy Deal (2021-08-26),576,"","",Closed won,2021-09-10,2021-09-10,High
+Wordpedia,wordpedia.com,Sales Pipeline,Test User 2,2020-12-28,Wordpedia Deal (2020-12-28),1411,"","",Closed won,2021-01-20,2021-01-20,Low
+Eayo,eayo.com,Sales Pipeline,Clayton Farr,2020-08-04,Eayo Deal (2020-08-04),4755,"","",Appointment scheduled,2020-09-10,"",Low
+Blogtag,blogtag.com,Sales Pipeline,Clayton Farr,2020-11-24,Blogtag Deal (2020-11-24),1987,"","",Closed lost,2020-12-14,"",
+Yodoo,yodoo.com,Sales Pipeline,Clayton Farr,2021-02-07,Yodoo Deal (2021-02-07),1262,"","",Closed won,2021-03-24,2021-03-24,High
+Skalith,skalith.com,Sales Pipeline,Test User 2,2020-08-16,Skalith Deal (2020-08-16),1749,"","",Closed won,2020-09-01,2020-09-01,
+Minyx,minyx.com,Sales Pipeline,Clayton Farr,2021-12-13,Minyx Deal (2021-12-13),2598,"","",Closed won,2022-01-26,2022-01-26,
+Feedfire,feedfire.com,Sales Pipeline,Clayton Farr,2020-09-25,Feedfire Deal (2020-09-25),4045,"","",Closed lost,2020-10-15,"",
+Flashpoint,flashpoint.com,Sales Pipeline,Clayton Farr,2021-12-07,Flashpoint Deal (2021-12-07),1067,"","",Closed won,2022-01-03,2022-01-03,
+Zoovu,zoovu.com,Sales Pipeline,Test User 2,2021-08-21,Zoovu Deal (2021-08-21),205,"","",Closed lost,2021-09-29,"",
+Jaxnation,jaxnation.com,Sales Pipeline,Test User 2,2021-08-18,Jaxnation Deal (2021-08-18),3824,"","",Closed lost,2021-09-30,"",High
+Youtags,youtags.com,Sales Pipeline,Test User 2,2020-07-19,Youtags Deal (2020-07-19),362,"","",Decision maker bought-In,2020-08-24,"",
+Twitterlist,twitterlist.com,Sales Pipeline,Test User 2,2020-09-22,Twitterlist Deal (2020-09-22),965,"","",Closed lost,2020-10-10,"",
+JumpXS,jumpxs.com,Sales Pipeline,Clayton Farr,2020-03-12,JumpXS Deal (2020-03-12),2385,"","",Closed won,2020-04-16,2020-04-16,
+Devbug,devbug.com,Sales Pipeline,Test User 2,2021-09-23,Devbug Deal (2021-09-23),4718,"","",Closed won,2021-11-06,2021-11-06,
+Skippad,skippad.com,Sales Pipeline,Test User 2,2021-05-11,Skippad Deal (2021-05-11),575,"","",Appointment scheduled,2021-06-19,"",Low
+Yakitri,yakitri.com,Sales Pipeline,Clayton Farr,2020-12-20,Yakitri Deal (2020-12-20),4953,"","",Appointment scheduled,2021-01-20,"",
+Skippad,skippad.com,Sales Pipeline,Test User 2,2021-07-19,Skippad Deal (2021-07-19),1967,"","",Closed lost,2021-08-18,"",
+Eidel,eidel.com,Sales Pipeline,Clayton Farr,2021-10-06,Eidel Deal (2021-10-06),2499,"","",Closed lost,2021-10-29,"",
+Abata,abata.com,Sales Pipeline,Clayton Farr,2020-11-07,Abata Deal (2020-11-07),1318,"","",Qualified to buy,2020-11-27,"",
+Youspan,youspan.com,Sales Pipeline,Clayton Farr,2020-05-13,Youspan Deal (2020-05-13),3637,"","",Closed lost,2020-06-11,"",Medium
+Skinix,skinix.com,Sales Pipeline,Test User 2,2021-07-27,Skinix Deal (2021-07-27),312,"","",Closed lost,2021-09-06,"",
+Linklinks,linklinks.com,Sales Pipeline,Test User 2,2020-06-14,Linklinks Deal (2020-06-14),3261,"","",Closed lost,2020-06-30,"",High
+Zava,zava.com,Sales Pipeline,Clayton Farr,2020-07-09,Zava Deal (2020-07-09),1692,"","",Closed lost,2020-08-12,"",High
+Jatri,jatri.com,Sales Pipeline,Test User 2,2020-11-12,Jatri Deal (2020-11-12),3886,"","",Closed lost,2020-12-24,"",
+Janyx,janyx.com,Sales Pipeline,Clayton Farr,2020-04-04,Janyx Deal (2020-04-04),2843,"","",Closed lost,2020-05-07,"",
+Browseblab,browseblab.com,Sales Pipeline,Test User 2,2021-08-11,Browseblab Deal (2021-08-11),2603,"","",Closed lost,2021-09-06,"",
+DabZ,dabz.com,Sales Pipeline,Clayton Farr,2021-02-24,DabZ Deal (2021-02-24),4609,"","",Closed lost,2021-04-04,"",
+Photofeed,photofeed.com,Sales Pipeline,Test User 2,2020-08-18,Photofeed Deal (2020-08-18),3930,"","",Closed lost,2020-09-11,"",High
+Wikibox,wikibox.com,Sales Pipeline,Clayton Farr,2020-07-14,Wikibox Deal (2020-07-14),2559,"","",Closed lost,2020-07-30,"",Low
+Topdrive,topdrive.com,Sales Pipeline,Clayton Farr,2021-04-20,Topdrive Deal (2021-04-20),3552,"","",Closed lost,2021-05-10,"",Low
+Agivu,agivu.com,Sales Pipeline,Test User 2,2021-04-02,Agivu Deal (2021-04-02),2506,"","",Closed won,2021-05-06,2021-05-06,Medium
+Skaboo,skaboo.com,Sales Pipeline,Clayton Farr,2021-07-11,Skaboo Deal (2021-07-11),2980,"","",Decision maker bought-In,2021-08-18,"",Medium
+Photojam,photojam.com,Sales Pipeline,Clayton Farr,2020-05-03,Photojam Deal (2020-05-03),233,"","",Appointment scheduled,2020-06-11,"",
+InnoZ,innoz.com,Sales Pipeline,Clayton Farr,2021-10-01,InnoZ Deal (2021-10-01),3767,"","",Closed lost,2021-10-16,"",
+Yabox,yabox.com,Sales Pipeline,Clayton Farr,2020-07-14,Yabox Deal (2020-07-14),465,"","",Closed won,2020-08-10,2020-08-10,Medium
+Feedfish,feedfish.com,Sales Pipeline,Test User 2,2021-08-06,Feedfish Deal (2021-08-06),471,"","",Closed won,2021-08-21,2021-08-21,High
+Quinu,quinu.com,Sales Pipeline,Clayton Farr,2021-01-20,Quinu Deal (2021-01-20),2173,"","",Closed lost,2021-02-06,"",
+Latz,latz.com,Sales Pipeline,Clayton Farr,2021-08-26,Latz Deal (2021-08-26),4699,"","",Closed won,2021-09-25,2021-09-25,Medium
+Livetube,livetube.com,Sales Pipeline,Test User 2,2021-01-05,Livetube Deal (2021-01-05),1723,"","",Qualified to buy,2021-01-22,"",Medium
+Zoonoodle,zoonoodle.com,Sales Pipeline,Clayton Farr,2021-11-20,Zoonoodle Deal (2021-11-20),4810,"","",Closed lost,2022-01-01,"",High
+Thoughtsphere,thoughtsphere.com,Sales Pipeline,Clayton Farr,2021-09-06,Thoughtsphere Deal (2021-09-06),4239,"","",Closed won,2021-09-23,2021-09-23,
+Eazzy,eazzy.com,Sales Pipeline,Test User 2,2020-05-28,Eazzy Deal (2020-05-28),3504,"","",Closed lost,2020-06-27,"",
+Browsebug,browsebug.com,Sales Pipeline,Clayton Farr,2020-02-22,Browsebug Deal (2020-02-22),2317,"","",Closed won,2020-04-06,2020-04-06,
+Demivee,demivee.com,Sales Pipeline,Test User 2,2020-09-19,Demivee Deal (2020-09-19),3365,"","",Closed lost,2020-10-10,"",Medium
+Avavee,avavee.com,Sales Pipeline,Test User 2,2020-06-26,Avavee Deal (2020-06-26),4560,"","",Qualified to buy,2020-08-01,"",
+Mydo,mydo.com,Sales Pipeline,Test User 2,2021-05-19,Mydo Deal (2021-05-19),4505,"","",Closed lost,2021-06-13,"",
+Thoughtstorm,thoughtstorm.com,Sales Pipeline,Clayton Farr,2021-07-15,Thoughtstorm Deal (2021-07-15),3210,"","",Closed lost,2021-08-23,"",
+Photofeed,photofeed.com,Sales Pipeline,Clayton Farr,2021-02-07,Photofeed Deal (2021-02-07),1403,"","",Closed lost,2021-03-12,"",
+Oyope,oyope.com,Sales Pipeline,Clayton Farr,2020-07-22,Oyope Deal (2020-07-22),606,"","",Closed won,2020-08-28,2020-08-28,Medium
+Photofeed,photofeed.com,Sales Pipeline,Test User 2,2020-02-12,Photofeed Deal (2020-02-12),1517,"","",Closed won,2020-03-06,2020-03-06,
+Innojam,innojam.com,Sales Pipeline,Clayton Farr,2021-06-12,Innojam Deal (2021-06-12),4108,"","",Presentation scheduled,2021-06-28,"",
+Edgetag,edgetag.com,Sales Pipeline,Test User 2,2021-09-01,Edgetag Deal (2021-09-01),3286,"","",Closed lost,2021-09-16,"",
+Zava,zava.com,Sales Pipeline,Clayton Farr,2020-08-31,Zava Deal (2020-08-31),4542,"","",Closed lost,2020-09-15,"",Low
+Digitube,digitube.com,Sales Pipeline,Clayton Farr,2021-02-06,Digitube Deal (2021-02-06),1126,"","",Closed lost,2021-02-26,"",High
+Gigashots,gigashots.com,Sales Pipeline,Test User 2,2020-07-28,Gigashots Deal (2020-07-28),2848,"","",Closed lost,2020-08-21,"",Medium
+Thoughtblab,thoughtblab.com,Sales Pipeline,Clayton Farr,2021-08-23,Thoughtblab Deal (2021-08-23),3708,"","",Closed won,2021-09-29,2021-09-29,
+Oba,oba.com,Sales Pipeline,Test User 2,2021-12-13,Oba Deal (2021-12-13),1742,"","",Closed won,2022-01-07,2022-01-07,
+Livetube,livetube.com,Sales Pipeline,Test User 2,2020-11-07,Livetube Deal (2020-11-07),716,"","",Closed lost,2020-12-05,"",
+Yata,yata.com,Sales Pipeline,Clayton Farr,2020-11-24,Yata Deal (2020-11-24),1046,"","",Closed lost,2020-12-18,"",High
+Quinu,quinu.com,Sales Pipeline,Clayton Farr,2021-11-23,Quinu Deal (2021-11-23),4142,"","",Closed lost,2022-01-07,"",Low
+Browsecat,browsecat.com,Sales Pipeline,Clayton Farr,2020-06-02,Browsecat Deal (2020-06-02),4989,"","",Closed won,2020-06-19,2020-06-19,Medium
+Dabtype,dabtype.com,Sales Pipeline,Clayton Farr,2020-12-23,Dabtype Deal (2020-12-23),542,"","",Closed won,2021-01-21,2021-01-21,Medium
+Jazzy,jazzy.com,Sales Pipeline,Test User 2,2020-08-11,Jazzy Deal (2020-08-11),1021,"","",Closed lost,2020-09-24,"",
+Rooxo,rooxo.com,Sales Pipeline,Clayton Farr,2021-07-09,Rooxo Deal (2021-07-09),812,"","",Closed won,2021-07-30,2021-07-30,
+Skippad,skippad.com,Sales Pipeline,Clayton Farr,2021-01-29,Skippad Deal (2021-01-29),162,"","",Closed lost,2021-02-15,"",
+Flashdog,flashdog.com,Sales Pipeline,Test User 2,2020-06-19,Flashdog Deal (2020-06-19),3295,"","",Closed won,2020-07-10,2020-07-10,
+Jayo,jayo.com,Sales Pipeline,Test User 2,2020-06-30,Jayo Deal (2020-06-30),2987,"","",Closed lost,2020-07-18,"",
+Voonte,voonte.com,Sales Pipeline,Test User 2,2021-02-27,Voonte Deal (2021-02-27),368,"","",Qualified to buy,2021-04-06,"",
+Skynoodle,skynoodle.com,Sales Pipeline,Clayton Farr,2020-10-21,Skynoodle Deal (2020-10-21),1696,"","",Closed lost,2020-11-18,"",
+Avamm,avamm.com,Sales Pipeline,Clayton Farr,2020-02-08,Avamm Deal (2020-02-08),3835,"","",Closed lost,2020-03-09,"",
+Cogilith,cogilith.com,Sales Pipeline,Test User 2,2020-10-13,Cogilith Deal (2020-10-13),3460,"","",Closed won,2020-10-31,2020-10-31,
+Oyoloo,oyoloo.com,Sales Pipeline,Test User 2,2020-11-18,Oyoloo Deal (2020-11-18),2008,"","",Closed won,2020-12-10,2020-12-10,
+Meeveo,meeveo.com,Sales Pipeline,Test User 2,2021-08-23,Meeveo Deal (2021-08-23),4527,"","",Closed lost,2021-09-10,"",
+Devbug,devbug.com,Sales Pipeline,Test User 2,2021-07-16,Devbug Deal (2021-07-16),3235,"","",Closed won,2021-08-16,2021-08-16,
+Minyx,minyx.com,Sales Pipeline,Test User 2,2020-09-03,Minyx Deal (2020-09-03),688,"","",Closed lost,2020-09-23,"",
+Meezzy,meezzy.com,Sales Pipeline,Clayton Farr,2021-07-31,Meezzy Deal (2021-07-31),4879,"","",Closed lost,2021-09-06,"",High
+Photofeed,photofeed.com,Sales Pipeline,Clayton Farr,2020-10-25,Photofeed Deal (2020-10-25),4236,"","",Closed lost,2020-11-20,"",
+Mydo,mydo.com,Sales Pipeline,Clayton Farr,2020-09-26,Mydo Deal (2020-09-26),589,"","",Closed won,2020-10-12,2020-10-12,High
+Abata,abata.com,Sales Pipeline,Clayton Farr,2020-07-27,Abata Deal (2020-07-27),1984,"","",Contract sent,2020-08-20,"",High
+Yamia,yamia.com,Sales Pipeline,Clayton Farr,2021-04-06,Yamia Deal (2021-04-06),3014,"","",Closed lost,2021-05-10,"",Low
+Einti,einti.com,Sales Pipeline,Clayton Farr,2020-03-20,Einti Deal (2020-03-20),2470,"","",Closed won,2020-05-04,2020-05-04,
+Centidel,centidel.com,Sales Pipeline,Test User 2,2021-10-04,Centidel Deal (2021-10-04),3456,"","",Closed lost,2021-11-05,"",

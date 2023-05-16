@@ -1,0 +1,8 @@
+Pipeline,Deal_Stage,Probability,StageNo
+Sales Pipeline,Appointment scheduled,.30,2
+Sales Pipeline,Closed lost,.00,9
+Sales Pipeline,Closed won,1.00,9
+Sales Pipeline,Contract sent,.80,5
+Sales Pipeline,Decision maker bought-In,.70,4
+Sales Pipeline,Presentation scheduled,.40,3
+Sales Pipeline,Qualified to buy,.20,1

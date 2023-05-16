@@ -1,0 +1,64 @@
+﻿// DAX Query
+DEFINE
+	VAR __DS0Core = 
+		SUMMARIZECOLUMNS(
+			'Date'[Month],
+			'Date'[MonthNo],
+			ROLLUPADDISSUBTOTAL(
+				ROLLUPGROUP('Pipeline'[Deal_Stage], 'Pipeline'[StageNo]), "IsGrandTotalColumnTotal"
+			),
+			"LENE_Amount4", 'Deals'[LENE Amount4]
+		)
+
+	VAR __DS0PrimaryWindowed = 
+		TOPN(
+			101,
+			SUMMARIZE(__DS0Core, 'Date'[Month], 'Date'[MonthNo]),
+			'Date'[MonthNo],
+			1,
+			'Date'[Month],
+			1
+		)
+
+	VAR __DS0SecondaryBase = 
+		SUMMARIZE(__DS0Core, 'Pipeline'[Deal_Stage], 'Pipeline'[StageNo], [IsGrandTotalColumnTotal])
+
+	VAR __DS0Secondary = 
+		TOPN(
+			102,
+			__DS0SecondaryBase,
+			[IsGrandTotalColumnTotal],
+			1,
+			'Pipeline'[StageNo],
+			1,
+			'Pipeline'[Deal_Stage],
+			1
+		)
+
+	VAR __DS0BodyLimited = 
+		NATURALLEFTOUTERJOIN(
+			__DS0PrimaryWindowed,
+			SUBSTITUTEWITHINDEX(
+				__DS0Core,
+				"ColumnIndex",
+				__DS0Secondary,
+				[IsGrandTotalColumnTotal],
+				ASC,
+				'Pipeline'[StageNo],
+				ASC,
+				'Pipeline'[Deal_Stage],
+				ASC
+			)
+		)
+
+EVALUATE
+	__DS0Secondary
+
+ORDER BY
+	[IsGrandTotalColumnTotal], 'Pipeline'[StageNo], 'Pipeline'[Deal_Stage]
+
+EVALUATE
+	__DS0BodyLimited
+
+ORDER BY
+	'Date'[MonthNo], 'Date'[Month], [ColumnIndex]

@@ -1,0 +1,1108 @@
+VersionDate,VersionDateTo,company_name,Company_domain_name,Pipeline,Deal_owner,Create_Date,Deal_Name,Amount,Deal_Probability,Forecast_probability,Deal_Stage,Close_Date,Priority
+2021-08-18,2023-05-16,Blogtags,blogtags.com,Sales Pipeline,Test User 2,2021-08-25,Blogtags Deal (2021-08-25),3723,.30,,Appointment scheduled,,
+2021-08-18,2021-08-18,Blogtags,blogtags.com,Sales Pipeline,Test User 2,2021-08-25,Blogtags Deal (2021-08-25),4349,.00,,Closed lost,,
+2021-08-11,2021-08-17,Blogtags,blogtags.com,Sales Pipeline,Test User 2,2021-08-25,Blogtags Deal (2021-08-25),3917,.20,,Qualified to buy,,
+2021-11-13,2021-11-13,Yozio,yozio.com,Sales Pipeline,Test User 2,2021-11-20,Yozio Deal (2021-11-20),2396,.00,,Closed lost,,Medium
+2021-11-13,2023-05-16,Yozio,yozio.com,Sales Pipeline,Test User 2,2021-11-20,Yozio Deal (2021-11-20),1520,.20,,Qualified to buy,,Medium
+2021-07-05,2021-07-11,Dabvine,dabvine.com,Sales Pipeline,Test User 2,2021-08-02,Dabvine Deal (2021-08-02),3153,.30,,Appointment scheduled,,
+2021-07-26,2021-07-26,Dabvine,dabvine.com,Sales Pipeline,Test User 2,2021-08-02,Dabvine Deal (2021-08-02),3338,.00,,Closed lost,,
+2021-07-12,2021-07-25,Dabvine,dabvine.com,Sales Pipeline,Test User 2,2021-08-02,Dabvine Deal (2021-08-02),3632,.40,,Presentation scheduled,,
+2021-06-28,2021-07-04,Dabvine,dabvine.com,Sales Pipeline,Test User 2,2021-08-02,Dabvine Deal (2021-08-02),2960,.20,,Qualified to buy,,
+2020-03-17,2020-03-17,Einti,einti.com,Sales Pipeline,Clayton Farr,2020-03-24,Einti Deal (2020-03-24),7199,.00,,Closed lost,,
+2020-05-21,2023-05-16,Zoozzy,zoozzy.com,Sales Pipeline,Test User 2,2020-05-28,Zoozzy Deal (2020-05-28),3871,.30,,Appointment scheduled,,High
+2020-05-21,2020-05-21,Zoozzy,zoozzy.com,Sales Pipeline,Test User 2,2020-05-28,Zoozzy Deal (2020-05-28),3959,.00,,Closed lost,,High
+2020-05-14,2020-05-20,Zoozzy,zoozzy.com,Sales Pipeline,Test User 2,2020-05-28,Zoozzy Deal (2020-05-28),3478,.20,,Qualified to buy,,High
+2021-11-02,2021-11-08,Jetwire,jetwire.com,Sales Pipeline,Clayton Farr,2021-12-21,Jetwire Deal (2021-12-21),5436,.30,,Appointment scheduled,2022-01-26,High
+2021-12-14,2021-12-14,Jetwire,jetwire.com,Sales Pipeline,Clayton Farr,2021-12-21,Jetwire Deal (2021-12-21),5241,.00,,Closed lost,2022-01-26,High
+2021-12-07,2021-12-13,Jetwire,jetwire.com,Sales Pipeline,Clayton Farr,2021-12-21,Jetwire Deal (2021-12-21),5530,.80,,Contract sent,2022-01-26,High
+2021-11-30,2021-12-06,Jetwire,jetwire.com,Sales Pipeline,Clayton Farr,2021-12-21,Jetwire Deal (2021-12-21),3375,.70,,Decision maker bought-In,2022-01-26,High
+2021-11-09,2021-11-29,Jetwire,jetwire.com,Sales Pipeline,Clayton Farr,2021-12-21,Jetwire Deal (2021-12-21),3434,.40,,Presentation scheduled,2022-01-26,High
+2021-10-26,2021-11-01,Jetwire,jetwire.com,Sales Pipeline,Clayton Farr,2021-12-21,Jetwire Deal (2021-12-21),3302,.20,,Qualified to buy,2022-01-26,High
+2021-07-17,2021-07-23,Npath,npath.com,Sales Pipeline,Clayton Farr,2021-08-21,Npath Deal (2021-08-21),5352,.30,,Appointment scheduled,,
+2021-08-14,2021-08-14,Npath,npath.com,Sales Pipeline,Clayton Farr,2021-08-21,Npath Deal (2021-08-21),5310,.00,,Closed lost,,
+2021-08-14,2023-05-16,Npath,npath.com,Sales Pipeline,Clayton Farr,2021-08-21,Npath Deal (2021-08-21),5577,.70,,Decision maker bought-In,,
+2021-07-24,2021-08-13,Npath,npath.com,Sales Pipeline,Clayton Farr,2021-08-21,Npath Deal (2021-08-21),7222,.40,,Presentation scheduled,,
+2021-07-10,2021-07-16,Npath,npath.com,Sales Pipeline,Clayton Farr,2021-08-21,Npath Deal (2021-08-21),8718,.20,,Qualified to buy,,
+2020-12-26,2021-01-01,Eamia,eamia.com,Sales Pipeline,Clayton Farr,2021-02-13,Eamia Deal (2021-02-13),8532,.30,,Appointment scheduled,2021-03-13,
+2021-02-06,2021-02-06,Eamia,eamia.com,Sales Pipeline,Clayton Farr,2021-02-13,Eamia Deal (2021-02-13),6197,.00,,Closed lost,2021-03-13,
+2021-01-30,2021-02-05,Eamia,eamia.com,Sales Pipeline,Clayton Farr,2021-02-13,Eamia Deal (2021-02-13),8282,.80,,Contract sent,2021-03-13,
+2021-01-23,2021-01-29,Eamia,eamia.com,Sales Pipeline,Clayton Farr,2021-02-13,Eamia Deal (2021-02-13),7643,.70,,Decision maker bought-In,2021-03-13,
+2021-01-02,2021-01-22,Eamia,eamia.com,Sales Pipeline,Clayton Farr,2021-02-13,Eamia Deal (2021-02-13),7486,.40,,Presentation scheduled,2021-03-13,
+2020-12-19,2020-12-25,Eamia,eamia.com,Sales Pipeline,Clayton Farr,2021-02-13,Eamia Deal (2021-02-13),4847,.20,,Qualified to buy,2021-03-13,
+2020-05-27,2020-06-02,Quaxo,quaxo.com,Sales Pipeline,Clayton Farr,2020-07-15,Quaxo Deal (2020-07-15),1685,.30,,Appointment scheduled,2020-08-06,
+2020-07-08,2020-07-08,Quaxo,quaxo.com,Sales Pipeline,Clayton Farr,2020-07-15,Quaxo Deal (2020-07-15),3014,.00,,Closed lost,2020-08-06,
+2020-07-01,2020-07-07,Quaxo,quaxo.com,Sales Pipeline,Clayton Farr,2020-07-15,Quaxo Deal (2020-07-15),2619,.80,,Contract sent,2020-08-06,
+2020-06-24,2020-06-30,Quaxo,quaxo.com,Sales Pipeline,Clayton Farr,2020-07-15,Quaxo Deal (2020-07-15),2491,.70,,Decision maker bought-In,2020-08-06,
+2020-06-03,2020-06-23,Quaxo,quaxo.com,Sales Pipeline,Clayton Farr,2020-07-15,Quaxo Deal (2020-07-15),2352,.40,,Presentation scheduled,2020-08-06,
+2020-05-20,2020-05-26,Quaxo,quaxo.com,Sales Pipeline,Clayton Farr,2020-07-15,Quaxo Deal (2020-07-15),2311,.20,,Qualified to buy,2020-08-06,
+2020-11-22,2020-11-28,Zava,zava.com,Sales Pipeline,Clayton Farr,2021-01-10,Zava Deal (2021-01-10),1291,.30,,Appointment scheduled,2021-02-17,Medium
+2021-01-03,2021-01-03,Zava,zava.com,Sales Pipeline,Clayton Farr,2021-01-10,Zava Deal (2021-01-10),916,.00,,Closed lost,2021-02-17,Medium
+2020-12-27,2021-01-02,Zava,zava.com,Sales Pipeline,Clayton Farr,2021-01-10,Zava Deal (2021-01-10),829,.80,,Contract sent,2021-02-17,Medium
+2020-12-20,2020-12-26,Zava,zava.com,Sales Pipeline,Clayton Farr,2021-01-10,Zava Deal (2021-01-10),1112,.70,,Decision maker bought-In,2021-02-17,Medium
+2020-11-29,2020-12-19,Zava,zava.com,Sales Pipeline,Clayton Farr,2021-01-10,Zava Deal (2021-01-10),1243,.40,,Presentation scheduled,2021-02-17,Medium
+2020-11-15,2020-11-21,Zava,zava.com,Sales Pipeline,Clayton Farr,2021-01-10,Zava Deal (2021-01-10),1283,.20,,Qualified to buy,2021-02-17,Medium
+2021-01-16,2021-01-22,Wordtune,wordtune.com,Sales Pipeline,Test User 2,2021-02-20,Wordtune Deal (2021-02-20),4393,.30,,Appointment scheduled,,Low
+2021-02-13,2021-02-13,Wordtune,wordtune.com,Sales Pipeline,Test User 2,2021-02-20,Wordtune Deal (2021-02-20),3765,.00,,Closed lost,,Low
+2021-02-13,2023-05-16,Wordtune,wordtune.com,Sales Pipeline,Test User 2,2021-02-20,Wordtune Deal (2021-02-20),3832,.70,,Decision maker bought-In,,Low
+2021-01-23,2021-02-12,Wordtune,wordtune.com,Sales Pipeline,Test User 2,2021-02-20,Wordtune Deal (2021-02-20),3566,.40,,Presentation scheduled,,Low
+2021-01-09,2021-01-15,Wordtune,wordtune.com,Sales Pipeline,Test User 2,2021-02-20,Wordtune Deal (2021-02-20),4496,.20,,Qualified to buy,,Low
+2020-09-24,2020-09-30,Abatz,abatz.com,Sales Pipeline,Clayton Farr,2020-11-12,Abatz Deal (2020-11-12),5484,.30,,Appointment scheduled,2020-12-06,Medium
+2020-11-05,2020-11-05,Abatz,abatz.com,Sales Pipeline,Clayton Farr,2020-11-12,Abatz Deal (2020-11-12),3944,.00,,Closed lost,2020-12-06,Medium
+2020-10-29,2020-11-04,Abatz,abatz.com,Sales Pipeline,Clayton Farr,2020-11-12,Abatz Deal (2020-11-12),5845,.80,,Contract sent,2020-12-06,Medium
+2020-10-22,2020-10-28,Abatz,abatz.com,Sales Pipeline,Clayton Farr,2020-11-12,Abatz Deal (2020-11-12),4620,.70,,Decision maker bought-In,2020-12-06,Medium
+2020-10-01,2020-10-21,Abatz,abatz.com,Sales Pipeline,Clayton Farr,2020-11-12,Abatz Deal (2020-11-12),5281,.40,,Presentation scheduled,2020-12-06,Medium
+2020-09-17,2020-09-23,Abatz,abatz.com,Sales Pipeline,Clayton Farr,2020-11-12,Abatz Deal (2020-11-12),5081,.20,,Qualified to buy,2020-12-06,Medium
+2020-02-05,2020-02-11,Jatri,jatri.com,Sales Pipeline,Test User 2,2020-03-25,Jatri Deal (2020-03-25),5169,.30,,Appointment scheduled,2020-04-22,
+2020-03-18,2020-03-18,Jatri,jatri.com,Sales Pipeline,Test User 2,2020-03-25,Jatri Deal (2020-03-25),3314,.00,,Closed lost,2020-04-22,
+2020-03-11,2020-03-17,Jatri,jatri.com,Sales Pipeline,Test User 2,2020-03-25,Jatri Deal (2020-03-25),3805,.80,,Contract sent,2020-04-22,
+2020-03-04,2020-03-10,Jatri,jatri.com,Sales Pipeline,Test User 2,2020-03-25,Jatri Deal (2020-03-25),2927,.70,,Decision maker bought-In,2020-04-22,
+2020-02-12,2020-03-03,Jatri,jatri.com,Sales Pipeline,Test User 2,2020-03-25,Jatri Deal (2020-03-25),3235,.40,,Presentation scheduled,2020-04-22,
+2020-01-29,2020-02-04,Jatri,jatri.com,Sales Pipeline,Test User 2,2020-03-25,Jatri Deal (2020-03-25),5100,.20,,Qualified to buy,2020-04-22,
+2021-01-22,2021-01-28,BlogXS,blogxs.com,Sales Pipeline,Test User 2,2021-03-12,BlogXS Deal (2021-03-12),3478,.30,,Appointment scheduled,2021-04-08,
+2021-03-05,2021-03-05,BlogXS,blogxs.com,Sales Pipeline,Test User 2,2021-03-12,BlogXS Deal (2021-03-12),5499,.00,,Closed lost,2021-04-08,
+2021-02-26,2021-03-04,BlogXS,blogxs.com,Sales Pipeline,Test User 2,2021-03-12,BlogXS Deal (2021-03-12),4858,.80,,Contract sent,2021-04-08,
+2021-02-19,2021-02-25,BlogXS,blogxs.com,Sales Pipeline,Test User 2,2021-03-12,BlogXS Deal (2021-03-12),4820,.70,,Decision maker bought-In,2021-04-08,
+2021-01-29,2021-02-18,BlogXS,blogxs.com,Sales Pipeline,Test User 2,2021-03-12,BlogXS Deal (2021-03-12),4980,.40,,Presentation scheduled,2021-04-08,
+2021-01-15,2021-01-21,BlogXS,blogxs.com,Sales Pipeline,Test User 2,2021-03-12,BlogXS Deal (2021-03-12),5389,.20,,Qualified to buy,2021-04-08,
+2020-12-06,2020-12-12,Skalith,skalith.com,Sales Pipeline,Clayton Farr,2021-01-24,Skalith Deal (2021-01-24),1161,.30,,Appointment scheduled,2021-02-19,
+2021-01-17,2021-01-17,Skalith,skalith.com,Sales Pipeline,Clayton Farr,2021-01-24,Skalith Deal (2021-01-24),1702,.00,,Closed lost,2021-02-19,
+2021-01-10,2021-01-16,Skalith,skalith.com,Sales Pipeline,Clayton Farr,2021-01-24,Skalith Deal (2021-01-24),1340,.80,,Contract sent,2021-02-19,
+2021-01-03,2021-01-09,Skalith,skalith.com,Sales Pipeline,Clayton Farr,2021-01-24,Skalith Deal (2021-01-24),1901,.70,,Decision maker bought-In,2021-02-19,
+2020-12-13,2021-01-02,Skalith,skalith.com,Sales Pipeline,Clayton Farr,2021-01-24,Skalith Deal (2021-01-24),1254,.40,,Presentation scheduled,2021-02-19,
+2020-11-29,2020-12-05,Skalith,skalith.com,Sales Pipeline,Clayton Farr,2021-01-24,Skalith Deal (2021-01-24),1395,.20,,Qualified to buy,2021-02-19,
+2020-11-05,2020-11-11,Zoombox,zoombox.com,Sales Pipeline,Test User 2,2020-12-03,Zoombox Deal (2020-12-03),5254,.30,,Appointment scheduled,,Medium
+2020-11-26,2020-11-26,Zoombox,zoombox.com,Sales Pipeline,Test User 2,2020-12-03,Zoombox Deal (2020-12-03),3793,.00,,Closed lost,,Medium
+2020-11-12,2020-11-25,Zoombox,zoombox.com,Sales Pipeline,Test User 2,2020-12-03,Zoombox Deal (2020-12-03),3974,.40,,Presentation scheduled,,Medium
+2020-10-29,2020-11-04,Zoombox,zoombox.com,Sales Pipeline,Test User 2,2020-12-03,Zoombox Deal (2020-12-03),4741,.20,,Qualified to buy,,Medium
+2019-12-12,2019-12-18,Jabbertype,jabbertype.com,Sales Pipeline,Test User 2,2020-01-30,Jabbertype Deal (2020-01-30),2471,.30,,Appointment scheduled,2020-03-04,
+2020-01-23,2020-01-23,Jabbertype,jabbertype.com,Sales Pipeline,Test User 2,2020-01-30,Jabbertype Deal (2020-01-30),2172,.00,,Closed lost,2020-03-04,
+2020-01-16,2020-01-22,Jabbertype,jabbertype.com,Sales Pipeline,Test User 2,2020-01-30,Jabbertype Deal (2020-01-30),3562,.80,,Contract sent,2020-03-04,
+2020-01-09,2020-01-15,Jabbertype,jabbertype.com,Sales Pipeline,Test User 2,2020-01-30,Jabbertype Deal (2020-01-30),3619,.70,,Decision maker bought-In,2020-03-04,
+2019-12-19,2020-01-08,Jabbertype,jabbertype.com,Sales Pipeline,Test User 2,2020-01-30,Jabbertype Deal (2020-01-30),4095,.40,,Presentation scheduled,2020-03-04,
+2019-12-05,2019-12-11,Jabbertype,jabbertype.com,Sales Pipeline,Test User 2,2020-01-30,Jabbertype Deal (2020-01-30),3766,.20,,Qualified to buy,2020-03-04,
+2021-07-04,2021-07-10,Eidel,eidel.com,Sales Pipeline,Clayton Farr,2021-08-22,Eidel Deal (2021-08-22),9925,.30,,Appointment scheduled,2021-09-25,Medium
+2021-08-15,2021-08-15,Eidel,eidel.com,Sales Pipeline,Clayton Farr,2021-08-22,Eidel Deal (2021-08-22),7048,.00,,Closed lost,2021-09-25,Medium
+2021-08-08,2021-08-14,Eidel,eidel.com,Sales Pipeline,Clayton Farr,2021-08-22,Eidel Deal (2021-08-22),9858,.80,,Contract sent,2021-09-25,Medium
+2021-08-01,2021-08-07,Eidel,eidel.com,Sales Pipeline,Clayton Farr,2021-08-22,Eidel Deal (2021-08-22),9800,.70,,Decision maker bought-In,2021-09-25,Medium
+2021-07-11,2021-07-31,Eidel,eidel.com,Sales Pipeline,Clayton Farr,2021-08-22,Eidel Deal (2021-08-22),9366,.40,,Presentation scheduled,2021-09-25,Medium
+2021-06-27,2021-07-03,Eidel,eidel.com,Sales Pipeline,Clayton Farr,2021-08-22,Eidel Deal (2021-08-22),5768,.20,,Qualified to buy,2021-09-25,Medium
+2020-04-04,2020-04-10,Skynoodle,skynoodle.com,Sales Pipeline,Test User 2,2020-05-23,Skynoodle Deal (2020-05-23),397,.30,,Appointment scheduled,2020-06-13,
+2020-05-16,2020-05-16,Skynoodle,skynoodle.com,Sales Pipeline,Test User 2,2020-05-23,Skynoodle Deal (2020-05-23),724,.00,,Closed lost,2020-06-13,
+2020-05-09,2020-05-15,Skynoodle,skynoodle.com,Sales Pipeline,Test User 2,2020-05-23,Skynoodle Deal (2020-05-23),474,.80,,Contract sent,2020-06-13,
+2020-05-02,2020-05-08,Skynoodle,skynoodle.com,Sales Pipeline,Test User 2,2020-05-23,Skynoodle Deal (2020-05-23),683,.70,,Decision maker bought-In,2020-06-13,
+2020-04-11,2020-05-01,Skynoodle,skynoodle.com,Sales Pipeline,Test User 2,2020-05-23,Skynoodle Deal (2020-05-23),758,.40,,Presentation scheduled,2020-06-13,
+2020-03-28,2020-04-03,Skynoodle,skynoodle.com,Sales Pipeline,Test User 2,2020-05-23,Skynoodle Deal (2020-05-23),670,.20,,Qualified to buy,2020-06-13,
+2021-07-17,2021-07-23,Mita,mita.com,Sales Pipeline,Test User 2,2021-09-04,Mita Deal (2021-09-04),7994,.30,,Appointment scheduled,2021-09-24,Low
+2021-08-28,2021-08-28,Mita,mita.com,Sales Pipeline,Test User 2,2021-09-04,Mita Deal (2021-09-04),7441,.00,,Closed lost,2021-09-24,Low
+2021-08-21,2021-08-27,Mita,mita.com,Sales Pipeline,Test User 2,2021-09-04,Mita Deal (2021-09-04),6862,.80,,Contract sent,2021-09-24,Low
+2021-08-14,2021-08-20,Mita,mita.com,Sales Pipeline,Test User 2,2021-09-04,Mita Deal (2021-09-04),4637,.70,,Decision maker bought-In,2021-09-24,Low
+2021-07-24,2021-08-13,Mita,mita.com,Sales Pipeline,Test User 2,2021-09-04,Mita Deal (2021-09-04),5855,.40,,Presentation scheduled,2021-09-24,Low
+2021-07-10,2021-07-16,Mita,mita.com,Sales Pipeline,Test User 2,2021-09-04,Mita Deal (2021-09-04),5277,.20,,Qualified to buy,2021-09-24,Low
+2020-12-18,2020-12-24,Zoombox,zoombox.com,Sales Pipeline,Test User 2,2021-02-05,Zoombox Deal (2021-02-05),3879,.30,,Appointment scheduled,2021-03-19,
+2021-01-29,2021-01-29,Zoombox,zoombox.com,Sales Pipeline,Test User 2,2021-02-05,Zoombox Deal (2021-02-05),2825,.00,,Closed lost,2021-03-19,
+2021-01-22,2021-01-28,Zoombox,zoombox.com,Sales Pipeline,Test User 2,2021-02-05,Zoombox Deal (2021-02-05),4695,.80,,Contract sent,2021-03-19,
+2021-01-15,2021-01-21,Zoombox,zoombox.com,Sales Pipeline,Test User 2,2021-02-05,Zoombox Deal (2021-02-05),4182,.70,,Decision maker bought-In,2021-03-19,
+2020-12-25,2021-01-14,Zoombox,zoombox.com,Sales Pipeline,Test User 2,2021-02-05,Zoombox Deal (2021-02-05),3032,.40,,Presentation scheduled,2021-03-19,
+2020-12-11,2020-12-17,Zoombox,zoombox.com,Sales Pipeline,Test User 2,2021-02-05,Zoombox Deal (2021-02-05),4070,.20,,Qualified to buy,2021-03-19,
+2020-03-30,2020-04-05,Abata,abata.com,Sales Pipeline,Clayton Farr,2020-05-18,Abata Deal (2020-05-18),1991,.30,,Appointment scheduled,2020-06-11,
+2020-05-11,2020-05-11,Abata,abata.com,Sales Pipeline,Clayton Farr,2020-05-18,Abata Deal (2020-05-18),2189,.00,,Closed lost,2020-06-11,
+2020-05-04,2020-05-10,Abata,abata.com,Sales Pipeline,Clayton Farr,2020-05-18,Abata Deal (2020-05-18),1913,.80,,Contract sent,2020-06-11,
+2020-04-27,2020-05-03,Abata,abata.com,Sales Pipeline,Clayton Farr,2020-05-18,Abata Deal (2020-05-18),2027,.70,,Decision maker bought-In,2020-06-11,
+2020-04-06,2020-04-26,Abata,abata.com,Sales Pipeline,Clayton Farr,2020-05-18,Abata Deal (2020-05-18),1625,.40,,Presentation scheduled,2020-06-11,
+2020-03-23,2020-03-29,Abata,abata.com,Sales Pipeline,Clayton Farr,2020-05-18,Abata Deal (2020-05-18),1347,.20,,Qualified to buy,2020-06-11,
+2020-12-21,2020-12-27,Skyvu,skyvu.com,Sales Pipeline,Clayton Farr,2021-02-08,Skyvu Deal (2021-02-08),1843,.30,,Appointment scheduled,2021-03-09,
+2021-02-01,2021-02-01,Skyvu,skyvu.com,Sales Pipeline,Clayton Farr,2021-02-08,Skyvu Deal (2021-02-08),2421,.00,,Closed lost,2021-03-09,
+2021-01-25,2021-01-31,Skyvu,skyvu.com,Sales Pipeline,Clayton Farr,2021-02-08,Skyvu Deal (2021-02-08),1826,.80,,Contract sent,2021-03-09,
+2021-01-18,2021-01-24,Skyvu,skyvu.com,Sales Pipeline,Clayton Farr,2021-02-08,Skyvu Deal (2021-02-08),3356,.70,,Decision maker bought-In,2021-03-09,
+2020-12-28,2021-01-17,Skyvu,skyvu.com,Sales Pipeline,Clayton Farr,2021-02-08,Skyvu Deal (2021-02-08),2348,.40,,Presentation scheduled,2021-03-09,
+2020-12-14,2020-12-20,Skyvu,skyvu.com,Sales Pipeline,Clayton Farr,2021-02-08,Skyvu Deal (2021-02-08),2959,.20,,Qualified to buy,2021-03-09,
+2020-10-27,2020-11-02,Devshare,devshare.com,Sales Pipeline,Clayton Farr,2020-12-15,Devshare Deal (2020-12-15),235,.30,,Appointment scheduled,2020-12-30,Low
+2020-12-08,2020-12-08,Devshare,devshare.com,Sales Pipeline,Clayton Farr,2020-12-15,Devshare Deal (2020-12-15),315,.00,,Closed lost,2020-12-30,Low
+2020-12-01,2020-12-07,Devshare,devshare.com,Sales Pipeline,Clayton Farr,2020-12-15,Devshare Deal (2020-12-15),284,.80,,Contract sent,2020-12-30,Low
+2020-11-24,2020-11-30,Devshare,devshare.com,Sales Pipeline,Clayton Farr,2020-12-15,Devshare Deal (2020-12-15),284,.70,,Decision maker bought-In,2020-12-30,Low
+2020-11-03,2020-11-23,Devshare,devshare.com,Sales Pipeline,Clayton Farr,2020-12-15,Devshare Deal (2020-12-15),207,.40,,Presentation scheduled,2020-12-30,Low
+2020-10-20,2020-10-26,Devshare,devshare.com,Sales Pipeline,Clayton Farr,2020-12-15,Devshare Deal (2020-12-15),240,.20,,Qualified to buy,2020-12-30,Low
+2020-07-06,2020-07-12,Yodo,yodo.com,Sales Pipeline,Clayton Farr,2020-08-10,Yodo Deal (2020-08-10),4013,.30,,Appointment scheduled,,
+2020-08-03,2020-08-03,Yodo,yodo.com,Sales Pipeline,Clayton Farr,2020-08-10,Yodo Deal (2020-08-10),4436,.00,,Closed lost,,
+2020-08-03,2023-05-16,Yodo,yodo.com,Sales Pipeline,Clayton Farr,2020-08-10,Yodo Deal (2020-08-10),4000,.70,,Decision maker bought-In,,
+2020-07-13,2020-08-02,Yodo,yodo.com,Sales Pipeline,Clayton Farr,2020-08-10,Yodo Deal (2020-08-10),6065,.40,,Presentation scheduled,,
+2020-06-29,2020-07-05,Yodo,yodo.com,Sales Pipeline,Clayton Farr,2020-08-10,Yodo Deal (2020-08-10),5295,.20,,Qualified to buy,,
+2021-10-12,2021-10-18,Yadel,yadel.com,Sales Pipeline,Test User 2,2021-11-30,Yadel Deal (2021-11-30),2161,.30,,Appointment scheduled,2021-12-28,
+2021-11-23,2021-11-23,Yadel,yadel.com,Sales Pipeline,Test User 2,2021-11-30,Yadel Deal (2021-11-30),1359,.00,,Closed lost,2021-12-28,
+2021-11-16,2021-11-22,Yadel,yadel.com,Sales Pipeline,Test User 2,2021-11-30,Yadel Deal (2021-11-30),1500,.80,,Contract sent,2021-12-28,
+2021-11-09,2021-11-15,Yadel,yadel.com,Sales Pipeline,Test User 2,2021-11-30,Yadel Deal (2021-11-30),2242,.70,,Decision maker bought-In,2021-12-28,
+2021-10-19,2021-11-08,Yadel,yadel.com,Sales Pipeline,Test User 2,2021-11-30,Yadel Deal (2021-11-30),2198,.40,,Presentation scheduled,2021-12-28,
+2021-10-05,2021-10-11,Yadel,yadel.com,Sales Pipeline,Test User 2,2021-11-30,Yadel Deal (2021-11-30),1169,.20,,Qualified to buy,2021-12-28,
+2021-07-04,2021-07-04,Topiczoom,topiczoom.com,Sales Pipeline,Clayton Farr,2021-07-11,Topiczoom Deal (2021-07-11),2110,.00,,Closed lost,,
+2021-11-18,2021-11-24,Izio,izio.com,Sales Pipeline,Test User 2,2021-12-23,Izio Deal (2021-12-23),1426,.30,,Appointment scheduled,,
+2021-12-16,2021-12-16,Izio,izio.com,Sales Pipeline,Test User 2,2021-12-23,Izio Deal (2021-12-23),825,.00,,Closed lost,,
+2021-12-16,2023-05-16,Izio,izio.com,Sales Pipeline,Test User 2,2021-12-23,Izio Deal (2021-12-23),814,.70,,Decision maker bought-In,,
+2021-11-25,2021-12-15,Izio,izio.com,Sales Pipeline,Test User 2,2021-12-23,Izio Deal (2021-12-23),879,.40,,Presentation scheduled,,
+2021-11-11,2021-11-17,Izio,izio.com,Sales Pipeline,Test User 2,2021-12-23,Izio Deal (2021-12-23),1430,.20,,Qualified to buy,,
+2020-05-23,2020-05-29,Skyndu,skyndu.com,Sales Pipeline,Test User 2,2020-06-27,Skyndu Deal (2020-06-27),5376,.30,,Appointment scheduled,,
+2020-06-20,2020-06-20,Skyndu,skyndu.com,Sales Pipeline,Test User 2,2020-06-27,Skyndu Deal (2020-06-27),4074,.00,,Closed lost,,
+2020-06-20,2023-05-16,Skyndu,skyndu.com,Sales Pipeline,Test User 2,2020-06-27,Skyndu Deal (2020-06-27),5886,.70,,Decision maker bought-In,,
+2020-05-30,2020-06-19,Skyndu,skyndu.com,Sales Pipeline,Test User 2,2020-06-27,Skyndu Deal (2020-06-27),6415,.40,,Presentation scheduled,,
+2020-05-16,2020-05-22,Skyndu,skyndu.com,Sales Pipeline,Test User 2,2020-06-27,Skyndu Deal (2020-06-27),6376,.20,,Qualified to buy,,
+2020-09-12,2020-09-18,Trilith,trilith.com,Sales Pipeline,Clayton Farr,2020-10-31,Trilith Deal (2020-10-31),6640,.30,,Appointment scheduled,2020-11-28,High
+2020-10-24,2020-10-24,Trilith,trilith.com,Sales Pipeline,Clayton Farr,2020-10-31,Trilith Deal (2020-10-31),5859,.00,,Closed lost,2020-11-28,High
+2020-10-17,2020-10-23,Trilith,trilith.com,Sales Pipeline,Clayton Farr,2020-10-31,Trilith Deal (2020-10-31),5204,.80,,Contract sent,2020-11-28,High
+2020-10-10,2020-10-16,Trilith,trilith.com,Sales Pipeline,Clayton Farr,2020-10-31,Trilith Deal (2020-10-31),5457,.70,,Decision maker bought-In,2020-11-28,High
+2020-09-19,2020-10-09,Trilith,trilith.com,Sales Pipeline,Clayton Farr,2020-10-31,Trilith Deal (2020-10-31),4994,.40,,Presentation scheduled,2020-11-28,High
+2020-09-05,2020-09-11,Trilith,trilith.com,Sales Pipeline,Clayton Farr,2020-10-31,Trilith Deal (2020-10-31),5625,.20,,Qualified to buy,2020-11-28,High
+2021-03-07,2021-03-13,InnoZ,innoz.com,Sales Pipeline,Test User 2,2021-04-25,InnoZ Deal (2021-04-25),1346,.30,,Appointment scheduled,2021-06-02,High
+2021-04-18,2021-04-18,InnoZ,innoz.com,Sales Pipeline,Test User 2,2021-04-25,InnoZ Deal (2021-04-25),1648,.00,,Closed lost,2021-06-02,High
+2021-04-11,2021-04-17,InnoZ,innoz.com,Sales Pipeline,Test User 2,2021-04-25,InnoZ Deal (2021-04-25),1393,.80,,Contract sent,2021-06-02,High
+2021-04-04,2021-04-10,InnoZ,innoz.com,Sales Pipeline,Test User 2,2021-04-25,InnoZ Deal (2021-04-25),1544,.70,,Decision maker bought-In,2021-06-02,High
+2021-03-14,2021-04-03,InnoZ,innoz.com,Sales Pipeline,Test User 2,2021-04-25,InnoZ Deal (2021-04-25),1225,.40,,Presentation scheduled,2021-06-02,High
+2021-02-28,2021-03-06,InnoZ,innoz.com,Sales Pipeline,Test User 2,2021-04-25,InnoZ Deal (2021-04-25),1801,.20,,Qualified to buy,2021-06-02,High
+2020-05-05,2020-05-11,Wikibox,wikibox.com,Sales Pipeline,Test User 2,2020-06-09,Wikibox Deal (2020-06-09),2358,.30,,Appointment scheduled,,
+2020-06-02,2020-06-02,Wikibox,wikibox.com,Sales Pipeline,Test User 2,2020-06-09,Wikibox Deal (2020-06-09),1822,.00,,Closed lost,,
+2020-06-02,2023-05-16,Wikibox,wikibox.com,Sales Pipeline,Test User 2,2020-06-09,Wikibox Deal (2020-06-09),1429,.70,,Decision maker bought-In,,
+2020-05-12,2020-06-01,Wikibox,wikibox.com,Sales Pipeline,Test User 2,2020-06-09,Wikibox Deal (2020-06-09),2419,.40,,Presentation scheduled,,
+2020-04-28,2020-05-04,Wikibox,wikibox.com,Sales Pipeline,Test User 2,2020-06-09,Wikibox Deal (2020-06-09),1465,.20,,Qualified to buy,,
+2021-01-01,2023-05-16,Plambee,plambee.com,Sales Pipeline,Test User 2,2021-01-08,Plambee Deal (2021-01-08),2199,.30,,Appointment scheduled,,Low
+2021-01-01,2021-01-01,Plambee,plambee.com,Sales Pipeline,Test User 2,2021-01-08,Plambee Deal (2021-01-08),2607,.00,,Closed lost,,Low
+2020-12-25,2020-12-31,Plambee,plambee.com,Sales Pipeline,Test User 2,2021-01-08,Plambee Deal (2021-01-08),1573,.20,,Qualified to buy,,Low
+2021-10-29,2021-10-29,Skinte,skinte.com,Sales Pipeline,Clayton Farr,2021-11-05,Skinte Deal (2021-11-05),1344,.00,,Closed lost,,
+2021-10-29,2023-05-16,Skinte,skinte.com,Sales Pipeline,Clayton Farr,2021-11-05,Skinte Deal (2021-11-05),856,.20,,Qualified to buy,,
+2020-07-26,2020-08-01,Skyvu,skyvu.com,Sales Pipeline,Clayton Farr,2020-09-13,Skyvu Deal (2020-09-13),7939,.30,,Appointment scheduled,2020-10-25,
+2020-09-06,2020-09-06,Skyvu,skyvu.com,Sales Pipeline,Clayton Farr,2020-09-13,Skyvu Deal (2020-09-13),6778,.00,,Closed lost,2020-10-25,
+2020-08-30,2020-09-05,Skyvu,skyvu.com,Sales Pipeline,Clayton Farr,2020-09-13,Skyvu Deal (2020-09-13),4457,.80,,Contract sent,2020-10-25,
+2020-08-23,2020-08-29,Skyvu,skyvu.com,Sales Pipeline,Clayton Farr,2020-09-13,Skyvu Deal (2020-09-13),7565,.70,,Decision maker bought-In,2020-10-25,
+2020-08-02,2020-08-22,Skyvu,skyvu.com,Sales Pipeline,Clayton Farr,2020-09-13,Skyvu Deal (2020-09-13),6402,.40,,Presentation scheduled,2020-10-25,
+2020-07-19,2020-07-25,Skyvu,skyvu.com,Sales Pipeline,Clayton Farr,2020-09-13,Skyvu Deal (2020-09-13),7066,.20,,Qualified to buy,2020-10-25,
+2020-05-21,2020-05-27,Skiba,skiba.com,Sales Pipeline,Clayton Farr,2020-07-09,Skiba Deal (2020-07-09),5967,.30,,Appointment scheduled,2020-07-29,
+2020-07-02,2020-07-02,Skiba,skiba.com,Sales Pipeline,Clayton Farr,2020-07-09,Skiba Deal (2020-07-09),6116,.00,,Closed lost,2020-07-29,
+2020-06-25,2020-07-01,Skiba,skiba.com,Sales Pipeline,Clayton Farr,2020-07-09,Skiba Deal (2020-07-09),7606,.80,,Contract sent,2020-07-29,
+2020-06-18,2020-06-24,Skiba,skiba.com,Sales Pipeline,Clayton Farr,2020-07-09,Skiba Deal (2020-07-09),7390,.70,,Decision maker bought-In,2020-07-29,
+2020-05-28,2020-06-17,Skiba,skiba.com,Sales Pipeline,Clayton Farr,2020-07-09,Skiba Deal (2020-07-09),5377,.40,,Presentation scheduled,2020-07-29,
+2020-05-14,2020-05-20,Skiba,skiba.com,Sales Pipeline,Clayton Farr,2020-07-09,Skiba Deal (2020-07-09),6439,.20,,Qualified to buy,2020-07-29,
+2021-04-07,2021-04-13,Mydo,mydo.com,Sales Pipeline,Clayton Farr,2021-05-26,Mydo Deal (2021-05-26),7262,.30,,Appointment scheduled,2021-06-27,
+2021-05-19,2021-05-19,Mydo,mydo.com,Sales Pipeline,Clayton Farr,2021-05-26,Mydo Deal (2021-05-26),4565,.00,,Closed lost,2021-06-27,
+2021-05-12,2021-05-18,Mydo,mydo.com,Sales Pipeline,Clayton Farr,2021-05-26,Mydo Deal (2021-05-26),6064,.80,,Contract sent,2021-06-27,
+2021-05-05,2021-05-11,Mydo,mydo.com,Sales Pipeline,Clayton Farr,2021-05-26,Mydo Deal (2021-05-26),5874,.70,,Decision maker bought-In,2021-06-27,
+2021-04-14,2021-05-04,Mydo,mydo.com,Sales Pipeline,Clayton Farr,2021-05-26,Mydo Deal (2021-05-26),7089,.40,,Presentation scheduled,2021-06-27,
+2021-03-31,2021-04-06,Mydo,mydo.com,Sales Pipeline,Clayton Farr,2021-05-26,Mydo Deal (2021-05-26),4073,.20,,Qualified to buy,2021-06-27,
+2020-03-20,2020-03-20,Zoovu,zoovu.com,Sales Pipeline,Test User 2,2020-03-27,Zoovu Deal (2020-03-27),1647,.00,,Closed lost,,
+2021-05-09,2021-05-15,Thoughtblab,thoughtblab.com,Sales Pipeline,Clayton Farr,2021-06-27,Thoughtblab Deal (2021-06-27),6528,.30,,Appointment scheduled,2021-08-05,
+2021-06-20,2021-06-20,Thoughtblab,thoughtblab.com,Sales Pipeline,Clayton Farr,2021-06-27,Thoughtblab Deal (2021-06-27),7136,.00,,Closed lost,2021-08-05,
+2021-06-13,2021-06-19,Thoughtblab,thoughtblab.com,Sales Pipeline,Clayton Farr,2021-06-27,Thoughtblab Deal (2021-06-27),5738,.80,,Contract sent,2021-08-05,
+2021-06-06,2021-06-12,Thoughtblab,thoughtblab.com,Sales Pipeline,Clayton Farr,2021-06-27,Thoughtblab Deal (2021-06-27),6060,.70,,Decision maker bought-In,2021-08-05,
+2021-05-16,2021-06-05,Thoughtblab,thoughtblab.com,Sales Pipeline,Clayton Farr,2021-06-27,Thoughtblab Deal (2021-06-27),6855,.40,,Presentation scheduled,2021-08-05,
+2021-05-02,2021-05-08,Thoughtblab,thoughtblab.com,Sales Pipeline,Clayton Farr,2021-06-27,Thoughtblab Deal (2021-06-27),5907,.20,,Qualified to buy,2021-08-05,
+2021-09-20,2021-09-20,Mydo,mydo.com,Sales Pipeline,Test User 2,2021-09-27,Mydo Deal (2021-09-27),396,.00,,Closed lost,,Medium
+2021-09-20,2023-05-16,Mydo,mydo.com,Sales Pipeline,Test User 2,2021-09-27,Mydo Deal (2021-09-27),288,.20,,Qualified to buy,,Medium
+2020-03-30,2020-04-05,Agivu,agivu.com,Sales Pipeline,Test User 2,2020-04-27,Agivu Deal (2020-04-27),6528,.30,,Appointment scheduled,,Medium
+2020-04-20,2020-04-20,Agivu,agivu.com,Sales Pipeline,Test User 2,2020-04-27,Agivu Deal (2020-04-27),7256,.00,,Closed lost,,Medium
+2020-04-06,2020-04-19,Agivu,agivu.com,Sales Pipeline,Test User 2,2020-04-27,Agivu Deal (2020-04-27),4775,.40,,Presentation scheduled,,Medium
+2020-03-23,2020-03-29,Agivu,agivu.com,Sales Pipeline,Test User 2,2020-04-27,Agivu Deal (2020-04-27),7914,.20,,Qualified to buy,,Medium
+2020-08-28,2020-09-03,Yoveo,yoveo.com,Sales Pipeline,Clayton Farr,2020-10-16,Yoveo Deal (2020-10-16),3829,.30,,Appointment scheduled,2020-11-20,
+2020-10-09,2020-10-09,Yoveo,yoveo.com,Sales Pipeline,Clayton Farr,2020-10-16,Yoveo Deal (2020-10-16),4612,.00,,Closed lost,2020-11-20,
+2020-10-02,2020-10-08,Yoveo,yoveo.com,Sales Pipeline,Clayton Farr,2020-10-16,Yoveo Deal (2020-10-16),6006,.80,,Contract sent,2020-11-20,
+2020-09-25,2020-10-01,Yoveo,yoveo.com,Sales Pipeline,Clayton Farr,2020-10-16,Yoveo Deal (2020-10-16),4969,.70,,Decision maker bought-In,2020-11-20,
+2020-09-04,2020-09-24,Yoveo,yoveo.com,Sales Pipeline,Clayton Farr,2020-10-16,Yoveo Deal (2020-10-16),4755,.40,,Presentation scheduled,2020-11-20,
+2020-08-21,2020-08-27,Yoveo,yoveo.com,Sales Pipeline,Clayton Farr,2020-10-16,Yoveo Deal (2020-10-16),5986,.20,,Qualified to buy,2020-11-20,
+2020-05-29,2020-05-29,Skalith,skalith.com,Sales Pipeline,Test User 2,2020-06-05,Skalith Deal (2020-06-05),4117,.00,,Closed lost,,Medium
+2020-05-29,2023-05-16,Skalith,skalith.com,Sales Pipeline,Test User 2,2020-06-05,Skalith Deal (2020-06-05),6137,.20,,Qualified to buy,,Medium
+2019-12-21,2019-12-27,Vimbo,vimbo.com,Sales Pipeline,Test User 2,2020-02-08,Vimbo Deal (2020-02-08),1840,.30,,Appointment scheduled,2020-02-27,
+2020-02-01,2020-02-01,Vimbo,vimbo.com,Sales Pipeline,Test User 2,2020-02-08,Vimbo Deal (2020-02-08),2038,.00,,Closed lost,2020-02-27,
+2020-01-25,2020-01-31,Vimbo,vimbo.com,Sales Pipeline,Test User 2,2020-02-08,Vimbo Deal (2020-02-08),2114,.80,,Contract sent,2020-02-27,
+2020-01-18,2020-01-24,Vimbo,vimbo.com,Sales Pipeline,Test User 2,2020-02-08,Vimbo Deal (2020-02-08),1779,.70,,Decision maker bought-In,2020-02-27,
+2019-12-28,2020-01-17,Vimbo,vimbo.com,Sales Pipeline,Test User 2,2020-02-08,Vimbo Deal (2020-02-08),2076,.40,,Presentation scheduled,2020-02-27,
+2019-12-14,2019-12-20,Vimbo,vimbo.com,Sales Pipeline,Test User 2,2020-02-08,Vimbo Deal (2020-02-08),2217,.20,,Qualified to buy,2020-02-27,
+2020-09-06,2020-09-12,Jaxworks,jaxworks.com,Sales Pipeline,Clayton Farr,2020-10-04,Jaxworks Deal (2020-10-04),7907,.30,,Appointment scheduled,,
+2020-09-27,2020-09-27,Jaxworks,jaxworks.com,Sales Pipeline,Clayton Farr,2020-10-04,Jaxworks Deal (2020-10-04),5247,.00,,Closed lost,,
+2020-09-13,2020-09-26,Jaxworks,jaxworks.com,Sales Pipeline,Clayton Farr,2020-10-04,Jaxworks Deal (2020-10-04),8820,.40,,Presentation scheduled,,
+2020-08-30,2020-09-05,Jaxworks,jaxworks.com,Sales Pipeline,Clayton Farr,2020-10-04,Jaxworks Deal (2020-10-04),7187,.20,,Qualified to buy,,
+2021-04-05,2021-04-11,Gevee,gevee.com,Sales Pipeline,Test User 2,2021-05-24,Gevee Deal (2021-05-24),3638,.30,,Appointment scheduled,2021-06-18,
+2021-05-17,2021-05-17,Gevee,gevee.com,Sales Pipeline,Test User 2,2021-05-24,Gevee Deal (2021-05-24),2035,.00,,Closed lost,2021-06-18,
+2021-05-10,2021-05-16,Gevee,gevee.com,Sales Pipeline,Test User 2,2021-05-24,Gevee Deal (2021-05-24),3726,.80,,Contract sent,2021-06-18,
+2021-05-03,2021-05-09,Gevee,gevee.com,Sales Pipeline,Test User 2,2021-05-24,Gevee Deal (2021-05-24),2019,.70,,Decision maker bought-In,2021-06-18,
+2021-04-12,2021-05-02,Gevee,gevee.com,Sales Pipeline,Test User 2,2021-05-24,Gevee Deal (2021-05-24),2807,.40,,Presentation scheduled,2021-06-18,
+2021-03-29,2021-04-04,Gevee,gevee.com,Sales Pipeline,Test User 2,2021-05-24,Gevee Deal (2021-05-24),3133,.20,,Qualified to buy,2021-06-18,
+2020-04-03,2020-04-09,Lazzy,lazzy.com,Sales Pipeline,Clayton Farr,2020-05-22,Lazzy Deal (2020-05-22),5294,.30,,Appointment scheduled,2020-07-04,Medium
+2020-05-15,2020-05-15,Lazzy,lazzy.com,Sales Pipeline,Clayton Farr,2020-05-22,Lazzy Deal (2020-05-22),5558,.00,,Closed lost,2020-07-04,Medium
+2020-05-08,2020-05-14,Lazzy,lazzy.com,Sales Pipeline,Clayton Farr,2020-05-22,Lazzy Deal (2020-05-22),4769,.80,,Contract sent,2020-07-04,Medium
+2020-05-01,2020-05-07,Lazzy,lazzy.com,Sales Pipeline,Clayton Farr,2020-05-22,Lazzy Deal (2020-05-22),6432,.70,,Decision maker bought-In,2020-07-04,Medium
+2020-04-10,2020-04-30,Lazzy,lazzy.com,Sales Pipeline,Clayton Farr,2020-05-22,Lazzy Deal (2020-05-22),4243,.40,,Presentation scheduled,2020-07-04,Medium
+2020-03-27,2020-04-02,Lazzy,lazzy.com,Sales Pipeline,Clayton Farr,2020-05-22,Lazzy Deal (2020-05-22),5597,.20,,Qualified to buy,2020-07-04,Medium
+2020-04-19,2020-04-25,Plambee,plambee.com,Sales Pipeline,Test User 2,2020-05-24,Plambee Deal (2020-05-24),3102,.30,,Appointment scheduled,,
+2020-05-17,2020-05-17,Plambee,plambee.com,Sales Pipeline,Test User 2,2020-05-24,Plambee Deal (2020-05-24),2162,.00,,Closed lost,,
+2020-05-17,2023-05-16,Plambee,plambee.com,Sales Pipeline,Test User 2,2020-05-24,Plambee Deal (2020-05-24),1945,.70,,Decision maker bought-In,,
+2020-04-26,2020-05-16,Plambee,plambee.com,Sales Pipeline,Test User 2,2020-05-24,Plambee Deal (2020-05-24),2147,.40,,Presentation scheduled,,
+2020-04-12,2020-04-18,Plambee,plambee.com,Sales Pipeline,Test User 2,2020-05-24,Plambee Deal (2020-05-24),2012,.20,,Qualified to buy,,
+2020-08-07,2020-08-13,Izio,izio.com,Sales Pipeline,Clayton Farr,2020-09-25,Izio Deal (2020-09-25),3194,.30,,Appointment scheduled,2020-10-28,
+2020-09-18,2020-09-18,Izio,izio.com,Sales Pipeline,Clayton Farr,2020-09-25,Izio Deal (2020-09-25),3542,.00,,Closed lost,2020-10-28,
+2020-09-11,2020-09-17,Izio,izio.com,Sales Pipeline,Clayton Farr,2020-09-25,Izio Deal (2020-09-25),3985,.80,,Contract sent,2020-10-28,
+2020-09-04,2020-09-10,Izio,izio.com,Sales Pipeline,Clayton Farr,2020-09-25,Izio Deal (2020-09-25),2589,.70,,Decision maker bought-In,2020-10-28,
+2020-08-14,2020-09-03,Izio,izio.com,Sales Pipeline,Clayton Farr,2020-09-25,Izio Deal (2020-09-25),3895,.40,,Presentation scheduled,2020-10-28,
+2020-07-31,2020-08-06,Izio,izio.com,Sales Pipeline,Clayton Farr,2020-09-25,Izio Deal (2020-09-25),3638,.20,,Qualified to buy,2020-10-28,
+2021-09-09,2021-09-09,Voonte,voonte.com,Sales Pipeline,Clayton Farr,2021-09-16,Voonte Deal (2021-09-16),2611,.00,,Closed lost,,Low
+2021-09-09,2023-05-16,Voonte,voonte.com,Sales Pipeline,Clayton Farr,2021-09-16,Voonte Deal (2021-09-16),4893,.20,,Qualified to buy,,Low
+2020-05-14,2020-05-20,Yambee,yambee.com,Sales Pipeline,Test User 2,2020-07-02,Yambee Deal (2020-07-02),4069,.30,,Appointment scheduled,2020-08-02,Low
+2020-06-25,2020-06-25,Yambee,yambee.com,Sales Pipeline,Test User 2,2020-07-02,Yambee Deal (2020-07-02),6102,.00,,Closed lost,2020-08-02,Low
+2020-06-18,2020-06-24,Yambee,yambee.com,Sales Pipeline,Test User 2,2020-07-02,Yambee Deal (2020-07-02),4140,.80,,Contract sent,2020-08-02,Low
+2020-06-11,2020-06-17,Yambee,yambee.com,Sales Pipeline,Test User 2,2020-07-02,Yambee Deal (2020-07-02),5233,.70,,Decision maker bought-In,2020-08-02,Low
+2020-05-21,2020-06-10,Yambee,yambee.com,Sales Pipeline,Test User 2,2020-07-02,Yambee Deal (2020-07-02),6480,.40,,Presentation scheduled,2020-08-02,Low
+2020-05-07,2020-05-13,Yambee,yambee.com,Sales Pipeline,Test User 2,2020-07-02,Yambee Deal (2020-07-02),5398,.20,,Qualified to buy,2020-08-02,Low
+2019-12-28,2020-01-03,Zooveo,zooveo.com,Sales Pipeline,Test User 2,2020-02-15,Zooveo Deal (2020-02-15),2588,.30,,Appointment scheduled,2020-03-17,
+2020-02-08,2020-02-08,Zooveo,zooveo.com,Sales Pipeline,Test User 2,2020-02-15,Zooveo Deal (2020-02-15),2042,.00,,Closed lost,2020-03-17,
+2020-02-01,2020-02-07,Zooveo,zooveo.com,Sales Pipeline,Test User 2,2020-02-15,Zooveo Deal (2020-02-15),3096,.80,,Contract sent,2020-03-17,
+2020-01-25,2020-01-31,Zooveo,zooveo.com,Sales Pipeline,Test User 2,2020-02-15,Zooveo Deal (2020-02-15),2721,.70,,Decision maker bought-In,2020-03-17,
+2020-01-04,2020-01-24,Zooveo,zooveo.com,Sales Pipeline,Test User 2,2020-02-15,Zooveo Deal (2020-02-15),2247,.40,,Presentation scheduled,2020-03-17,
+2019-12-21,2019-12-27,Zooveo,zooveo.com,Sales Pipeline,Test User 2,2020-02-15,Zooveo Deal (2020-02-15),2401,.20,,Qualified to buy,2020-03-17,
+2020-09-03,2020-09-03,Skyvu,skyvu.com,Sales Pipeline,Test User 2,2020-09-10,Skyvu Deal (2020-09-10),3657,.00,,Closed lost,,Low
+2020-05-22,2020-05-28,Nlounge,nlounge.com,Sales Pipeline,Clayton Farr,2020-07-10,Nlounge Deal (2020-07-10),2057,.30,,Appointment scheduled,2020-07-30,
+2020-07-03,2020-07-03,Nlounge,nlounge.com,Sales Pipeline,Clayton Farr,2020-07-10,Nlounge Deal (2020-07-10),3172,.00,,Closed lost,2020-07-30,
+2020-06-26,2020-07-02,Nlounge,nlounge.com,Sales Pipeline,Clayton Farr,2020-07-10,Nlounge Deal (2020-07-10),3469,.80,,Contract sent,2020-07-30,
+2020-06-19,2020-06-25,Nlounge,nlounge.com,Sales Pipeline,Clayton Farr,2020-07-10,Nlounge Deal (2020-07-10),2404,.70,,Decision maker bought-In,2020-07-30,
+2020-05-29,2020-06-18,Nlounge,nlounge.com,Sales Pipeline,Clayton Farr,2020-07-10,Nlounge Deal (2020-07-10),2344,.40,,Presentation scheduled,2020-07-30,
+2020-05-15,2020-05-21,Nlounge,nlounge.com,Sales Pipeline,Clayton Farr,2020-07-10,Nlounge Deal (2020-07-10),2735,.20,,Qualified to buy,2020-07-30,
+2020-11-09,2020-11-15,Devshare,devshare.com,Sales Pipeline,Test User 2,2020-12-28,Devshare Deal (2020-12-28),7977,.30,,Appointment scheduled,2021-01-12,
+2020-12-21,2020-12-21,Devshare,devshare.com,Sales Pipeline,Test User 2,2020-12-28,Devshare Deal (2020-12-28),8301,.00,,Closed lost,2021-01-12,
+2020-12-14,2020-12-20,Devshare,devshare.com,Sales Pipeline,Test User 2,2020-12-28,Devshare Deal (2020-12-28),5443,.80,,Contract sent,2021-01-12,
+2020-12-07,2020-12-13,Devshare,devshare.com,Sales Pipeline,Test User 2,2020-12-28,Devshare Deal (2020-12-28),5719,.70,,Decision maker bought-In,2021-01-12,
+2020-11-16,2020-12-06,Devshare,devshare.com,Sales Pipeline,Test User 2,2020-12-28,Devshare Deal (2020-12-28),8040,.40,,Presentation scheduled,2021-01-12,
+2020-11-02,2020-11-08,Devshare,devshare.com,Sales Pipeline,Test User 2,2020-12-28,Devshare Deal (2020-12-28),4736,.20,,Qualified to buy,2021-01-12,
+2021-04-10,2021-04-16,Npath,npath.com,Sales Pipeline,Clayton Farr,2021-05-29,Npath Deal (2021-05-29),259,.30,,Appointment scheduled,2021-06-23,
+2021-05-22,2021-05-22,Npath,npath.com,Sales Pipeline,Clayton Farr,2021-05-29,Npath Deal (2021-05-29),261,.00,,Closed lost,2021-06-23,
+2021-05-15,2021-05-21,Npath,npath.com,Sales Pipeline,Clayton Farr,2021-05-29,Npath Deal (2021-05-29),235,.80,,Contract sent,2021-06-23,
+2021-05-08,2021-05-14,Npath,npath.com,Sales Pipeline,Clayton Farr,2021-05-29,Npath Deal (2021-05-29),255,.70,,Decision maker bought-In,2021-06-23,
+2021-04-17,2021-05-07,Npath,npath.com,Sales Pipeline,Clayton Farr,2021-05-29,Npath Deal (2021-05-29),218,.40,,Presentation scheduled,2021-06-23,
+2021-04-03,2021-04-09,Npath,npath.com,Sales Pipeline,Clayton Farr,2021-05-29,Npath Deal (2021-05-29),266,.20,,Qualified to buy,2021-06-23,
+2021-04-25,2021-05-01,Viva,viva.com,Sales Pipeline,Clayton Farr,2021-06-13,Viva Deal (2021-06-13),1292,.30,,Appointment scheduled,2021-07-16,
+2021-06-06,2021-06-06,Viva,viva.com,Sales Pipeline,Clayton Farr,2021-06-13,Viva Deal (2021-06-13),1560,.00,,Closed lost,2021-07-16,
+2021-05-30,2021-06-05,Viva,viva.com,Sales Pipeline,Clayton Farr,2021-06-13,Viva Deal (2021-06-13),1147,.80,,Contract sent,2021-07-16,
+2021-05-23,2021-05-29,Viva,viva.com,Sales Pipeline,Clayton Farr,2021-06-13,Viva Deal (2021-06-13),859,.70,,Decision maker bought-In,2021-07-16,
+2021-05-02,2021-05-22,Viva,viva.com,Sales Pipeline,Clayton Farr,2021-06-13,Viva Deal (2021-06-13),1206,.40,,Presentation scheduled,2021-07-16,
+2021-04-18,2021-04-24,Viva,viva.com,Sales Pipeline,Clayton Farr,2021-06-13,Viva Deal (2021-06-13),1340,.20,,Qualified to buy,2021-07-16,
+2020-08-04,2020-08-10,Feednation,feednation.com,Sales Pipeline,Clayton Farr,2020-09-22,Feednation Deal (2020-09-22),3636,.30,,Appointment scheduled,2020-10-13,
+2020-09-15,2020-09-15,Feednation,feednation.com,Sales Pipeline,Clayton Farr,2020-09-22,Feednation Deal (2020-09-22),5152,.00,,Closed lost,2020-10-13,
+2020-09-08,2020-09-14,Feednation,feednation.com,Sales Pipeline,Clayton Farr,2020-09-22,Feednation Deal (2020-09-22),4957,.80,,Contract sent,2020-10-13,
+2020-09-01,2020-09-07,Feednation,feednation.com,Sales Pipeline,Clayton Farr,2020-09-22,Feednation Deal (2020-09-22),5700,.70,,Decision maker bought-In,2020-10-13,
+2020-08-11,2020-08-31,Feednation,feednation.com,Sales Pipeline,Clayton Farr,2020-09-22,Feednation Deal (2020-09-22),4826,.40,,Presentation scheduled,2020-10-13,
+2020-07-28,2020-08-03,Feednation,feednation.com,Sales Pipeline,Clayton Farr,2020-09-22,Feednation Deal (2020-09-22),4921,.20,,Qualified to buy,2020-10-13,
+2020-02-22,2020-02-28,Meezzy,meezzy.com,Sales Pipeline,Clayton Farr,2020-04-11,Meezzy Deal (2020-04-11),1867,.30,,Appointment scheduled,2020-05-24,
+2020-04-04,2020-04-04,Meezzy,meezzy.com,Sales Pipeline,Clayton Farr,2020-04-11,Meezzy Deal (2020-04-11),2064,.00,,Closed lost,2020-05-24,
+2020-03-28,2020-04-03,Meezzy,meezzy.com,Sales Pipeline,Clayton Farr,2020-04-11,Meezzy Deal (2020-04-11),2296,.80,,Contract sent,2020-05-24,
+2020-03-21,2020-03-27,Meezzy,meezzy.com,Sales Pipeline,Clayton Farr,2020-04-11,Meezzy Deal (2020-04-11),3348,.70,,Decision maker bought-In,2020-05-24,
+2020-02-29,2020-03-20,Meezzy,meezzy.com,Sales Pipeline,Clayton Farr,2020-04-11,Meezzy Deal (2020-04-11),2996,.40,,Presentation scheduled,2020-05-24,
+2020-02-15,2020-02-21,Meezzy,meezzy.com,Sales Pipeline,Clayton Farr,2020-04-11,Meezzy Deal (2020-04-11),1968,.20,,Qualified to buy,2020-05-24,
+2021-09-14,2021-09-20,Jaxnation,jaxnation.com,Sales Pipeline,Clayton Farr,2021-11-02,Jaxnation Deal (2021-11-02),1725,.30,,Appointment scheduled,2021-11-27,
+2021-10-26,2021-10-26,Jaxnation,jaxnation.com,Sales Pipeline,Clayton Farr,2021-11-02,Jaxnation Deal (2021-11-02),1736,.00,,Closed lost,2021-11-27,
+2021-10-19,2021-10-25,Jaxnation,jaxnation.com,Sales Pipeline,Clayton Farr,2021-11-02,Jaxnation Deal (2021-11-02),1715,.80,,Contract sent,2021-11-27,
+2021-10-12,2021-10-18,Jaxnation,jaxnation.com,Sales Pipeline,Clayton Farr,2021-11-02,Jaxnation Deal (2021-11-02),1676,.70,,Decision maker bought-In,2021-11-27,
+2021-09-21,2021-10-11,Jaxnation,jaxnation.com,Sales Pipeline,Clayton Farr,2021-11-02,Jaxnation Deal (2021-11-02),2197,.40,,Presentation scheduled,2021-11-27,
+2021-09-07,2021-09-13,Jaxnation,jaxnation.com,Sales Pipeline,Clayton Farr,2021-11-02,Jaxnation Deal (2021-11-02),1621,.20,,Qualified to buy,2021-11-27,
+2019-12-21,2019-12-27,Quimm,quimm.com,Sales Pipeline,Test User 2,2020-02-08,Quimm Deal (2020-02-08),5876,.30,,Appointment scheduled,2020-02-24,
+2020-02-01,2020-02-01,Quimm,quimm.com,Sales Pipeline,Test User 2,2020-02-08,Quimm Deal (2020-02-08),4629,.00,,Closed lost,2020-02-24,
+2020-01-25,2020-01-31,Quimm,quimm.com,Sales Pipeline,Test User 2,2020-02-08,Quimm Deal (2020-02-08),5203,.80,,Contract sent,2020-02-24,
+2020-01-18,2020-01-24,Quimm,quimm.com,Sales Pipeline,Test User 2,2020-02-08,Quimm Deal (2020-02-08),6271,.70,,Decision maker bought-In,2020-02-24,
+2019-12-28,2020-01-17,Quimm,quimm.com,Sales Pipeline,Test User 2,2020-02-08,Quimm Deal (2020-02-08),7338,.40,,Presentation scheduled,2020-02-24,
+2019-12-14,2019-12-20,Quimm,quimm.com,Sales Pipeline,Test User 2,2020-02-08,Quimm Deal (2020-02-08),6231,.20,,Qualified to buy,2020-02-24,
+2021-07-06,2021-07-12,Agivu,agivu.com,Sales Pipeline,Clayton Farr,2021-08-24,Agivu Deal (2021-08-24),3134,.30,,Appointment scheduled,2021-09-17,High
+2021-08-17,2021-08-17,Agivu,agivu.com,Sales Pipeline,Clayton Farr,2021-08-24,Agivu Deal (2021-08-24),4787,.00,,Closed lost,2021-09-17,High
+2021-08-10,2021-08-16,Agivu,agivu.com,Sales Pipeline,Clayton Farr,2021-08-24,Agivu Deal (2021-08-24),4030,.80,,Contract sent,2021-09-17,High
+2021-08-03,2021-08-09,Agivu,agivu.com,Sales Pipeline,Clayton Farr,2021-08-24,Agivu Deal (2021-08-24),5227,.70,,Decision maker bought-In,2021-09-17,High
+2021-07-13,2021-08-02,Agivu,agivu.com,Sales Pipeline,Clayton Farr,2021-08-24,Agivu Deal (2021-08-24),4389,.40,,Presentation scheduled,2021-09-17,High
+2021-06-29,2021-07-05,Agivu,agivu.com,Sales Pipeline,Clayton Farr,2021-08-24,Agivu Deal (2021-08-24),3095,.20,,Qualified to buy,2021-09-17,High
+2021-03-13,2021-03-19,Vimbo,vimbo.com,Sales Pipeline,Test User 2,2021-04-10,Vimbo Deal (2021-04-10),3362,.30,,Appointment scheduled,,
+2021-04-03,2021-04-03,Vimbo,vimbo.com,Sales Pipeline,Test User 2,2021-04-10,Vimbo Deal (2021-04-10),3307,.00,,Closed lost,,
+2021-03-20,2021-04-02,Vimbo,vimbo.com,Sales Pipeline,Test User 2,2021-04-10,Vimbo Deal (2021-04-10),2404,.40,,Presentation scheduled,,
+2021-03-06,2021-03-12,Vimbo,vimbo.com,Sales Pipeline,Test User 2,2021-04-10,Vimbo Deal (2021-04-10),2628,.20,,Qualified to buy,,
+2020-11-06,2020-11-06,Dynabox,dynabox.com,Sales Pipeline,Clayton Farr,2020-11-13,Dynabox Deal (2020-11-13),1751,.00,,Closed lost,,
+2021-01-19,2021-01-19,Avamm,avamm.com,Sales Pipeline,Clayton Farr,2021-01-26,Avamm Deal (2021-01-26),165,.00,,Closed lost,,High
+2021-01-19,2023-05-16,Avamm,avamm.com,Sales Pipeline,Clayton Farr,2021-01-26,Avamm Deal (2021-01-26),196,.20,,Qualified to buy,,High
+2021-07-17,2021-07-23,Avaveo,avaveo.com,Sales Pipeline,Test User 2,2021-09-04,Avaveo Deal (2021-09-04),5419,.30,,Appointment scheduled,2021-10-11,
+2021-08-28,2021-08-28,Avaveo,avaveo.com,Sales Pipeline,Test User 2,2021-09-04,Avaveo Deal (2021-09-04),8381,.00,,Closed lost,2021-10-11,
+2021-08-21,2021-08-27,Avaveo,avaveo.com,Sales Pipeline,Test User 2,2021-09-04,Avaveo Deal (2021-09-04),4378,.80,,Contract sent,2021-10-11,
+2021-08-14,2021-08-20,Avaveo,avaveo.com,Sales Pipeline,Test User 2,2021-09-04,Avaveo Deal (2021-09-04),4869,.70,,Decision maker bought-In,2021-10-11,
+2021-07-24,2021-08-13,Avaveo,avaveo.com,Sales Pipeline,Test User 2,2021-09-04,Avaveo Deal (2021-09-04),7642,.40,,Presentation scheduled,2021-10-11,
+2021-07-10,2021-07-16,Avaveo,avaveo.com,Sales Pipeline,Test User 2,2021-09-04,Avaveo Deal (2021-09-04),7815,.20,,Qualified to buy,2021-10-11,
+2021-09-11,2021-09-17,Bubbletube,bubbletube.com,Sales Pipeline,Clayton Farr,2021-10-30,Bubbletube Deal (2021-10-30),4029,.30,,Appointment scheduled,2021-12-01,
+2021-10-23,2021-10-23,Bubbletube,bubbletube.com,Sales Pipeline,Clayton Farr,2021-10-30,Bubbletube Deal (2021-10-30),2944,.00,,Closed lost,2021-12-01,
+2021-10-16,2021-10-22,Bubbletube,bubbletube.com,Sales Pipeline,Clayton Farr,2021-10-30,Bubbletube Deal (2021-10-30),2746,.80,,Contract sent,2021-12-01,
+2021-10-09,2021-10-15,Bubbletube,bubbletube.com,Sales Pipeline,Clayton Farr,2021-10-30,Bubbletube Deal (2021-10-30),3114,.70,,Decision maker bought-In,2021-12-01,
+2021-09-18,2021-10-08,Bubbletube,bubbletube.com,Sales Pipeline,Clayton Farr,2021-10-30,Bubbletube Deal (2021-10-30),2873,.40,,Presentation scheduled,2021-12-01,
+2021-09-04,2021-09-10,Bubbletube,bubbletube.com,Sales Pipeline,Clayton Farr,2021-10-30,Bubbletube Deal (2021-10-30),3424,.20,,Qualified to buy,2021-12-01,
+2021-09-13,2021-09-13,Jaxnation,jaxnation.com,Sales Pipeline,Clayton Farr,2021-09-20,Jaxnation Deal (2021-09-20),5257,.00,,Closed lost,,
+2021-09-13,2023-05-16,Jaxnation,jaxnation.com,Sales Pipeline,Clayton Farr,2021-09-20,Jaxnation Deal (2021-09-20),3071,.20,,Qualified to buy,,
+2021-07-06,2021-07-06,Jetwire,jetwire.com,Sales Pipeline,Test User 2,2021-07-13,Jetwire Deal (2021-07-13),3463,.00,,Closed lost,,Medium
+2021-07-06,2023-05-16,Jetwire,jetwire.com,Sales Pipeline,Test User 2,2021-07-13,Jetwire Deal (2021-07-13),2318,.20,,Qualified to buy,,Medium
+2019-12-24,2019-12-30,Skippad,skippad.com,Sales Pipeline,Clayton Farr,2020-02-11,Skippad Deal (2020-02-11),4290,.30,,Appointment scheduled,2020-03-05,High
+2020-02-04,2020-02-04,Skippad,skippad.com,Sales Pipeline,Clayton Farr,2020-02-11,Skippad Deal (2020-02-11),5217,.00,,Closed lost,2020-03-05,High
+2020-01-28,2020-02-03,Skippad,skippad.com,Sales Pipeline,Clayton Farr,2020-02-11,Skippad Deal (2020-02-11),3330,.80,,Contract sent,2020-03-05,High
+2020-01-21,2020-01-27,Skippad,skippad.com,Sales Pipeline,Clayton Farr,2020-02-11,Skippad Deal (2020-02-11),6278,.70,,Decision maker bought-In,2020-03-05,High
+2019-12-31,2020-01-20,Skippad,skippad.com,Sales Pipeline,Clayton Farr,2020-02-11,Skippad Deal (2020-02-11),4465,.40,,Presentation scheduled,2020-03-05,High
+2019-12-17,2019-12-23,Skippad,skippad.com,Sales Pipeline,Clayton Farr,2020-02-11,Skippad Deal (2020-02-11),3638,.20,,Qualified to buy,2020-03-05,High
+2020-12-06,2020-12-12,Yoveo,yoveo.com,Sales Pipeline,Test User 2,2021-01-24,Yoveo Deal (2021-01-24),4506,.30,,Appointment scheduled,2021-02-20,Medium
+2021-01-17,2021-01-17,Yoveo,yoveo.com,Sales Pipeline,Test User 2,2021-01-24,Yoveo Deal (2021-01-24),3873,.00,,Closed lost,2021-02-20,Medium
+2021-01-10,2021-01-16,Yoveo,yoveo.com,Sales Pipeline,Test User 2,2021-01-24,Yoveo Deal (2021-01-24),6356,.80,,Contract sent,2021-02-20,Medium
+2021-01-03,2021-01-09,Yoveo,yoveo.com,Sales Pipeline,Test User 2,2021-01-24,Yoveo Deal (2021-01-24),4336,.70,,Decision maker bought-In,2021-02-20,Medium
+2020-12-13,2021-01-02,Yoveo,yoveo.com,Sales Pipeline,Test User 2,2021-01-24,Yoveo Deal (2021-01-24),4480,.40,,Presentation scheduled,2021-02-20,Medium
+2020-11-29,2020-12-05,Yoveo,yoveo.com,Sales Pipeline,Test User 2,2021-01-24,Yoveo Deal (2021-01-24),3945,.20,,Qualified to buy,2021-02-20,Medium
+2021-04-30,2021-05-06,Centidel,centidel.com,Sales Pipeline,Clayton Farr,2021-06-18,Centidel Deal (2021-06-18),4923,.30,,Appointment scheduled,2021-07-15,High
+2021-06-11,2021-06-11,Centidel,centidel.com,Sales Pipeline,Clayton Farr,2021-06-18,Centidel Deal (2021-06-18),3854,.00,,Closed lost,2021-07-15,High
+2021-06-04,2021-06-10,Centidel,centidel.com,Sales Pipeline,Clayton Farr,2021-06-18,Centidel Deal (2021-06-18),3459,.80,,Contract sent,2021-07-15,High
+2021-05-28,2021-06-03,Centidel,centidel.com,Sales Pipeline,Clayton Farr,2021-06-18,Centidel Deal (2021-06-18),3315,.70,,Decision maker bought-In,2021-07-15,High
+2021-05-07,2021-05-27,Centidel,centidel.com,Sales Pipeline,Clayton Farr,2021-06-18,Centidel Deal (2021-06-18),4231,.40,,Presentation scheduled,2021-07-15,High
+2021-04-23,2021-04-29,Centidel,centidel.com,Sales Pipeline,Clayton Farr,2021-06-18,Centidel Deal (2021-06-18),4132,.20,,Qualified to buy,2021-07-15,High
+2020-02-02,2020-02-08,Browsedrive,browsedrive.com,Sales Pipeline,Clayton Farr,2020-03-22,Browsedrive Deal (2020-03-22),3151,.30,,Appointment scheduled,2020-04-18,
+2020-03-15,2020-03-15,Browsedrive,browsedrive.com,Sales Pipeline,Clayton Farr,2020-03-22,Browsedrive Deal (2020-03-22),2215,.00,,Closed lost,2020-04-18,
+2020-03-08,2020-03-14,Browsedrive,browsedrive.com,Sales Pipeline,Clayton Farr,2020-03-22,Browsedrive Deal (2020-03-22),2628,.80,,Contract sent,2020-04-18,
+2020-03-01,2020-03-07,Browsedrive,browsedrive.com,Sales Pipeline,Clayton Farr,2020-03-22,Browsedrive Deal (2020-03-22),3398,.70,,Decision maker bought-In,2020-04-18,
+2020-02-09,2020-02-29,Browsedrive,browsedrive.com,Sales Pipeline,Clayton Farr,2020-03-22,Browsedrive Deal (2020-03-22),3085,.40,,Presentation scheduled,2020-04-18,
+2020-01-26,2020-02-01,Browsedrive,browsedrive.com,Sales Pipeline,Clayton Farr,2020-03-22,Browsedrive Deal (2020-03-22),4125,.20,,Qualified to buy,2020-04-18,
+2020-05-16,2020-05-22,Yodel,yodel.com,Sales Pipeline,Clayton Farr,2020-07-04,Yodel Deal (2020-07-04),2668,.30,,Appointment scheduled,2020-08-04,
+2020-06-27,2020-06-27,Yodel,yodel.com,Sales Pipeline,Clayton Farr,2020-07-04,Yodel Deal (2020-07-04),1732,.00,,Closed lost,2020-08-04,
+2020-06-20,2020-06-26,Yodel,yodel.com,Sales Pipeline,Clayton Farr,2020-07-04,Yodel Deal (2020-07-04),1804,.80,,Contract sent,2020-08-04,
+2020-06-13,2020-06-19,Yodel,yodel.com,Sales Pipeline,Clayton Farr,2020-07-04,Yodel Deal (2020-07-04),2894,.70,,Decision maker bought-In,2020-08-04,
+2020-05-23,2020-06-12,Yodel,yodel.com,Sales Pipeline,Clayton Farr,2020-07-04,Yodel Deal (2020-07-04),2103,.40,,Presentation scheduled,2020-08-04,
+2020-05-09,2020-05-15,Yodel,yodel.com,Sales Pipeline,Clayton Farr,2020-07-04,Yodel Deal (2020-07-04),3123,.20,,Qualified to buy,2020-08-04,
+2020-07-23,2020-07-29,Abata,abata.com,Sales Pipeline,Test User 2,2020-09-10,Abata Deal (2020-09-10),5398,.30,,Appointment scheduled,2020-10-06,
+2020-09-03,2020-09-03,Abata,abata.com,Sales Pipeline,Test User 2,2020-09-10,Abata Deal (2020-09-10),4689,.00,,Closed lost,2020-10-06,
+2020-08-27,2020-09-02,Abata,abata.com,Sales Pipeline,Test User 2,2020-09-10,Abata Deal (2020-09-10),5697,.80,,Contract sent,2020-10-06,
+2020-08-20,2020-08-26,Abata,abata.com,Sales Pipeline,Test User 2,2020-09-10,Abata Deal (2020-09-10),3442,.70,,Decision maker bought-In,2020-10-06,
+2020-07-30,2020-08-19,Abata,abata.com,Sales Pipeline,Test User 2,2020-09-10,Abata Deal (2020-09-10),4692,.40,,Presentation scheduled,2020-10-06,
+2020-07-16,2020-07-22,Abata,abata.com,Sales Pipeline,Test User 2,2020-09-10,Abata Deal (2020-09-10),4873,.20,,Qualified to buy,2020-10-06,
+2021-10-29,2021-11-04,Eare,eare.com,Sales Pipeline,Test User 2,2021-11-26,Eare Deal (2021-11-26),8147,.30,,Appointment scheduled,,
+2021-11-19,2021-11-19,Eare,eare.com,Sales Pipeline,Test User 2,2021-11-26,Eare Deal (2021-11-26),5211,.00,,Closed lost,,
+2021-11-05,2021-11-18,Eare,eare.com,Sales Pipeline,Test User 2,2021-11-26,Eare Deal (2021-11-26),8731,.40,,Presentation scheduled,,
+2021-10-22,2021-10-28,Eare,eare.com,Sales Pipeline,Test User 2,2021-11-26,Eare Deal (2021-11-26),5465,.20,,Qualified to buy,,
+2020-06-28,2020-06-28,Flashpoint,flashpoint.com,Sales Pipeline,Test User 2,2020-07-05,Flashpoint Deal (2020-07-05),6462,.00,,Closed lost,,Medium
+2021-06-21,2021-06-27,Youspan,youspan.com,Sales Pipeline,Clayton Farr,2021-08-09,Youspan Deal (2021-08-09),3794,.30,,Appointment scheduled,2021-09-10,
+2021-08-02,2021-08-02,Youspan,youspan.com,Sales Pipeline,Clayton Farr,2021-08-09,Youspan Deal (2021-08-09),3354,.00,,Closed lost,2021-09-10,
+2021-07-26,2021-08-01,Youspan,youspan.com,Sales Pipeline,Clayton Farr,2021-08-09,Youspan Deal (2021-08-09),3223,.80,,Contract sent,2021-09-10,
+2021-07-19,2021-07-25,Youspan,youspan.com,Sales Pipeline,Clayton Farr,2021-08-09,Youspan Deal (2021-08-09),5757,.70,,Decision maker bought-In,2021-09-10,
+2021-06-28,2021-07-18,Youspan,youspan.com,Sales Pipeline,Clayton Farr,2021-08-09,Youspan Deal (2021-08-09),4889,.40,,Presentation scheduled,2021-09-10,
+2021-06-14,2021-06-20,Youspan,youspan.com,Sales Pipeline,Clayton Farr,2021-08-09,Youspan Deal (2021-08-09),4495,.20,,Qualified to buy,2021-09-10,
+2021-03-30,2021-04-05,Miboo,miboo.com,Sales Pipeline,Clayton Farr,2021-05-18,Miboo Deal (2021-05-18),4213,.30,,Appointment scheduled,2021-06-26,Medium
+2021-05-11,2021-05-11,Miboo,miboo.com,Sales Pipeline,Clayton Farr,2021-05-18,Miboo Deal (2021-05-18),4440,.00,,Closed lost,2021-06-26,Medium
+2021-05-04,2021-05-10,Miboo,miboo.com,Sales Pipeline,Clayton Farr,2021-05-18,Miboo Deal (2021-05-18),2803,.80,,Contract sent,2021-06-26,Medium
+2021-04-27,2021-05-03,Miboo,miboo.com,Sales Pipeline,Clayton Farr,2021-05-18,Miboo Deal (2021-05-18),4450,.70,,Decision maker bought-In,2021-06-26,Medium
+2021-04-06,2021-04-26,Miboo,miboo.com,Sales Pipeline,Clayton Farr,2021-05-18,Miboo Deal (2021-05-18),3167,.40,,Presentation scheduled,2021-06-26,Medium
+2021-03-23,2021-03-29,Miboo,miboo.com,Sales Pipeline,Clayton Farr,2021-05-18,Miboo Deal (2021-05-18),4520,.20,,Qualified to buy,2021-06-26,Medium
+2021-08-19,2021-08-25,Zava,zava.com,Sales Pipeline,Clayton Farr,2021-10-07,Zava Deal (2021-10-07),1613,.30,,Appointment scheduled,2021-11-18,High
+2021-09-30,2021-09-30,Zava,zava.com,Sales Pipeline,Clayton Farr,2021-10-07,Zava Deal (2021-10-07),1902,.00,,Closed lost,2021-11-18,High
+2021-09-23,2021-09-29,Zava,zava.com,Sales Pipeline,Clayton Farr,2021-10-07,Zava Deal (2021-10-07),2122,.80,,Contract sent,2021-11-18,High
+2021-09-16,2021-09-22,Zava,zava.com,Sales Pipeline,Clayton Farr,2021-10-07,Zava Deal (2021-10-07),1814,.70,,Decision maker bought-In,2021-11-18,High
+2021-08-26,2021-09-15,Zava,zava.com,Sales Pipeline,Clayton Farr,2021-10-07,Zava Deal (2021-10-07),1966,.40,,Presentation scheduled,2021-11-18,High
+2021-08-12,2021-08-18,Zava,zava.com,Sales Pipeline,Clayton Farr,2021-10-07,Zava Deal (2021-10-07),1687,.20,,Qualified to buy,2021-11-18,High
+2021-06-13,2021-06-19,Trilith,trilith.com,Sales Pipeline,Clayton Farr,2021-08-01,Trilith Deal (2021-08-01),3324,.30,,Appointment scheduled,2021-08-31,
+2021-07-25,2021-07-25,Trilith,trilith.com,Sales Pipeline,Clayton Farr,2021-08-01,Trilith Deal (2021-08-01),2257,.00,,Closed lost,2021-08-31,
+2021-07-18,2021-07-24,Trilith,trilith.com,Sales Pipeline,Clayton Farr,2021-08-01,Trilith Deal (2021-08-01),2139,.80,,Contract sent,2021-08-31,
+2021-07-11,2021-07-17,Trilith,trilith.com,Sales Pipeline,Clayton Farr,2021-08-01,Trilith Deal (2021-08-01),3498,.70,,Decision maker bought-In,2021-08-31,
+2021-06-20,2021-07-10,Trilith,trilith.com,Sales Pipeline,Clayton Farr,2021-08-01,Trilith Deal (2021-08-01),1935,.40,,Presentation scheduled,2021-08-31,
+2021-06-06,2021-06-12,Trilith,trilith.com,Sales Pipeline,Clayton Farr,2021-08-01,Trilith Deal (2021-08-01),2823,.20,,Qualified to buy,2021-08-31,
+2021-10-14,2021-10-20,Muxo,muxo.com,Sales Pipeline,Test User 2,2021-12-02,Muxo Deal (2021-12-02),1625,.30,,Appointment scheduled,2022-01-03,Low
+2021-11-25,2021-11-25,Muxo,muxo.com,Sales Pipeline,Test User 2,2021-12-02,Muxo Deal (2021-12-02),1770,.00,,Closed lost,2022-01-03,Low
+2021-11-18,2021-11-24,Muxo,muxo.com,Sales Pipeline,Test User 2,2021-12-02,Muxo Deal (2021-12-02),1204,.80,,Contract sent,2022-01-03,Low
+2021-11-11,2021-11-17,Muxo,muxo.com,Sales Pipeline,Test User 2,2021-12-02,Muxo Deal (2021-12-02),1213,.70,,Decision maker bought-In,2022-01-03,Low
+2021-10-21,2021-11-10,Muxo,muxo.com,Sales Pipeline,Test User 2,2021-12-02,Muxo Deal (2021-12-02),1727,.40,,Presentation scheduled,2022-01-03,Low
+2021-10-07,2021-10-13,Muxo,muxo.com,Sales Pipeline,Test User 2,2021-12-02,Muxo Deal (2021-12-02),2074,.20,,Qualified to buy,2022-01-03,Low
+2021-11-02,2021-11-08,Brainsphere,brainsphere.com,Sales Pipeline,Clayton Farr,2021-12-21,Brainsphere Deal (2021-12-21),789,.30,,Appointment scheduled,2022-01-23,High
+2021-12-14,2021-12-14,Brainsphere,brainsphere.com,Sales Pipeline,Clayton Farr,2021-12-21,Brainsphere Deal (2021-12-21),1309,.00,,Closed lost,2022-01-23,High
+2021-12-07,2021-12-13,Brainsphere,brainsphere.com,Sales Pipeline,Clayton Farr,2021-12-21,Brainsphere Deal (2021-12-21),987,.80,,Contract sent,2022-01-23,High
+2021-11-30,2021-12-06,Brainsphere,brainsphere.com,Sales Pipeline,Clayton Farr,2021-12-21,Brainsphere Deal (2021-12-21),1194,.70,,Decision maker bought-In,2022-01-23,High
+2021-11-09,2021-11-29,Brainsphere,brainsphere.com,Sales Pipeline,Clayton Farr,2021-12-21,Brainsphere Deal (2021-12-21),834,.40,,Presentation scheduled,2022-01-23,High
+2021-10-26,2021-11-01,Brainsphere,brainsphere.com,Sales Pipeline,Clayton Farr,2021-12-21,Brainsphere Deal (2021-12-21),929,.20,,Qualified to buy,2022-01-23,High
+2021-01-09,2021-01-15,Trilith,trilith.com,Sales Pipeline,Clayton Farr,2021-02-27,Trilith Deal (2021-02-27),3974,.30,,Appointment scheduled,2021-03-24,
+2021-02-20,2021-02-20,Trilith,trilith.com,Sales Pipeline,Clayton Farr,2021-02-27,Trilith Deal (2021-02-27),3828,.00,,Closed lost,2021-03-24,
+2021-02-13,2021-02-19,Trilith,trilith.com,Sales Pipeline,Clayton Farr,2021-02-27,Trilith Deal (2021-02-27),3744,.80,,Contract sent,2021-03-24,
+2021-02-06,2021-02-12,Trilith,trilith.com,Sales Pipeline,Clayton Farr,2021-02-27,Trilith Deal (2021-02-27),6324,.70,,Decision maker bought-In,2021-03-24,
+2021-01-16,2021-02-05,Trilith,trilith.com,Sales Pipeline,Clayton Farr,2021-02-27,Trilith Deal (2021-02-27),3988,.40,,Presentation scheduled,2021-03-24,
+2021-01-02,2021-01-08,Trilith,trilith.com,Sales Pipeline,Clayton Farr,2021-02-27,Trilith Deal (2021-02-27),6633,.20,,Qualified to buy,2021-03-24,
+2020-10-21,2020-10-27,Thoughtsphere,thoughtsphere.com,Sales Pipeline,Clayton Farr,2020-11-18,Thoughtsphere Deal (2020-11-18),1217,.30,,Appointment scheduled,,Low
+2020-11-11,2020-11-11,Thoughtsphere,thoughtsphere.com,Sales Pipeline,Clayton Farr,2020-11-18,Thoughtsphere Deal (2020-11-18),1591,.00,,Closed lost,,Low
+2020-10-28,2020-11-10,Thoughtsphere,thoughtsphere.com,Sales Pipeline,Clayton Farr,2020-11-18,Thoughtsphere Deal (2020-11-18),934,.40,,Presentation scheduled,,Low
+2020-10-14,2020-10-20,Thoughtsphere,thoughtsphere.com,Sales Pipeline,Clayton Farr,2020-11-18,Thoughtsphere Deal (2020-11-18),1099,.20,,Qualified to buy,,Low
+2020-12-15,2020-12-21,Jaloo,jaloo.com,Sales Pipeline,Clayton Farr,2021-02-02,Jaloo Deal (2021-02-02),5108,.30,,Appointment scheduled,2021-02-24,Medium
+2021-01-26,2021-01-26,Jaloo,jaloo.com,Sales Pipeline,Clayton Farr,2021-02-02,Jaloo Deal (2021-02-02),4431,.00,,Closed lost,2021-02-24,Medium
+2021-01-19,2021-01-25,Jaloo,jaloo.com,Sales Pipeline,Clayton Farr,2021-02-02,Jaloo Deal (2021-02-02),6521,.80,,Contract sent,2021-02-24,Medium
+2021-01-12,2021-01-18,Jaloo,jaloo.com,Sales Pipeline,Clayton Farr,2021-02-02,Jaloo Deal (2021-02-02),8141,.70,,Decision maker bought-In,2021-02-24,Medium
+2020-12-22,2021-01-11,Jaloo,jaloo.com,Sales Pipeline,Clayton Farr,2021-02-02,Jaloo Deal (2021-02-02),7842,.40,,Presentation scheduled,2021-02-24,Medium
+2020-12-08,2020-12-14,Jaloo,jaloo.com,Sales Pipeline,Clayton Farr,2021-02-02,Jaloo Deal (2021-02-02),6255,.20,,Qualified to buy,2021-02-24,Medium
+2021-05-08,2021-05-14,Eamia,eamia.com,Sales Pipeline,Clayton Farr,2021-06-26,Eamia Deal (2021-06-26),357,.30,,Appointment scheduled,2021-08-07,
+2021-06-19,2021-06-19,Eamia,eamia.com,Sales Pipeline,Clayton Farr,2021-06-26,Eamia Deal (2021-06-26),416,.00,,Closed lost,2021-08-07,
+2021-06-12,2021-06-18,Eamia,eamia.com,Sales Pipeline,Clayton Farr,2021-06-26,Eamia Deal (2021-06-26),366,.80,,Contract sent,2021-08-07,
+2021-06-05,2021-06-11,Eamia,eamia.com,Sales Pipeline,Clayton Farr,2021-06-26,Eamia Deal (2021-06-26),531,.70,,Decision maker bought-In,2021-08-07,
+2021-05-15,2021-06-04,Eamia,eamia.com,Sales Pipeline,Clayton Farr,2021-06-26,Eamia Deal (2021-06-26),416,.40,,Presentation scheduled,2021-08-07,
+2021-05-01,2021-05-07,Eamia,eamia.com,Sales Pipeline,Clayton Farr,2021-06-26,Eamia Deal (2021-06-26),553,.20,,Qualified to buy,2021-08-07,
+2020-10-12,2020-10-18,Gabtune,gabtune.com,Sales Pipeline,Test User 2,2020-11-30,Gabtune Deal (2020-11-30),458,.30,,Appointment scheduled,2020-12-18,Medium
+2020-11-23,2020-11-23,Gabtune,gabtune.com,Sales Pipeline,Test User 2,2020-11-30,Gabtune Deal (2020-11-30),551,.00,,Closed lost,2020-12-18,Medium
+2020-11-16,2020-11-22,Gabtune,gabtune.com,Sales Pipeline,Test User 2,2020-11-30,Gabtune Deal (2020-11-30),618,.80,,Contract sent,2020-12-18,Medium
+2020-11-09,2020-11-15,Gabtune,gabtune.com,Sales Pipeline,Test User 2,2020-11-30,Gabtune Deal (2020-11-30),723,.70,,Decision maker bought-In,2020-12-18,Medium
+2020-10-19,2020-11-08,Gabtune,gabtune.com,Sales Pipeline,Test User 2,2020-11-30,Gabtune Deal (2020-11-30),404,.40,,Presentation scheduled,2020-12-18,Medium
+2020-10-05,2020-10-11,Gabtune,gabtune.com,Sales Pipeline,Test User 2,2020-11-30,Gabtune Deal (2020-11-30),610,.20,,Qualified to buy,2020-12-18,Medium
+2021-10-08,2021-10-08,Gigashots,gigashots.com,Sales Pipeline,Test User 2,2021-10-15,Gigashots Deal (2021-10-15),6544,.00,,Closed lost,,Low
+2020-01-21,2020-01-27,Gabspot,gabspot.com,Sales Pipeline,Test User 2,2020-03-10,Gabspot Deal (2020-03-10),3874,.30,,Appointment scheduled,2020-04-09,Low
+2020-03-03,2020-03-03,Gabspot,gabspot.com,Sales Pipeline,Test User 2,2020-03-10,Gabspot Deal (2020-03-10),4040,.00,,Closed lost,2020-04-09,Low
+2020-02-25,2020-03-02,Gabspot,gabspot.com,Sales Pipeline,Test User 2,2020-03-10,Gabspot Deal (2020-03-10),2999,.80,,Contract sent,2020-04-09,Low
+2020-02-18,2020-02-24,Gabspot,gabspot.com,Sales Pipeline,Test User 2,2020-03-10,Gabspot Deal (2020-03-10),3743,.70,,Decision maker bought-In,2020-04-09,Low
+2020-01-28,2020-02-17,Gabspot,gabspot.com,Sales Pipeline,Test User 2,2020-03-10,Gabspot Deal (2020-03-10),4716,.40,,Presentation scheduled,2020-04-09,Low
+2020-01-14,2020-01-20,Gabspot,gabspot.com,Sales Pipeline,Test User 2,2020-03-10,Gabspot Deal (2020-03-10),2945,.20,,Qualified to buy,2020-04-09,Low
+2020-04-30,2020-05-06,Muxo,muxo.com,Sales Pipeline,Clayton Farr,2020-06-18,Muxo Deal (2020-06-18),4494,.30,,Appointment scheduled,2020-08-01,Medium
+2020-06-11,2020-06-11,Muxo,muxo.com,Sales Pipeline,Clayton Farr,2020-06-18,Muxo Deal (2020-06-18),5964,.00,,Closed lost,2020-08-01,Medium
+2020-06-04,2020-06-10,Muxo,muxo.com,Sales Pipeline,Clayton Farr,2020-06-18,Muxo Deal (2020-06-18),5380,.80,,Contract sent,2020-08-01,Medium
+2020-05-28,2020-06-03,Muxo,muxo.com,Sales Pipeline,Clayton Farr,2020-06-18,Muxo Deal (2020-06-18),3793,.70,,Decision maker bought-In,2020-08-01,Medium
+2020-05-07,2020-05-27,Muxo,muxo.com,Sales Pipeline,Clayton Farr,2020-06-18,Muxo Deal (2020-06-18),4851,.40,,Presentation scheduled,2020-08-01,Medium
+2020-04-23,2020-04-29,Muxo,muxo.com,Sales Pipeline,Clayton Farr,2020-06-18,Muxo Deal (2020-06-18),4412,.20,,Qualified to buy,2020-08-01,Medium
+2021-08-18,2021-08-24,Viva,viva.com,Sales Pipeline,Test User 2,2021-10-06,Viva Deal (2021-10-06),895,.30,,Appointment scheduled,2021-10-21,Low
+2021-09-29,2021-09-29,Viva,viva.com,Sales Pipeline,Test User 2,2021-10-06,Viva Deal (2021-10-06),869,.00,,Closed lost,2021-10-21,Low
+2021-09-22,2021-09-28,Viva,viva.com,Sales Pipeline,Test User 2,2021-10-06,Viva Deal (2021-10-06),791,.80,,Contract sent,2021-10-21,Low
+2021-09-15,2021-09-21,Viva,viva.com,Sales Pipeline,Test User 2,2021-10-06,Viva Deal (2021-10-06),643,.70,,Decision maker bought-In,2021-10-21,Low
+2021-08-25,2021-09-14,Viva,viva.com,Sales Pipeline,Test User 2,2021-10-06,Viva Deal (2021-10-06),1126,.40,,Presentation scheduled,2021-10-21,Low
+2021-08-11,2021-08-17,Viva,viva.com,Sales Pipeline,Test User 2,2021-10-06,Viva Deal (2021-10-06),656,.20,,Qualified to buy,2021-10-21,Low
+2020-01-13,2023-05-16,Wikibox,wikibox.com,Sales Pipeline,Test User 2,2020-01-20,Wikibox Deal (2020-01-20),2211,.30,,Appointment scheduled,,Low
+2020-01-13,2020-01-13,Wikibox,wikibox.com,Sales Pipeline,Test User 2,2020-01-20,Wikibox Deal (2020-01-20),3434,.00,,Closed lost,,Low
+2020-01-06,2020-01-12,Wikibox,wikibox.com,Sales Pipeline,Test User 2,2020-01-20,Wikibox Deal (2020-01-20),3191,.20,,Qualified to buy,,Low
+2020-08-24,2020-08-30,Thoughtstorm,thoughtstorm.com,Sales Pipeline,Clayton Farr,2020-10-12,Thoughtstorm Deal (2020-10-12),4688,.30,,Appointment scheduled,2020-10-31,High
+2020-10-05,2020-10-05,Thoughtstorm,thoughtstorm.com,Sales Pipeline,Clayton Farr,2020-10-12,Thoughtstorm Deal (2020-10-12),5412,.00,,Closed lost,2020-10-31,High
+2020-09-28,2020-10-04,Thoughtstorm,thoughtstorm.com,Sales Pipeline,Clayton Farr,2020-10-12,Thoughtstorm Deal (2020-10-12),5684,.80,,Contract sent,2020-10-31,High
+2020-09-21,2020-09-27,Thoughtstorm,thoughtstorm.com,Sales Pipeline,Clayton Farr,2020-10-12,Thoughtstorm Deal (2020-10-12),4101,.70,,Decision maker bought-In,2020-10-31,High
+2020-08-31,2020-09-20,Thoughtstorm,thoughtstorm.com,Sales Pipeline,Clayton Farr,2020-10-12,Thoughtstorm Deal (2020-10-12),5451,.40,,Presentation scheduled,2020-10-31,High
+2020-08-17,2020-08-23,Thoughtstorm,thoughtstorm.com,Sales Pipeline,Clayton Farr,2020-10-12,Thoughtstorm Deal (2020-10-12),5033,.20,,Qualified to buy,2020-10-31,High
+2020-11-17,2020-11-23,Oyope,oyope.com,Sales Pipeline,Test User 2,2021-01-05,Oyope Deal (2021-01-05),6998,.30,,Appointment scheduled,2021-02-10,
+2020-12-29,2020-12-29,Oyope,oyope.com,Sales Pipeline,Test User 2,2021-01-05,Oyope Deal (2021-01-05),8748,.00,,Closed lost,2021-02-10,
+2020-12-22,2020-12-28,Oyope,oyope.com,Sales Pipeline,Test User 2,2021-01-05,Oyope Deal (2021-01-05),5827,.80,,Contract sent,2021-02-10,
+2020-12-15,2020-12-21,Oyope,oyope.com,Sales Pipeline,Test User 2,2021-01-05,Oyope Deal (2021-01-05),5491,.70,,Decision maker bought-In,2021-02-10,
+2020-11-24,2020-12-14,Oyope,oyope.com,Sales Pipeline,Test User 2,2021-01-05,Oyope Deal (2021-01-05),5063,.40,,Presentation scheduled,2021-02-10,
+2020-11-10,2020-11-16,Oyope,oyope.com,Sales Pipeline,Test User 2,2021-01-05,Oyope Deal (2021-01-05),4890,.20,,Qualified to buy,2021-02-10,
+2021-04-20,2021-04-26,Mydo,mydo.com,Sales Pipeline,Clayton Farr,2021-06-08,Mydo Deal (2021-06-08),3199,.30,,Appointment scheduled,2021-07-21,
+2021-06-01,2021-06-01,Mydo,mydo.com,Sales Pipeline,Clayton Farr,2021-06-08,Mydo Deal (2021-06-08),3986,.00,,Closed lost,2021-07-21,
+2021-05-25,2021-05-31,Mydo,mydo.com,Sales Pipeline,Clayton Farr,2021-06-08,Mydo Deal (2021-06-08),3647,.80,,Contract sent,2021-07-21,
+2021-05-18,2021-05-24,Mydo,mydo.com,Sales Pipeline,Clayton Farr,2021-06-08,Mydo Deal (2021-06-08),3535,.70,,Decision maker bought-In,2021-07-21,
+2021-04-27,2021-05-17,Mydo,mydo.com,Sales Pipeline,Clayton Farr,2021-06-08,Mydo Deal (2021-06-08),3290,.40,,Presentation scheduled,2021-07-21,
+2021-04-13,2021-04-19,Mydo,mydo.com,Sales Pipeline,Clayton Farr,2021-06-08,Mydo Deal (2021-06-08),3401,.20,,Qualified to buy,2021-07-21,
+2020-11-25,2020-12-01,Skyndu,skyndu.com,Sales Pipeline,Test User 2,2021-01-13,Skyndu Deal (2021-01-13),6808,.30,,Appointment scheduled,2021-02-10,
+2021-01-06,2021-01-06,Skyndu,skyndu.com,Sales Pipeline,Test User 2,2021-01-13,Skyndu Deal (2021-01-13),5853,.00,,Closed lost,2021-02-10,
+2020-12-30,2021-01-05,Skyndu,skyndu.com,Sales Pipeline,Test User 2,2021-01-13,Skyndu Deal (2021-01-13),4810,.80,,Contract sent,2021-02-10,
+2020-12-23,2020-12-29,Skyndu,skyndu.com,Sales Pipeline,Test User 2,2021-01-13,Skyndu Deal (2021-01-13),5152,.70,,Decision maker bought-In,2021-02-10,
+2020-12-02,2020-12-22,Skyndu,skyndu.com,Sales Pipeline,Test User 2,2021-01-13,Skyndu Deal (2021-01-13),5109,.40,,Presentation scheduled,2021-02-10,
+2020-11-18,2020-11-24,Skyndu,skyndu.com,Sales Pipeline,Test User 2,2021-01-13,Skyndu Deal (2021-01-13),6221,.20,,Qualified to buy,2021-02-10,
+2020-09-07,2020-09-13,Eayo,eayo.com,Sales Pipeline,Clayton Farr,2020-10-26,Eayo Deal (2020-10-26),2312,.30,,Appointment scheduled,2020-11-15,
+2020-10-19,2020-10-19,Eayo,eayo.com,Sales Pipeline,Clayton Farr,2020-10-26,Eayo Deal (2020-10-26),1327,.00,,Closed lost,2020-11-15,
+2020-10-12,2020-10-18,Eayo,eayo.com,Sales Pipeline,Clayton Farr,2020-10-26,Eayo Deal (2020-10-26),2114,.80,,Contract sent,2020-11-15,
+2020-10-05,2020-10-11,Eayo,eayo.com,Sales Pipeline,Clayton Farr,2020-10-26,Eayo Deal (2020-10-26),1866,.70,,Decision maker bought-In,2020-11-15,
+2020-09-14,2020-10-04,Eayo,eayo.com,Sales Pipeline,Clayton Farr,2020-10-26,Eayo Deal (2020-10-26),2196,.40,,Presentation scheduled,2020-11-15,
+2020-08-31,2020-09-06,Eayo,eayo.com,Sales Pipeline,Clayton Farr,2020-10-26,Eayo Deal (2020-10-26),1785,.20,,Qualified to buy,2020-11-15,
+2021-09-10,2021-09-16,Topiczoom,topiczoom.com,Sales Pipeline,Test User 2,2021-10-08,Topiczoom Deal (2021-10-08),516,.30,,Appointment scheduled,,Low
+2021-10-01,2021-10-01,Topiczoom,topiczoom.com,Sales Pipeline,Test User 2,2021-10-08,Topiczoom Deal (2021-10-08),523,.00,,Closed lost,,Low
+2021-09-17,2021-09-30,Topiczoom,topiczoom.com,Sales Pipeline,Test User 2,2021-10-08,Topiczoom Deal (2021-10-08),406,.40,,Presentation scheduled,,Low
+2021-09-03,2021-09-09,Topiczoom,topiczoom.com,Sales Pipeline,Test User 2,2021-10-08,Topiczoom Deal (2021-10-08),501,.20,,Qualified to buy,,Low
+2021-03-10,2021-03-16,Eidel,eidel.com,Sales Pipeline,Clayton Farr,2021-04-28,Eidel Deal (2021-04-28),2373,.30,,Appointment scheduled,2021-06-12,
+2021-04-21,2021-04-21,Eidel,eidel.com,Sales Pipeline,Clayton Farr,2021-04-28,Eidel Deal (2021-04-28),2670,.00,,Closed lost,2021-06-12,
+2021-04-14,2021-04-20,Eidel,eidel.com,Sales Pipeline,Clayton Farr,2021-04-28,Eidel Deal (2021-04-28),2268,.80,,Contract sent,2021-06-12,
+2021-04-07,2021-04-13,Eidel,eidel.com,Sales Pipeline,Clayton Farr,2021-04-28,Eidel Deal (2021-04-28),2126,.70,,Decision maker bought-In,2021-06-12,
+2021-03-17,2021-04-06,Eidel,eidel.com,Sales Pipeline,Clayton Farr,2021-04-28,Eidel Deal (2021-04-28),2471,.40,,Presentation scheduled,2021-06-12,
+2021-03-03,2021-03-09,Eidel,eidel.com,Sales Pipeline,Clayton Farr,2021-04-28,Eidel Deal (2021-04-28),2821,.20,,Qualified to buy,2021-06-12,
+2020-05-29,2020-05-29,Cogidoo,cogidoo.com,Sales Pipeline,Clayton Farr,2020-06-05,Cogidoo Deal (2020-06-05),6721,.00,,Closed lost,,Medium
+2020-05-29,2023-05-16,Cogidoo,cogidoo.com,Sales Pipeline,Clayton Farr,2020-06-05,Cogidoo Deal (2020-06-05),6509,.20,,Qualified to buy,,Medium
+2020-03-21,2020-03-27,Topiczoom,topiczoom.com,Sales Pipeline,Clayton Farr,2020-05-09,Topiczoom Deal (2020-05-09),296,.30,,Appointment scheduled,2020-06-10,
+2020-05-02,2020-05-02,Topiczoom,topiczoom.com,Sales Pipeline,Clayton Farr,2020-05-09,Topiczoom Deal (2020-05-09),217,.00,,Closed lost,2020-06-10,
+2020-04-25,2020-05-01,Topiczoom,topiczoom.com,Sales Pipeline,Clayton Farr,2020-05-09,Topiczoom Deal (2020-05-09),288,.80,,Contract sent,2020-06-10,
+2020-04-18,2020-04-24,Topiczoom,topiczoom.com,Sales Pipeline,Clayton Farr,2020-05-09,Topiczoom Deal (2020-05-09),275,.70,,Decision maker bought-In,2020-06-10,
+2020-03-28,2020-04-17,Topiczoom,topiczoom.com,Sales Pipeline,Clayton Farr,2020-05-09,Topiczoom Deal (2020-05-09),352,.40,,Presentation scheduled,2020-06-10,
+2020-03-14,2020-03-20,Topiczoom,topiczoom.com,Sales Pipeline,Clayton Farr,2020-05-09,Topiczoom Deal (2020-05-09),302,.20,,Qualified to buy,2020-06-10,
+2020-05-14,2020-05-20,Dabtype,dabtype.com,Sales Pipeline,Clayton Farr,2020-07-02,Dabtype Deal (2020-07-02),2935,.30,,Appointment scheduled,2020-07-20,Low
+2020-06-25,2020-06-25,Dabtype,dabtype.com,Sales Pipeline,Clayton Farr,2020-07-02,Dabtype Deal (2020-07-02),2232,.00,,Closed lost,2020-07-20,Low
+2020-06-18,2020-06-24,Dabtype,dabtype.com,Sales Pipeline,Clayton Farr,2020-07-02,Dabtype Deal (2020-07-02),2676,.80,,Contract sent,2020-07-20,Low
+2020-06-11,2020-06-17,Dabtype,dabtype.com,Sales Pipeline,Clayton Farr,2020-07-02,Dabtype Deal (2020-07-02),2879,.70,,Decision maker bought-In,2020-07-20,Low
+2020-05-21,2020-06-10,Dabtype,dabtype.com,Sales Pipeline,Clayton Farr,2020-07-02,Dabtype Deal (2020-07-02),1691,.40,,Presentation scheduled,2020-07-20,Low
+2020-05-07,2020-05-13,Dabtype,dabtype.com,Sales Pipeline,Clayton Farr,2020-07-02,Dabtype Deal (2020-07-02),1795,.20,,Qualified to buy,2020-07-20,Low
+2020-01-21,2020-01-27,Voonix,voonix.com,Sales Pipeline,Test User 2,2020-03-10,Voonix Deal (2020-03-10),6076,.30,,Appointment scheduled,2020-04-02,
+2020-03-03,2020-03-03,Voonix,voonix.com,Sales Pipeline,Test User 2,2020-03-10,Voonix Deal (2020-03-10),5244,.00,,Closed lost,2020-04-02,
+2020-02-25,2020-03-02,Voonix,voonix.com,Sales Pipeline,Test User 2,2020-03-10,Voonix Deal (2020-03-10),7001,.80,,Contract sent,2020-04-02,
+2020-02-18,2020-02-24,Voonix,voonix.com,Sales Pipeline,Test User 2,2020-03-10,Voonix Deal (2020-03-10),4684,.70,,Decision maker bought-In,2020-04-02,
+2020-01-28,2020-02-17,Voonix,voonix.com,Sales Pipeline,Test User 2,2020-03-10,Voonix Deal (2020-03-10),3877,.40,,Presentation scheduled,2020-04-02,
+2020-01-14,2020-01-20,Voonix,voonix.com,Sales Pipeline,Test User 2,2020-03-10,Voonix Deal (2020-03-10),3870,.20,,Qualified to buy,2020-04-02,
+2021-03-29,2021-04-04,Voonix,voonix.com,Sales Pipeline,Clayton Farr,2021-05-17,Voonix Deal (2021-05-17),4669,.30,,Appointment scheduled,2021-06-07,
+2021-05-10,2021-05-10,Voonix,voonix.com,Sales Pipeline,Clayton Farr,2021-05-17,Voonix Deal (2021-05-17),7834,.00,,Closed lost,2021-06-07,
+2021-05-03,2021-05-09,Voonix,voonix.com,Sales Pipeline,Clayton Farr,2021-05-17,Voonix Deal (2021-05-17),4482,.80,,Contract sent,2021-06-07,
+2021-04-26,2021-05-02,Voonix,voonix.com,Sales Pipeline,Clayton Farr,2021-05-17,Voonix Deal (2021-05-17),7990,.70,,Decision maker bought-In,2021-06-07,
+2021-04-05,2021-04-25,Voonix,voonix.com,Sales Pipeline,Clayton Farr,2021-05-17,Voonix Deal (2021-05-17),4640,.40,,Presentation scheduled,2021-06-07,
+2021-03-22,2021-03-28,Voonix,voonix.com,Sales Pipeline,Clayton Farr,2021-05-17,Voonix Deal (2021-05-17),7247,.20,,Qualified to buy,2021-06-07,
+2021-04-09,2021-04-15,Skyndu,skyndu.com,Sales Pipeline,Test User 2,2021-05-28,Skyndu Deal (2021-05-28),962,.30,,Appointment scheduled,2021-06-15,
+2021-05-21,2021-05-21,Skyndu,skyndu.com,Sales Pipeline,Test User 2,2021-05-28,Skyndu Deal (2021-05-28),1281,.00,,Closed lost,2021-06-15,
+2021-05-14,2021-05-20,Skyndu,skyndu.com,Sales Pipeline,Test User 2,2021-05-28,Skyndu Deal (2021-05-28),1461,.80,,Contract sent,2021-06-15,
+2021-05-07,2021-05-13,Skyndu,skyndu.com,Sales Pipeline,Test User 2,2021-05-28,Skyndu Deal (2021-05-28),894,.70,,Decision maker bought-In,2021-06-15,
+2021-04-16,2021-05-06,Skyndu,skyndu.com,Sales Pipeline,Test User 2,2021-05-28,Skyndu Deal (2021-05-28),1608,.40,,Presentation scheduled,2021-06-15,
+2021-04-02,2021-04-08,Skyndu,skyndu.com,Sales Pipeline,Test User 2,2021-05-28,Skyndu Deal (2021-05-28),1512,.20,,Qualified to buy,2021-06-15,
+2021-07-22,2021-07-28,Abatz,abatz.com,Sales Pipeline,Test User 2,2021-09-09,Abatz Deal (2021-09-09),3831,.30,,Appointment scheduled,2021-10-20,
+2021-09-02,2021-09-02,Abatz,abatz.com,Sales Pipeline,Test User 2,2021-09-09,Abatz Deal (2021-09-09),5124,.00,,Closed lost,2021-10-20,
+2021-08-26,2021-09-01,Abatz,abatz.com,Sales Pipeline,Test User 2,2021-09-09,Abatz Deal (2021-09-09),5174,.80,,Contract sent,2021-10-20,
+2021-08-19,2021-08-25,Abatz,abatz.com,Sales Pipeline,Test User 2,2021-09-09,Abatz Deal (2021-09-09),5322,.70,,Decision maker bought-In,2021-10-20,
+2021-07-29,2021-08-18,Abatz,abatz.com,Sales Pipeline,Test User 2,2021-09-09,Abatz Deal (2021-09-09),5499,.40,,Presentation scheduled,2021-10-20,
+2021-07-15,2021-07-21,Abatz,abatz.com,Sales Pipeline,Test User 2,2021-09-09,Abatz Deal (2021-09-09),2949,.20,,Qualified to buy,2021-10-20,
+2020-08-30,2020-09-05,Kaymbo,kaymbo.com,Sales Pipeline,Clayton Farr,2020-10-18,Kaymbo Deal (2020-10-18),4028,.30,,Appointment scheduled,2020-11-14,
+2020-10-11,2020-10-11,Kaymbo,kaymbo.com,Sales Pipeline,Clayton Farr,2020-10-18,Kaymbo Deal (2020-10-18),4812,.00,,Closed lost,2020-11-14,
+2020-10-04,2020-10-10,Kaymbo,kaymbo.com,Sales Pipeline,Clayton Farr,2020-10-18,Kaymbo Deal (2020-10-18),3664,.80,,Contract sent,2020-11-14,
+2020-09-27,2020-10-03,Kaymbo,kaymbo.com,Sales Pipeline,Clayton Farr,2020-10-18,Kaymbo Deal (2020-10-18),4981,.70,,Decision maker bought-In,2020-11-14,
+2020-09-06,2020-09-26,Kaymbo,kaymbo.com,Sales Pipeline,Clayton Farr,2020-10-18,Kaymbo Deal (2020-10-18),3157,.40,,Presentation scheduled,2020-11-14,
+2020-08-23,2020-08-29,Kaymbo,kaymbo.com,Sales Pipeline,Clayton Farr,2020-10-18,Kaymbo Deal (2020-10-18),4038,.20,,Qualified to buy,2020-11-14,
+2021-02-13,2021-02-19,Edgetag,edgetag.com,Sales Pipeline,Clayton Farr,2021-04-03,Edgetag Deal (2021-04-03),131,.30,,Appointment scheduled,2021-04-25,
+2021-03-27,2021-03-27,Edgetag,edgetag.com,Sales Pipeline,Clayton Farr,2021-04-03,Edgetag Deal (2021-04-03),118,.00,,Closed lost,2021-04-25,
+2021-03-20,2021-03-26,Edgetag,edgetag.com,Sales Pipeline,Clayton Farr,2021-04-03,Edgetag Deal (2021-04-03),118,.80,,Contract sent,2021-04-25,
+2021-03-13,2021-03-19,Edgetag,edgetag.com,Sales Pipeline,Clayton Farr,2021-04-03,Edgetag Deal (2021-04-03),153,.70,,Decision maker bought-In,2021-04-25,
+2021-02-20,2021-03-12,Edgetag,edgetag.com,Sales Pipeline,Clayton Farr,2021-04-03,Edgetag Deal (2021-04-03),137,.40,,Presentation scheduled,2021-04-25,
+2021-02-06,2021-02-12,Edgetag,edgetag.com,Sales Pipeline,Clayton Farr,2021-04-03,Edgetag Deal (2021-04-03),208,.20,,Qualified to buy,2021-04-25,
+2021-07-12,2021-07-18,JumpXS,jumpxs.com,Sales Pipeline,Clayton Farr,2021-08-30,JumpXS Deal (2021-08-30),7808,.30,,Appointment scheduled,2021-09-22,Medium
+2021-08-23,2021-08-23,JumpXS,jumpxs.com,Sales Pipeline,Clayton Farr,2021-08-30,JumpXS Deal (2021-08-30),7076,.00,,Closed lost,2021-09-22,Medium
+2021-08-16,2021-08-22,JumpXS,jumpxs.com,Sales Pipeline,Clayton Farr,2021-08-30,JumpXS Deal (2021-08-30),6482,.80,,Contract sent,2021-09-22,Medium
+2021-08-09,2021-08-15,JumpXS,jumpxs.com,Sales Pipeline,Clayton Farr,2021-08-30,JumpXS Deal (2021-08-30),4086,.70,,Decision maker bought-In,2021-09-22,Medium
+2021-07-19,2021-08-08,JumpXS,jumpxs.com,Sales Pipeline,Clayton Farr,2021-08-30,JumpXS Deal (2021-08-30),7565,.40,,Presentation scheduled,2021-09-22,Medium
+2021-07-05,2021-07-11,JumpXS,jumpxs.com,Sales Pipeline,Clayton Farr,2021-08-30,JumpXS Deal (2021-08-30),6531,.20,,Qualified to buy,2021-09-22,Medium
+2021-09-24,2021-09-30,Gevee,gevee.com,Sales Pipeline,Clayton Farr,2021-11-12,Gevee Deal (2021-11-12),1539,.30,,Appointment scheduled,2021-12-01,High
+2021-11-05,2021-11-05,Gevee,gevee.com,Sales Pipeline,Clayton Farr,2021-11-12,Gevee Deal (2021-11-12),1148,.00,,Closed lost,2021-12-01,High
+2021-10-29,2021-11-04,Gevee,gevee.com,Sales Pipeline,Clayton Farr,2021-11-12,Gevee Deal (2021-11-12),1343,.80,,Contract sent,2021-12-01,High
+2021-10-22,2021-10-28,Gevee,gevee.com,Sales Pipeline,Clayton Farr,2021-11-12,Gevee Deal (2021-11-12),1509,.70,,Decision maker bought-In,2021-12-01,High
+2021-10-01,2021-10-21,Gevee,gevee.com,Sales Pipeline,Clayton Farr,2021-11-12,Gevee Deal (2021-11-12),1122,.40,,Presentation scheduled,2021-12-01,High
+2021-09-17,2021-09-23,Gevee,gevee.com,Sales Pipeline,Clayton Farr,2021-11-12,Gevee Deal (2021-11-12),1013,.20,,Qualified to buy,2021-12-01,High
+2021-08-04,2021-08-10,Browsebug,browsebug.com,Sales Pipeline,Test User 2,2021-09-08,Browsebug Deal (2021-09-08),270,.30,,Appointment scheduled,,Low
+2021-09-01,2021-09-01,Browsebug,browsebug.com,Sales Pipeline,Test User 2,2021-09-08,Browsebug Deal (2021-09-08),368,.00,,Closed lost,,Low
+2021-09-01,2023-05-16,Browsebug,browsebug.com,Sales Pipeline,Test User 2,2021-09-08,Browsebug Deal (2021-09-08),362,.70,,Decision maker bought-In,,Low
+2021-08-11,2021-08-31,Browsebug,browsebug.com,Sales Pipeline,Test User 2,2021-09-08,Browsebug Deal (2021-09-08),407,.40,,Presentation scheduled,,Low
+2021-07-28,2021-08-03,Browsebug,browsebug.com,Sales Pipeline,Test User 2,2021-09-08,Browsebug Deal (2021-09-08),325,.20,,Qualified to buy,,Low
+2020-11-28,2020-12-04,Yakijo,yakijo.com,Sales Pipeline,Test User 2,2021-01-02,Yakijo Deal (2021-01-02),674,.30,,Appointment scheduled,,
+2020-12-26,2020-12-26,Yakijo,yakijo.com,Sales Pipeline,Test User 2,2021-01-02,Yakijo Deal (2021-01-02),1047,.00,,Closed lost,,
+2020-12-26,2023-05-16,Yakijo,yakijo.com,Sales Pipeline,Test User 2,2021-01-02,Yakijo Deal (2021-01-02),677,.70,,Decision maker bought-In,,
+2020-12-05,2020-12-25,Yakijo,yakijo.com,Sales Pipeline,Test User 2,2021-01-02,Yakijo Deal (2021-01-02),1222,.40,,Presentation scheduled,,
+2020-11-21,2020-11-27,Yakijo,yakijo.com,Sales Pipeline,Test User 2,2021-01-02,Yakijo Deal (2021-01-02),1065,.20,,Qualified to buy,,
+2021-03-05,2021-03-11,MeejoMeemm,meejomeemm.com,Sales Pipeline,Test User 2,2021-04-23,MeejoMeemm Deal (2021-04-23),4261,.30,,Appointment scheduled,2021-06-05,
+2021-04-16,2021-04-16,MeejoMeemm,meejomeemm.com,Sales Pipeline,Test User 2,2021-04-23,MeejoMeemm Deal (2021-04-23),3718,.00,,Closed lost,2021-06-05,
+2021-04-09,2021-04-15,MeejoMeemm,meejomeemm.com,Sales Pipeline,Test User 2,2021-04-23,MeejoMeemm Deal (2021-04-23),3947,.80,,Contract sent,2021-06-05,
+2021-04-02,2021-04-08,MeejoMeemm,meejomeemm.com,Sales Pipeline,Test User 2,2021-04-23,MeejoMeemm Deal (2021-04-23),4211,.70,,Decision maker bought-In,2021-06-05,
+2021-03-12,2021-04-01,MeejoMeemm,meejomeemm.com,Sales Pipeline,Test User 2,2021-04-23,MeejoMeemm Deal (2021-04-23),3310,.40,,Presentation scheduled,2021-06-05,
+2021-02-26,2021-03-04,MeejoMeemm,meejomeemm.com,Sales Pipeline,Test User 2,2021-04-23,MeejoMeemm Deal (2021-04-23),3408,.20,,Qualified to buy,2021-06-05,
+2021-09-05,2021-09-11,Zooveo,zooveo.com,Sales Pipeline,Test User 2,2021-10-10,Zooveo Deal (2021-10-10),1067,.30,,Appointment scheduled,,
+2021-10-03,2021-10-03,Zooveo,zooveo.com,Sales Pipeline,Test User 2,2021-10-10,Zooveo Deal (2021-10-10),1442,.00,,Closed lost,,
+2021-10-03,2023-05-16,Zooveo,zooveo.com,Sales Pipeline,Test User 2,2021-10-10,Zooveo Deal (2021-10-10),1709,.70,,Decision maker bought-In,,
+2021-09-12,2021-10-02,Zooveo,zooveo.com,Sales Pipeline,Test User 2,2021-10-10,Zooveo Deal (2021-10-10),1098,.40,,Presentation scheduled,,
+2021-08-29,2021-09-04,Zooveo,zooveo.com,Sales Pipeline,Test User 2,2021-10-10,Zooveo Deal (2021-10-10),1636,.20,,Qualified to buy,,
+2021-02-01,2021-02-07,Realcube,realcube.com,Sales Pipeline,Clayton Farr,2021-03-22,Realcube Deal (2021-03-22),127,.30,,Appointment scheduled,2021-04-14,
+2021-03-15,2021-03-15,Realcube,realcube.com,Sales Pipeline,Clayton Farr,2021-03-22,Realcube Deal (2021-03-22),220,.00,,Closed lost,2021-04-14,
+2021-03-08,2021-03-14,Realcube,realcube.com,Sales Pipeline,Clayton Farr,2021-03-22,Realcube Deal (2021-03-22),211,.80,,Contract sent,2021-04-14,
+2021-03-01,2021-03-07,Realcube,realcube.com,Sales Pipeline,Clayton Farr,2021-03-22,Realcube Deal (2021-03-22),173,.70,,Decision maker bought-In,2021-04-14,
+2021-02-08,2021-02-28,Realcube,realcube.com,Sales Pipeline,Clayton Farr,2021-03-22,Realcube Deal (2021-03-22),179,.40,,Presentation scheduled,2021-04-14,
+2021-01-25,2021-01-31,Realcube,realcube.com,Sales Pipeline,Clayton Farr,2021-03-22,Realcube Deal (2021-03-22),217,.20,,Qualified to buy,2021-04-14,
+2021-07-28,2021-08-03,Yodoo,yodoo.com,Sales Pipeline,Clayton Farr,2021-09-15,Yodoo Deal (2021-09-15),2999,.30,,Appointment scheduled,2021-10-12,High
+2021-09-08,2021-09-08,Yodoo,yodoo.com,Sales Pipeline,Clayton Farr,2021-09-15,Yodoo Deal (2021-09-15),4145,.00,,Closed lost,2021-10-12,High
+2021-09-01,2021-09-07,Yodoo,yodoo.com,Sales Pipeline,Clayton Farr,2021-09-15,Yodoo Deal (2021-09-15),3459,.80,,Contract sent,2021-10-12,High
+2021-08-25,2021-08-31,Yodoo,yodoo.com,Sales Pipeline,Clayton Farr,2021-09-15,Yodoo Deal (2021-09-15),3724,.70,,Decision maker bought-In,2021-10-12,High
+2021-08-04,2021-08-24,Yodoo,yodoo.com,Sales Pipeline,Clayton Farr,2021-09-15,Yodoo Deal (2021-09-15),2706,.40,,Presentation scheduled,2021-10-12,High
+2021-07-21,2021-07-27,Yodoo,yodoo.com,Sales Pipeline,Clayton Farr,2021-09-15,Yodoo Deal (2021-09-15),2777,.20,,Qualified to buy,2021-10-12,High
+2020-06-29,2020-07-05,Youtags,youtags.com,Sales Pipeline,Test User 2,2020-08-17,Youtags Deal (2020-08-17),1970,.30,,Appointment scheduled,2020-09-18,High
+2020-08-10,2020-08-10,Youtags,youtags.com,Sales Pipeline,Test User 2,2020-08-17,Youtags Deal (2020-08-17),1899,.00,,Closed lost,2020-09-18,High
+2020-08-03,2020-08-09,Youtags,youtags.com,Sales Pipeline,Test User 2,2020-08-17,Youtags Deal (2020-08-17),1244,.80,,Contract sent,2020-09-18,High
+2020-07-27,2020-08-02,Youtags,youtags.com,Sales Pipeline,Test User 2,2020-08-17,Youtags Deal (2020-08-17),1638,.70,,Decision maker bought-In,2020-09-18,High
+2020-07-06,2020-07-26,Youtags,youtags.com,Sales Pipeline,Test User 2,2020-08-17,Youtags Deal (2020-08-17),1764,.40,,Presentation scheduled,2020-09-18,High
+2020-06-22,2020-06-28,Youtags,youtags.com,Sales Pipeline,Test User 2,2020-08-17,Youtags Deal (2020-08-17),1555,.20,,Qualified to buy,2020-09-18,High
+2020-11-06,2020-11-12,BlogXS,blogxs.com,Sales Pipeline,Test User 2,2020-12-25,BlogXS Deal (2020-12-25),7825,.30,,Appointment scheduled,2021-01-14,
+2020-12-18,2020-12-18,BlogXS,blogxs.com,Sales Pipeline,Test User 2,2020-12-25,BlogXS Deal (2020-12-25),4172,.00,,Closed lost,2021-01-14,
+2020-12-11,2020-12-17,BlogXS,blogxs.com,Sales Pipeline,Test User 2,2020-12-25,BlogXS Deal (2020-12-25),4507,.80,,Contract sent,2021-01-14,
+2020-12-04,2020-12-10,BlogXS,blogxs.com,Sales Pipeline,Test User 2,2020-12-25,BlogXS Deal (2020-12-25),7962,.70,,Decision maker bought-In,2021-01-14,
+2020-11-13,2020-12-03,BlogXS,blogxs.com,Sales Pipeline,Test User 2,2020-12-25,BlogXS Deal (2020-12-25),6093,.40,,Presentation scheduled,2021-01-14,
+2020-10-30,2020-11-05,BlogXS,blogxs.com,Sales Pipeline,Test User 2,2020-12-25,BlogXS Deal (2020-12-25),4676,.20,,Qualified to buy,2021-01-14,
+2021-10-29,2021-11-04,Topiczoom,topiczoom.com,Sales Pipeline,Test User 2,2021-12-17,Topiczoom Deal (2021-12-17),1455,.30,,Appointment scheduled,2022-01-29,
+2021-12-10,2021-12-10,Topiczoom,topiczoom.com,Sales Pipeline,Test User 2,2021-12-17,Topiczoom Deal (2021-12-17),2416,.00,,Closed lost,2022-01-29,
+2021-12-03,2021-12-09,Topiczoom,topiczoom.com,Sales Pipeline,Test User 2,2021-12-17,Topiczoom Deal (2021-12-17),1642,.80,,Contract sent,2022-01-29,
+2021-11-26,2021-12-02,Topiczoom,topiczoom.com,Sales Pipeline,Test User 2,2021-12-17,Topiczoom Deal (2021-12-17),1921,.70,,Decision maker bought-In,2022-01-29,
+2021-11-05,2021-11-25,Topiczoom,topiczoom.com,Sales Pipeline,Test User 2,2021-12-17,Topiczoom Deal (2021-12-17),2011,.40,,Presentation scheduled,2022-01-29,
+2021-10-22,2021-10-28,Topiczoom,topiczoom.com,Sales Pipeline,Test User 2,2021-12-17,Topiczoom Deal (2021-12-17),1805,.20,,Qualified to buy,2022-01-29,
+2021-10-07,2021-10-07,Izio,izio.com,Sales Pipeline,Clayton Farr,2021-10-14,Izio Deal (2021-10-14),3991,.00,,Closed lost,,High
+2020-03-02,2020-03-08,Blogspan,blogspan.com,Sales Pipeline,Clayton Farr,2020-04-20,Blogspan Deal (2020-04-20),5452,.30,,Appointment scheduled,2020-05-18,Medium
+2020-04-13,2020-04-13,Blogspan,blogspan.com,Sales Pipeline,Clayton Farr,2020-04-20,Blogspan Deal (2020-04-20),3331,.00,,Closed lost,2020-05-18,Medium
+2020-04-06,2020-04-12,Blogspan,blogspan.com,Sales Pipeline,Clayton Farr,2020-04-20,Blogspan Deal (2020-04-20),5644,.80,,Contract sent,2020-05-18,Medium
+2020-03-30,2020-04-05,Blogspan,blogspan.com,Sales Pipeline,Clayton Farr,2020-04-20,Blogspan Deal (2020-04-20),4827,.70,,Decision maker bought-In,2020-05-18,Medium
+2020-03-09,2020-03-29,Blogspan,blogspan.com,Sales Pipeline,Clayton Farr,2020-04-20,Blogspan Deal (2020-04-20),5864,.40,,Presentation scheduled,2020-05-18,Medium
+2020-02-24,2020-03-01,Blogspan,blogspan.com,Sales Pipeline,Clayton Farr,2020-04-20,Blogspan Deal (2020-04-20),5403,.20,,Qualified to buy,2020-05-18,Medium
+2021-05-31,2021-06-06,Eire,eire.com,Sales Pipeline,Test User 2,2021-07-19,Eire Deal (2021-07-19),4533,.30,,Appointment scheduled,2021-08-05,Medium
+2021-07-12,2021-07-12,Eire,eire.com,Sales Pipeline,Test User 2,2021-07-19,Eire Deal (2021-07-19),8671,.00,,Closed lost,2021-08-05,Medium
+2021-07-05,2021-07-11,Eire,eire.com,Sales Pipeline,Test User 2,2021-07-19,Eire Deal (2021-07-19),4667,.80,,Contract sent,2021-08-05,Medium
+2021-06-28,2021-07-04,Eire,eire.com,Sales Pipeline,Test User 2,2021-07-19,Eire Deal (2021-07-19),5494,.70,,Decision maker bought-In,2021-08-05,Medium
+2021-06-07,2021-06-27,Eire,eire.com,Sales Pipeline,Test User 2,2021-07-19,Eire Deal (2021-07-19),7531,.40,,Presentation scheduled,2021-08-05,Medium
+2021-05-24,2021-05-30,Eire,eire.com,Sales Pipeline,Test User 2,2021-07-19,Eire Deal (2021-07-19),4677,.20,,Qualified to buy,2021-08-05,Medium
+2021-08-14,2021-08-20,Eare,eare.com,Sales Pipeline,Clayton Farr,2021-10-02,Eare Deal (2021-10-02),891,.30,,Appointment scheduled,2021-11-13,
+2021-09-25,2021-09-25,Eare,eare.com,Sales Pipeline,Clayton Farr,2021-10-02,Eare Deal (2021-10-02),891,.00,,Closed lost,2021-11-13,
+2021-09-18,2021-09-24,Eare,eare.com,Sales Pipeline,Clayton Farr,2021-10-02,Eare Deal (2021-10-02),1073,.80,,Contract sent,2021-11-13,
+2021-09-11,2021-09-17,Eare,eare.com,Sales Pipeline,Clayton Farr,2021-10-02,Eare Deal (2021-10-02),1587,.70,,Decision maker bought-In,2021-11-13,
+2021-08-21,2021-09-10,Eare,eare.com,Sales Pipeline,Clayton Farr,2021-10-02,Eare Deal (2021-10-02),1584,.40,,Presentation scheduled,2021-11-13,
+2021-08-07,2021-08-13,Eare,eare.com,Sales Pipeline,Clayton Farr,2021-10-02,Eare Deal (2021-10-02),964,.20,,Qualified to buy,2021-11-13,
+2021-11-08,2021-11-14,Dabvine,dabvine.com,Sales Pipeline,Test User 2,2021-12-06,Dabvine Deal (2021-12-06),6067,.30,,Appointment scheduled,,
+2021-11-29,2021-11-29,Dabvine,dabvine.com,Sales Pipeline,Test User 2,2021-12-06,Dabvine Deal (2021-12-06),4466,.00,,Closed lost,,
+2021-11-15,2021-11-28,Dabvine,dabvine.com,Sales Pipeline,Test User 2,2021-12-06,Dabvine Deal (2021-12-06),3267,.40,,Presentation scheduled,,
+2021-11-01,2021-11-07,Dabvine,dabvine.com,Sales Pipeline,Test User 2,2021-12-06,Dabvine Deal (2021-12-06),3689,.20,,Qualified to buy,,
+2021-09-28,2021-10-04,Avaveo,avaveo.com,Sales Pipeline,Clayton Farr,2021-10-26,Avaveo Deal (2021-10-26),6181,.30,,Appointment scheduled,,Medium
+2021-10-19,2021-10-19,Avaveo,avaveo.com,Sales Pipeline,Clayton Farr,2021-10-26,Avaveo Deal (2021-10-26),4530,.00,,Closed lost,,Medium
+2021-10-05,2021-10-18,Avaveo,avaveo.com,Sales Pipeline,Clayton Farr,2021-10-26,Avaveo Deal (2021-10-26),3541,.40,,Presentation scheduled,,Medium
+2021-09-21,2021-09-27,Avaveo,avaveo.com,Sales Pipeline,Clayton Farr,2021-10-26,Avaveo Deal (2021-10-26),4122,.20,,Qualified to buy,,Medium
+2020-04-28,2020-05-04,Blogtag,blogtag.com,Sales Pipeline,Clayton Farr,2020-06-16,Blogtag Deal (2020-06-16),909,.30,,Appointment scheduled,2020-07-31,
+2020-06-09,2020-06-09,Blogtag,blogtag.com,Sales Pipeline,Clayton Farr,2020-06-16,Blogtag Deal (2020-06-16),1141,.00,,Closed lost,2020-07-31,
+2020-06-02,2020-06-08,Blogtag,blogtag.com,Sales Pipeline,Clayton Farr,2020-06-16,Blogtag Deal (2020-06-16),1050,.80,,Contract sent,2020-07-31,
+2020-05-26,2020-06-01,Blogtag,blogtag.com,Sales Pipeline,Clayton Farr,2020-06-16,Blogtag Deal (2020-06-16),1375,.70,,Decision maker bought-In,2020-07-31,
+2020-05-05,2020-05-25,Blogtag,blogtag.com,Sales Pipeline,Clayton Farr,2020-06-16,Blogtag Deal (2020-06-16),771,.40,,Presentation scheduled,2020-07-31,
+2020-04-21,2020-04-27,Blogtag,blogtag.com,Sales Pipeline,Clayton Farr,2020-06-16,Blogtag Deal (2020-06-16),1206,.20,,Qualified to buy,2020-07-31,
+2021-08-28,2021-09-03,Yakitri,yakitri.com,Sales Pipeline,Clayton Farr,2021-10-16,Yakitri Deal (2021-10-16),7326,.30,,Appointment scheduled,2021-11-12,
+2021-10-09,2021-10-09,Yakitri,yakitri.com,Sales Pipeline,Clayton Farr,2021-10-16,Yakitri Deal (2021-10-16),7525,.00,,Closed lost,2021-11-12,
+2021-10-02,2021-10-08,Yakitri,yakitri.com,Sales Pipeline,Clayton Farr,2021-10-16,Yakitri Deal (2021-10-16),4591,.80,,Contract sent,2021-11-12,
+2021-09-25,2021-10-01,Yakitri,yakitri.com,Sales Pipeline,Clayton Farr,2021-10-16,Yakitri Deal (2021-10-16),5733,.70,,Decision maker bought-In,2021-11-12,
+2021-09-04,2021-09-24,Yakitri,yakitri.com,Sales Pipeline,Clayton Farr,2021-10-16,Yakitri Deal (2021-10-16),6954,.40,,Presentation scheduled,2021-11-12,
+2021-08-21,2021-08-27,Yakitri,yakitri.com,Sales Pipeline,Clayton Farr,2021-10-16,Yakitri Deal (2021-10-16),6240,.20,,Qualified to buy,2021-11-12,
+2020-04-17,2020-04-23,JumpXS,jumpxs.com,Sales Pipeline,Test User 2,2020-06-05,JumpXS Deal (2020-06-05),4053,.30,,Appointment scheduled,2020-06-30,
+2020-05-29,2020-05-29,JumpXS,jumpxs.com,Sales Pipeline,Test User 2,2020-06-05,JumpXS Deal (2020-06-05),4504,.00,,Closed lost,2020-06-30,
+2020-05-22,2020-05-28,JumpXS,jumpxs.com,Sales Pipeline,Test User 2,2020-06-05,JumpXS Deal (2020-06-05),5949,.80,,Contract sent,2020-06-30,
+2020-05-15,2020-05-21,JumpXS,jumpxs.com,Sales Pipeline,Test User 2,2020-06-05,JumpXS Deal (2020-06-05),4616,.70,,Decision maker bought-In,2020-06-30,
+2020-04-24,2020-05-14,JumpXS,jumpxs.com,Sales Pipeline,Test User 2,2020-06-05,JumpXS Deal (2020-06-05),4530,.40,,Presentation scheduled,2020-06-30,
+2020-04-10,2020-04-16,JumpXS,jumpxs.com,Sales Pipeline,Test User 2,2020-06-05,JumpXS Deal (2020-06-05),5328,.20,,Qualified to buy,2020-06-30,
+2021-07-18,2021-07-24,Cogilith,cogilith.com,Sales Pipeline,Clayton Farr,2021-09-05,Cogilith Deal (2021-09-05),5967,.30,,Appointment scheduled,2021-09-20,
+2021-08-29,2021-08-29,Cogilith,cogilith.com,Sales Pipeline,Clayton Farr,2021-09-05,Cogilith Deal (2021-09-05),5422,.00,,Closed lost,2021-09-20,
+2021-08-22,2021-08-28,Cogilith,cogilith.com,Sales Pipeline,Clayton Farr,2021-09-05,Cogilith Deal (2021-09-05),4851,.80,,Contract sent,2021-09-20,
+2021-08-15,2021-08-21,Cogilith,cogilith.com,Sales Pipeline,Clayton Farr,2021-09-05,Cogilith Deal (2021-09-05),4781,.70,,Decision maker bought-In,2021-09-20,
+2021-07-25,2021-08-14,Cogilith,cogilith.com,Sales Pipeline,Clayton Farr,2021-09-05,Cogilith Deal (2021-09-05),3891,.40,,Presentation scheduled,2021-09-20,
+2021-07-11,2021-07-17,Cogilith,cogilith.com,Sales Pipeline,Clayton Farr,2021-09-05,Cogilith Deal (2021-09-05),4176,.20,,Qualified to buy,2021-09-20,
+2021-09-06,2021-09-06,Youtags,youtags.com,Sales Pipeline,Clayton Farr,2021-09-13,Youtags Deal (2021-09-13),7337,.00,,Closed lost,,
+2021-02-11,2021-02-17,Quinu,quinu.com,Sales Pipeline,Test User 2,2021-03-18,Quinu Deal (2021-03-18),1363,.30,,Appointment scheduled,,
+2021-03-11,2021-03-11,Quinu,quinu.com,Sales Pipeline,Test User 2,2021-03-18,Quinu Deal (2021-03-18),1126,.00,,Closed lost,,
+2021-03-11,2023-05-16,Quinu,quinu.com,Sales Pipeline,Test User 2,2021-03-18,Quinu Deal (2021-03-18),1471,.70,,Decision maker bought-In,,
+2021-02-18,2021-03-10,Quinu,quinu.com,Sales Pipeline,Test User 2,2021-03-18,Quinu Deal (2021-03-18),1078,.40,,Presentation scheduled,,
+2021-02-04,2021-02-10,Quinu,quinu.com,Sales Pipeline,Test User 2,2021-03-18,Quinu Deal (2021-03-18),1339,.20,,Qualified to buy,,
+2020-09-21,2020-09-27,Edgetag,edgetag.com,Sales Pipeline,Clayton Farr,2020-11-09,Edgetag Deal (2020-11-09),2297,.30,,Appointment scheduled,2020-12-08,
+2020-11-02,2020-11-02,Edgetag,edgetag.com,Sales Pipeline,Clayton Farr,2020-11-09,Edgetag Deal (2020-11-09),1868,.00,,Closed lost,2020-12-08,
+2020-10-26,2020-11-01,Edgetag,edgetag.com,Sales Pipeline,Clayton Farr,2020-11-09,Edgetag Deal (2020-11-09),1668,.80,,Contract sent,2020-12-08,
+2020-10-19,2020-10-25,Edgetag,edgetag.com,Sales Pipeline,Clayton Farr,2020-11-09,Edgetag Deal (2020-11-09),2349,.70,,Decision maker bought-In,2020-12-08,
+2020-09-28,2020-10-18,Edgetag,edgetag.com,Sales Pipeline,Clayton Farr,2020-11-09,Edgetag Deal (2020-11-09),1908,.40,,Presentation scheduled,2020-12-08,
+2020-09-14,2020-09-20,Edgetag,edgetag.com,Sales Pipeline,Clayton Farr,2020-11-09,Edgetag Deal (2020-11-09),2915,.20,,Qualified to buy,2020-12-08,
+2021-03-06,2021-03-12,Edgeclub,edgeclub.com,Sales Pipeline,Clayton Farr,2021-04-24,Edgeclub Deal (2021-04-24),5212,.30,,Appointment scheduled,2021-05-19,Medium
+2021-04-17,2021-04-17,Edgeclub,edgeclub.com,Sales Pipeline,Clayton Farr,2021-04-24,Edgeclub Deal (2021-04-24),5145,.00,,Closed lost,2021-05-19,Medium
+2021-04-10,2021-04-16,Edgeclub,edgeclub.com,Sales Pipeline,Clayton Farr,2021-04-24,Edgeclub Deal (2021-04-24),4931,.80,,Contract sent,2021-05-19,Medium
+2021-04-03,2021-04-09,Edgeclub,edgeclub.com,Sales Pipeline,Clayton Farr,2021-04-24,Edgeclub Deal (2021-04-24),3868,.70,,Decision maker bought-In,2021-05-19,Medium
+2021-03-13,2021-04-02,Edgeclub,edgeclub.com,Sales Pipeline,Clayton Farr,2021-04-24,Edgeclub Deal (2021-04-24),4247,.40,,Presentation scheduled,2021-05-19,Medium
+2021-02-27,2021-03-05,Edgeclub,edgeclub.com,Sales Pipeline,Clayton Farr,2021-04-24,Edgeclub Deal (2021-04-24),4056,.20,,Qualified to buy,2021-05-19,Medium
+2020-01-20,2020-01-26,Skinte,skinte.com,Sales Pipeline,Clayton Farr,2020-03-09,Skinte Deal (2020-03-09),4070,.30,,Appointment scheduled,2020-04-02,Medium
+2020-03-02,2020-03-02,Skinte,skinte.com,Sales Pipeline,Clayton Farr,2020-03-09,Skinte Deal (2020-03-09),4664,.00,,Closed lost,2020-04-02,Medium
+2020-02-24,2020-03-01,Skinte,skinte.com,Sales Pipeline,Clayton Farr,2020-03-09,Skinte Deal (2020-03-09),4580,.80,,Contract sent,2020-04-02,Medium
+2020-02-17,2020-02-23,Skinte,skinte.com,Sales Pipeline,Clayton Farr,2020-03-09,Skinte Deal (2020-03-09),6260,.70,,Decision maker bought-In,2020-04-02,Medium
+2020-01-27,2020-02-16,Skinte,skinte.com,Sales Pipeline,Clayton Farr,2020-03-09,Skinte Deal (2020-03-09),5907,.40,,Presentation scheduled,2020-04-02,Medium
+2020-01-13,2020-01-19,Skinte,skinte.com,Sales Pipeline,Clayton Farr,2020-03-09,Skinte Deal (2020-03-09),6179,.20,,Qualified to buy,2020-04-02,Medium
+2021-07-02,2021-07-08,Devshare,devshare.com,Sales Pipeline,Clayton Farr,2021-07-30,Devshare Deal (2021-07-30),2029,.30,,Appointment scheduled,,
+2021-07-23,2021-07-23,Devshare,devshare.com,Sales Pipeline,Clayton Farr,2021-07-30,Devshare Deal (2021-07-30),1591,.00,,Closed lost,,
+2021-07-09,2021-07-22,Devshare,devshare.com,Sales Pipeline,Clayton Farr,2021-07-30,Devshare Deal (2021-07-30),1556,.40,,Presentation scheduled,,
+2021-06-25,2021-07-01,Devshare,devshare.com,Sales Pipeline,Clayton Farr,2021-07-30,Devshare Deal (2021-07-30),2114,.20,,Qualified to buy,,
+2020-01-21,2020-01-27,Midel,midel.com,Sales Pipeline,Clayton Farr,2020-03-10,Midel Deal (2020-03-10),2937,.30,,Appointment scheduled,2020-04-14,Low
+2020-03-03,2020-03-03,Midel,midel.com,Sales Pipeline,Clayton Farr,2020-03-10,Midel Deal (2020-03-10),3176,.00,,Closed lost,2020-04-14,Low
+2020-02-25,2020-03-02,Midel,midel.com,Sales Pipeline,Clayton Farr,2020-03-10,Midel Deal (2020-03-10),2511,.80,,Contract sent,2020-04-14,Low
+2020-02-18,2020-02-24,Midel,midel.com,Sales Pipeline,Clayton Farr,2020-03-10,Midel Deal (2020-03-10),2999,.70,,Decision maker bought-In,2020-04-14,Low
+2020-01-28,2020-02-17,Midel,midel.com,Sales Pipeline,Clayton Farr,2020-03-10,Midel Deal (2020-03-10),3351,.40,,Presentation scheduled,2020-04-14,Low
+2020-01-14,2020-01-20,Midel,midel.com,Sales Pipeline,Clayton Farr,2020-03-10,Midel Deal (2020-03-10),2280,.20,,Qualified to buy,2020-04-14,Low
+2020-10-13,2020-10-19,Zava,zava.com,Sales Pipeline,Clayton Farr,2020-12-01,Zava Deal (2020-12-01),617,.30,,Appointment scheduled,2021-01-10,
+2020-11-24,2020-11-24,Zava,zava.com,Sales Pipeline,Clayton Farr,2020-12-01,Zava Deal (2020-12-01),485,.00,,Closed lost,2021-01-10,
+2020-11-17,2020-11-23,Zava,zava.com,Sales Pipeline,Clayton Farr,2020-12-01,Zava Deal (2020-12-01),629,.80,,Contract sent,2021-01-10,
+2020-11-10,2020-11-16,Zava,zava.com,Sales Pipeline,Clayton Farr,2020-12-01,Zava Deal (2020-12-01),365,.70,,Decision maker bought-In,2021-01-10,
+2020-10-20,2020-11-09,Zava,zava.com,Sales Pipeline,Clayton Farr,2020-12-01,Zava Deal (2020-12-01),664,.40,,Presentation scheduled,2021-01-10,
+2020-10-06,2020-10-12,Zava,zava.com,Sales Pipeline,Clayton Farr,2020-12-01,Zava Deal (2020-12-01),499,.20,,Qualified to buy,2021-01-10,
+2021-11-16,2021-11-22,Miboo,miboo.com,Sales Pipeline,Clayton Farr,2021-12-21,Miboo Deal (2021-12-21),3699,.30,,Appointment scheduled,,High
+2021-12-14,2021-12-14,Miboo,miboo.com,Sales Pipeline,Clayton Farr,2021-12-21,Miboo Deal (2021-12-21),4305,.00,,Closed lost,,High
+2021-12-14,2023-05-16,Miboo,miboo.com,Sales Pipeline,Clayton Farr,2021-12-21,Miboo Deal (2021-12-21),4300,.70,,Decision maker bought-In,,High
+2021-11-23,2021-12-13,Miboo,miboo.com,Sales Pipeline,Clayton Farr,2021-12-21,Miboo Deal (2021-12-21),5336,.40,,Presentation scheduled,,High
+2021-11-09,2021-11-15,Miboo,miboo.com,Sales Pipeline,Clayton Farr,2021-12-21,Miboo Deal (2021-12-21),3588,.20,,Qualified to buy,,High
+2021-06-12,2021-06-18,Flipopia,flipopia.com,Sales Pipeline,Clayton Farr,2021-07-31,Flipopia Deal (2021-07-31),4695,.30,,Appointment scheduled,2021-08-22,
+2021-07-24,2021-07-24,Flipopia,flipopia.com,Sales Pipeline,Clayton Farr,2021-07-31,Flipopia Deal (2021-07-31),3876,.00,,Closed lost,2021-08-22,
+2021-07-17,2021-07-23,Flipopia,flipopia.com,Sales Pipeline,Clayton Farr,2021-07-31,Flipopia Deal (2021-07-31),5421,.80,,Contract sent,2021-08-22,
+2021-07-10,2021-07-16,Flipopia,flipopia.com,Sales Pipeline,Clayton Farr,2021-07-31,Flipopia Deal (2021-07-31),5195,.70,,Decision maker bought-In,2021-08-22,
+2021-06-19,2021-07-09,Flipopia,flipopia.com,Sales Pipeline,Clayton Farr,2021-07-31,Flipopia Deal (2021-07-31),6240,.40,,Presentation scheduled,2021-08-22,
+2021-06-05,2021-06-11,Flipopia,flipopia.com,Sales Pipeline,Clayton Farr,2021-07-31,Flipopia Deal (2021-07-31),5309,.20,,Qualified to buy,2021-08-22,
+2020-07-25,2020-07-25,Photofeed,photofeed.com,Sales Pipeline,Clayton Farr,2020-08-01,Photofeed Deal (2020-08-01),570,.00,,Closed lost,,
+2020-07-25,2023-05-16,Photofeed,photofeed.com,Sales Pipeline,Clayton Farr,2020-08-01,Photofeed Deal (2020-08-01),679,.20,,Qualified to buy,,
+2021-06-09,2021-06-15,Quimm,quimm.com,Sales Pipeline,Clayton Farr,2021-07-28,Quimm Deal (2021-07-28),2187,.30,,Appointment scheduled,2021-09-03,Low
+2021-07-21,2021-07-21,Quimm,quimm.com,Sales Pipeline,Clayton Farr,2021-07-28,Quimm Deal (2021-07-28),2809,.00,,Closed lost,2021-09-03,Low
+2021-07-14,2021-07-20,Quimm,quimm.com,Sales Pipeline,Clayton Farr,2021-07-28,Quimm Deal (2021-07-28),3636,.80,,Contract sent,2021-09-03,Low
+2021-07-07,2021-07-13,Quimm,quimm.com,Sales Pipeline,Clayton Farr,2021-07-28,Quimm Deal (2021-07-28),2800,.70,,Decision maker bought-In,2021-09-03,Low
+2021-06-16,2021-07-06,Quimm,quimm.com,Sales Pipeline,Clayton Farr,2021-07-28,Quimm Deal (2021-07-28),4229,.40,,Presentation scheduled,2021-09-03,Low
+2021-06-02,2021-06-08,Quimm,quimm.com,Sales Pipeline,Clayton Farr,2021-07-28,Quimm Deal (2021-07-28),2887,.20,,Qualified to buy,2021-09-03,Low
+2020-07-24,2020-07-30,Kaymbo,kaymbo.com,Sales Pipeline,Clayton Farr,2020-09-11,Kaymbo Deal (2020-09-11),6670,.30,,Appointment scheduled,2020-10-22,Low
+2020-09-04,2020-09-04,Kaymbo,kaymbo.com,Sales Pipeline,Clayton Farr,2020-09-11,Kaymbo Deal (2020-09-11),5378,.00,,Closed lost,2020-10-22,Low
+2020-08-28,2020-09-03,Kaymbo,kaymbo.com,Sales Pipeline,Clayton Farr,2020-09-11,Kaymbo Deal (2020-09-11),5167,.80,,Contract sent,2020-10-22,Low
+2020-08-21,2020-08-27,Kaymbo,kaymbo.com,Sales Pipeline,Clayton Farr,2020-09-11,Kaymbo Deal (2020-09-11),5576,.70,,Decision maker bought-In,2020-10-22,Low
+2020-07-31,2020-08-20,Kaymbo,kaymbo.com,Sales Pipeline,Clayton Farr,2020-09-11,Kaymbo Deal (2020-09-11),5555,.40,,Presentation scheduled,2020-10-22,Low
+2020-07-17,2020-07-23,Kaymbo,kaymbo.com,Sales Pipeline,Clayton Farr,2020-09-11,Kaymbo Deal (2020-09-11),9022,.20,,Qualified to buy,2020-10-22,Low
+2021-03-30,2021-04-05,Vimbo,vimbo.com,Sales Pipeline,Test User 2,2021-05-18,Vimbo Deal (2021-05-18),465,.30,,Appointment scheduled,2021-06-10,
+2021-05-11,2021-05-11,Vimbo,vimbo.com,Sales Pipeline,Test User 2,2021-05-18,Vimbo Deal (2021-05-18),825,.00,,Closed lost,2021-06-10,
+2021-05-04,2021-05-10,Vimbo,vimbo.com,Sales Pipeline,Test User 2,2021-05-18,Vimbo Deal (2021-05-18),835,.80,,Contract sent,2021-06-10,
+2021-04-27,2021-05-03,Vimbo,vimbo.com,Sales Pipeline,Test User 2,2021-05-18,Vimbo Deal (2021-05-18),845,.70,,Decision maker bought-In,2021-06-10,
+2021-04-06,2021-04-26,Vimbo,vimbo.com,Sales Pipeline,Test User 2,2021-05-18,Vimbo Deal (2021-05-18),811,.40,,Presentation scheduled,2021-06-10,
+2021-03-23,2021-03-29,Vimbo,vimbo.com,Sales Pipeline,Test User 2,2021-05-18,Vimbo Deal (2021-05-18),591,.20,,Qualified to buy,2021-06-10,
+2021-06-29,2021-07-05,Yozio,yozio.com,Sales Pipeline,Clayton Farr,2021-08-17,Yozio Deal (2021-08-17),2413,.30,,Appointment scheduled,2021-09-23,High
+2021-08-10,2021-08-10,Yozio,yozio.com,Sales Pipeline,Clayton Farr,2021-08-17,Yozio Deal (2021-08-17),2965,.00,,Closed lost,2021-09-23,High
+2021-08-03,2021-08-09,Yozio,yozio.com,Sales Pipeline,Clayton Farr,2021-08-17,Yozio Deal (2021-08-17),2165,.80,,Contract sent,2021-09-23,High
+2021-07-27,2021-08-02,Yozio,yozio.com,Sales Pipeline,Clayton Farr,2021-08-17,Yozio Deal (2021-08-17),3182,.70,,Decision maker bought-In,2021-09-23,High
+2021-07-06,2021-07-26,Yozio,yozio.com,Sales Pipeline,Clayton Farr,2021-08-17,Yozio Deal (2021-08-17),3132,.40,,Presentation scheduled,2021-09-23,High
+2021-06-22,2021-06-28,Yozio,yozio.com,Sales Pipeline,Clayton Farr,2021-08-17,Yozio Deal (2021-08-17),4170,.20,,Qualified to buy,2021-09-23,High
+2021-09-17,2021-09-23,Rhynyx,rhynyx.com,Sales Pipeline,Test User 2,2021-11-05,Rhynyx Deal (2021-11-05),3852,.30,,Appointment scheduled,2021-12-09,
+2021-10-29,2021-10-29,Rhynyx,rhynyx.com,Sales Pipeline,Test User 2,2021-11-05,Rhynyx Deal (2021-11-05),2769,.00,,Closed lost,2021-12-09,
+2021-10-22,2021-10-28,Rhynyx,rhynyx.com,Sales Pipeline,Test User 2,2021-11-05,Rhynyx Deal (2021-11-05),2356,.80,,Contract sent,2021-12-09,
+2021-10-15,2021-10-21,Rhynyx,rhynyx.com,Sales Pipeline,Test User 2,2021-11-05,Rhynyx Deal (2021-11-05),2283,.70,,Decision maker bought-In,2021-12-09,
+2021-09-24,2021-10-14,Rhynyx,rhynyx.com,Sales Pipeline,Test User 2,2021-11-05,Rhynyx Deal (2021-11-05),1989,.40,,Presentation scheduled,2021-12-09,
+2021-09-10,2021-09-16,Rhynyx,rhynyx.com,Sales Pipeline,Test User 2,2021-11-05,Rhynyx Deal (2021-11-05),3006,.20,,Qualified to buy,2021-12-09,
+2020-10-24,2020-10-30,Eire,eire.com,Sales Pipeline,Test User 2,2020-11-28,Eire Deal (2020-11-28),3925,.30,,Appointment scheduled,,Medium
+2020-11-21,2020-11-21,Eire,eire.com,Sales Pipeline,Test User 2,2020-11-28,Eire Deal (2020-11-28),3719,.00,,Closed lost,,Medium
+2020-11-21,2023-05-16,Eire,eire.com,Sales Pipeline,Test User 2,2020-11-28,Eire Deal (2020-11-28),2389,.70,,Decision maker bought-In,,Medium
+2020-10-31,2020-11-20,Eire,eire.com,Sales Pipeline,Test User 2,2020-11-28,Eire Deal (2020-11-28),2513,.40,,Presentation scheduled,,Medium
+2020-10-17,2020-10-23,Eire,eire.com,Sales Pipeline,Test User 2,2020-11-28,Eire Deal (2020-11-28),3660,.20,,Qualified to buy,,Medium
+2021-06-10,2021-06-16,Yombu,yombu.com,Sales Pipeline,Clayton Farr,2021-07-29,Yombu Deal (2021-07-29),5550,.30,,Appointment scheduled,2021-09-06,Medium
+2021-07-22,2021-07-22,Yombu,yombu.com,Sales Pipeline,Clayton Farr,2021-07-29,Yombu Deal (2021-07-29),4361,.00,,Closed lost,2021-09-06,Medium
+2021-07-15,2021-07-21,Yombu,yombu.com,Sales Pipeline,Clayton Farr,2021-07-29,Yombu Deal (2021-07-29),3315,.80,,Contract sent,2021-09-06,Medium
+2021-07-08,2021-07-14,Yombu,yombu.com,Sales Pipeline,Clayton Farr,2021-07-29,Yombu Deal (2021-07-29),4188,.70,,Decision maker bought-In,2021-09-06,Medium
+2021-06-17,2021-07-07,Yombu,yombu.com,Sales Pipeline,Clayton Farr,2021-07-29,Yombu Deal (2021-07-29),3424,.40,,Presentation scheduled,2021-09-06,Medium
+2021-06-03,2021-06-09,Yombu,yombu.com,Sales Pipeline,Clayton Farr,2021-07-29,Yombu Deal (2021-07-29),4920,.20,,Qualified to buy,2021-09-06,Medium
+2021-01-03,2021-01-09,Blogspan,blogspan.com,Sales Pipeline,Test User 2,2021-02-21,Blogspan Deal (2021-02-21),6714,.30,,Appointment scheduled,2021-03-10,Low
+2021-02-14,2021-02-14,Blogspan,blogspan.com,Sales Pipeline,Test User 2,2021-02-21,Blogspan Deal (2021-02-21),5667,.00,,Closed lost,2021-03-10,Low
+2021-02-07,2021-02-13,Blogspan,blogspan.com,Sales Pipeline,Test User 2,2021-02-21,Blogspan Deal (2021-02-21),3686,.80,,Contract sent,2021-03-10,Low
+2021-01-31,2021-02-06,Blogspan,blogspan.com,Sales Pipeline,Test User 2,2021-02-21,Blogspan Deal (2021-02-21),6809,.70,,Decision maker bought-In,2021-03-10,Low
+2021-01-10,2021-01-30,Blogspan,blogspan.com,Sales Pipeline,Test User 2,2021-02-21,Blogspan Deal (2021-02-21),6899,.40,,Presentation scheduled,2021-03-10,Low
+2020-12-27,2021-01-02,Blogspan,blogspan.com,Sales Pipeline,Test User 2,2021-02-21,Blogspan Deal (2021-02-21),5956,.20,,Qualified to buy,2021-03-10,Low
+2020-07-16,2020-07-22,Yakidoo,yakidoo.com,Sales Pipeline,Test User 2,2020-09-03,Yakidoo Deal (2020-09-03),4747,.30,,Appointment scheduled,2020-09-27,
+2020-08-27,2020-08-27,Yakidoo,yakidoo.com,Sales Pipeline,Test User 2,2020-09-03,Yakidoo Deal (2020-09-03),7628,.00,,Closed lost,2020-09-27,
+2020-08-20,2020-08-26,Yakidoo,yakidoo.com,Sales Pipeline,Test User 2,2020-09-03,Yakidoo Deal (2020-09-03),7255,.80,,Contract sent,2020-09-27,
+2020-08-13,2020-08-19,Yakidoo,yakidoo.com,Sales Pipeline,Test User 2,2020-09-03,Yakidoo Deal (2020-09-03),6008,.70,,Decision maker bought-In,2020-09-27,
+2020-07-23,2020-08-12,Yakidoo,yakidoo.com,Sales Pipeline,Test User 2,2020-09-03,Yakidoo Deal (2020-09-03),6710,.40,,Presentation scheduled,2020-09-27,
+2020-07-09,2020-07-15,Yakidoo,yakidoo.com,Sales Pipeline,Test User 2,2020-09-03,Yakidoo Deal (2020-09-03),5601,.20,,Qualified to buy,2020-09-27,
+2020-01-09,2020-01-15,Dabvine,dabvine.com,Sales Pipeline,Test User 2,2020-02-13,Dabvine Deal (2020-02-13),1217,.30,,Appointment scheduled,,
+2020-02-06,2020-02-06,Dabvine,dabvine.com,Sales Pipeline,Test User 2,2020-02-13,Dabvine Deal (2020-02-13),1920,.00,,Closed lost,,
+2020-02-06,2023-05-16,Dabvine,dabvine.com,Sales Pipeline,Test User 2,2020-02-13,Dabvine Deal (2020-02-13),1127,.70,,Decision maker bought-In,,
+2020-01-16,2020-02-05,Dabvine,dabvine.com,Sales Pipeline,Test User 2,2020-02-13,Dabvine Deal (2020-02-13),1280,.40,,Presentation scheduled,,
+2020-01-02,2020-01-08,Dabvine,dabvine.com,Sales Pipeline,Test User 2,2020-02-13,Dabvine Deal (2020-02-13),2155,.20,,Qualified to buy,,
+2020-12-15,2020-12-15,Thoughtblab,thoughtblab.com,Sales Pipeline,Test User 2,2020-12-22,Thoughtblab Deal (2020-12-22),5021,.00,,Closed lost,,
+2020-07-05,2020-07-11,Zoombox,zoombox.com,Sales Pipeline,Clayton Farr,2020-08-09,Zoombox Deal (2020-08-09),6601,.30,,Appointment scheduled,,High
+2020-08-02,2020-08-02,Zoombox,zoombox.com,Sales Pipeline,Clayton Farr,2020-08-09,Zoombox Deal (2020-08-09),5753,.00,,Closed lost,,High
+2020-08-02,2023-05-16,Zoombox,zoombox.com,Sales Pipeline,Clayton Farr,2020-08-09,Zoombox Deal (2020-08-09),5231,.70,,Decision maker bought-In,,High
+2020-07-12,2020-08-01,Zoombox,zoombox.com,Sales Pipeline,Clayton Farr,2020-08-09,Zoombox Deal (2020-08-09),7092,.40,,Presentation scheduled,,High
+2020-06-28,2020-07-04,Zoombox,zoombox.com,Sales Pipeline,Clayton Farr,2020-08-09,Zoombox Deal (2020-08-09),6029,.20,,Qualified to buy,,High
+2020-03-16,2020-03-16,Oodoo,oodoo.com,Sales Pipeline,Clayton Farr,2020-03-23,Oodoo Deal (2020-03-23),556,.00,,Closed lost,,Low
+2021-07-13,2021-07-19,Skiba,skiba.com,Sales Pipeline,Test User 2,2021-08-31,Skiba Deal (2021-08-31),3244,.30,,Appointment scheduled,2021-10-07,
+2021-08-24,2021-08-24,Skiba,skiba.com,Sales Pipeline,Test User 2,2021-08-31,Skiba Deal (2021-08-31),2721,.00,,Closed lost,2021-10-07,
+2021-08-17,2021-08-23,Skiba,skiba.com,Sales Pipeline,Test User 2,2021-08-31,Skiba Deal (2021-08-31),3108,.80,,Contract sent,2021-10-07,
+2021-08-10,2021-08-16,Skiba,skiba.com,Sales Pipeline,Test User 2,2021-08-31,Skiba Deal (2021-08-31),2613,.70,,Decision maker bought-In,2021-10-07,
+2021-07-20,2021-08-09,Skiba,skiba.com,Sales Pipeline,Test User 2,2021-08-31,Skiba Deal (2021-08-31),4520,.40,,Presentation scheduled,2021-10-07,
+2021-07-06,2021-07-12,Skiba,skiba.com,Sales Pipeline,Test User 2,2021-08-31,Skiba Deal (2021-08-31),4004,.20,,Qualified to buy,2021-10-07,
+2021-07-30,2021-07-30,Skippad,skippad.com,Sales Pipeline,Clayton Farr,2021-08-06,Skippad Deal (2021-08-06),4126,.00,,Closed lost,,Low
+2020-09-27,2020-09-27,Flashpoint,flashpoint.com,Sales Pipeline,Clayton Farr,2020-10-04,Flashpoint Deal (2020-10-04),2346,.00,,Closed lost,,
+2020-09-27,2023-05-16,Flashpoint,flashpoint.com,Sales Pipeline,Clayton Farr,2020-10-04,Flashpoint Deal (2020-10-04),1667,.20,,Qualified to buy,,
+2021-05-03,2021-05-03,Youtags,youtags.com,Sales Pipeline,Clayton Farr,2021-05-10,Youtags Deal (2021-05-10),3511,.00,,Closed lost,,High
+2021-10-29,2021-11-04,Digitube,digitube.com,Sales Pipeline,Test User 2,2021-12-17,Digitube Deal (2021-12-17),1664,.30,,Appointment scheduled,2022-01-10,
+2021-12-10,2021-12-10,Digitube,digitube.com,Sales Pipeline,Test User 2,2021-12-17,Digitube Deal (2021-12-17),2207,.00,,Closed lost,2022-01-10,
+2021-12-03,2021-12-09,Digitube,digitube.com,Sales Pipeline,Test User 2,2021-12-17,Digitube Deal (2021-12-17),2635,.80,,Contract sent,2022-01-10,
+2021-11-26,2021-12-02,Digitube,digitube.com,Sales Pipeline,Test User 2,2021-12-17,Digitube Deal (2021-12-17),2881,.70,,Decision maker bought-In,2022-01-10,
+2021-11-05,2021-11-25,Digitube,digitube.com,Sales Pipeline,Test User 2,2021-12-17,Digitube Deal (2021-12-17),2697,.40,,Presentation scheduled,2022-01-10,
+2021-10-22,2021-10-28,Digitube,digitube.com,Sales Pipeline,Test User 2,2021-12-17,Digitube Deal (2021-12-17),2347,.20,,Qualified to buy,2022-01-10,
+2021-02-13,2021-02-19,Yoveo,yoveo.com,Sales Pipeline,Test User 2,2021-04-03,Yoveo Deal (2021-04-03),3546,.30,,Appointment scheduled,2021-05-07,
+2021-03-27,2021-03-27,Yoveo,yoveo.com,Sales Pipeline,Test User 2,2021-04-03,Yoveo Deal (2021-04-03),3825,.00,,Closed lost,2021-05-07,
+2021-03-20,2021-03-26,Yoveo,yoveo.com,Sales Pipeline,Test User 2,2021-04-03,Yoveo Deal (2021-04-03),4095,.80,,Contract sent,2021-05-07,
+2021-03-13,2021-03-19,Yoveo,yoveo.com,Sales Pipeline,Test User 2,2021-04-03,Yoveo Deal (2021-04-03),4337,.70,,Decision maker bought-In,2021-05-07,
+2021-02-20,2021-03-12,Yoveo,yoveo.com,Sales Pipeline,Test User 2,2021-04-03,Yoveo Deal (2021-04-03),4882,.40,,Presentation scheduled,2021-05-07,
+2021-02-06,2021-02-12,Yoveo,yoveo.com,Sales Pipeline,Test User 2,2021-04-03,Yoveo Deal (2021-04-03),4658,.20,,Qualified to buy,2021-05-07,
+2021-06-19,2021-06-25,Browsecat,browsecat.com,Sales Pipeline,Clayton Farr,2021-08-07,Browsecat Deal (2021-08-07),2461,.30,,Appointment scheduled,2021-09-18,Medium
+2021-07-31,2021-07-31,Browsecat,browsecat.com,Sales Pipeline,Clayton Farr,2021-08-07,Browsecat Deal (2021-08-07),2650,.00,,Closed lost,2021-09-18,Medium
+2021-07-24,2021-07-30,Browsecat,browsecat.com,Sales Pipeline,Clayton Farr,2021-08-07,Browsecat Deal (2021-08-07),2157,.80,,Contract sent,2021-09-18,Medium
+2021-07-17,2021-07-23,Browsecat,browsecat.com,Sales Pipeline,Clayton Farr,2021-08-07,Browsecat Deal (2021-08-07),2549,.70,,Decision maker bought-In,2021-09-18,Medium
+2021-06-26,2021-07-16,Browsecat,browsecat.com,Sales Pipeline,Clayton Farr,2021-08-07,Browsecat Deal (2021-08-07),1490,.40,,Presentation scheduled,2021-09-18,Medium
+2021-06-12,2021-06-18,Browsecat,browsecat.com,Sales Pipeline,Clayton Farr,2021-08-07,Browsecat Deal (2021-08-07),2207,.20,,Qualified to buy,2021-09-18,Medium
+2020-04-26,2020-05-02,Brainverse,brainverse.com,Sales Pipeline,Clayton Farr,2020-06-14,Brainverse Deal (2020-06-14),2002,.30,,Appointment scheduled,2020-07-25,
+2020-06-07,2020-06-07,Brainverse,brainverse.com,Sales Pipeline,Clayton Farr,2020-06-14,Brainverse Deal (2020-06-14),2786,.00,,Closed lost,2020-07-25,
+2020-05-31,2020-06-06,Brainverse,brainverse.com,Sales Pipeline,Clayton Farr,2020-06-14,Brainverse Deal (2020-06-14),3154,.80,,Contract sent,2020-07-25,
+2020-05-24,2020-05-30,Brainverse,brainverse.com,Sales Pipeline,Clayton Farr,2020-06-14,Brainverse Deal (2020-06-14),1831,.70,,Decision maker bought-In,2020-07-25,
+2020-05-03,2020-05-23,Brainverse,brainverse.com,Sales Pipeline,Clayton Farr,2020-06-14,Brainverse Deal (2020-06-14),1808,.40,,Presentation scheduled,2020-07-25,
+2020-04-19,2020-04-25,Brainverse,brainverse.com,Sales Pipeline,Clayton Farr,2020-06-14,Brainverse Deal (2020-06-14),1613,.20,,Qualified to buy,2020-07-25,
+2021-04-27,2021-05-03,Linklinks,linklinks.com,Sales Pipeline,Test User 2,2021-06-15,Linklinks Deal (2021-06-15),233,.30,,Appointment scheduled,2021-07-10,
+2021-06-08,2021-06-08,Linklinks,linklinks.com,Sales Pipeline,Test User 2,2021-06-15,Linklinks Deal (2021-06-15),267,.00,,Closed lost,2021-07-10,
+2021-06-01,2021-06-07,Linklinks,linklinks.com,Sales Pipeline,Test User 2,2021-06-15,Linklinks Deal (2021-06-15),251,.80,,Contract sent,2021-07-10,
+2021-05-25,2021-05-31,Linklinks,linklinks.com,Sales Pipeline,Test User 2,2021-06-15,Linklinks Deal (2021-06-15),220,.70,,Decision maker bought-In,2021-07-10,
+2021-05-04,2021-05-24,Linklinks,linklinks.com,Sales Pipeline,Test User 2,2021-06-15,Linklinks Deal (2021-06-15),289,.40,,Presentation scheduled,2021-07-10,
+2021-04-20,2021-04-26,Linklinks,linklinks.com,Sales Pipeline,Test User 2,2021-06-15,Linklinks Deal (2021-06-15),257,.20,,Qualified to buy,2021-07-10,
+2020-03-20,2020-03-26,Voolia,voolia.com,Sales Pipeline,Clayton Farr,2020-05-08,Voolia Deal (2020-05-08),489,.30,,Appointment scheduled,2020-06-15,High
+2020-05-01,2020-05-01,Voolia,voolia.com,Sales Pipeline,Clayton Farr,2020-05-08,Voolia Deal (2020-05-08),486,.00,,Closed lost,2020-06-15,High
+2020-04-24,2020-04-30,Voolia,voolia.com,Sales Pipeline,Clayton Farr,2020-05-08,Voolia Deal (2020-05-08),494,.80,,Contract sent,2020-06-15,High
+2020-04-17,2020-04-23,Voolia,voolia.com,Sales Pipeline,Clayton Farr,2020-05-08,Voolia Deal (2020-05-08),409,.70,,Decision maker bought-In,2020-06-15,High
+2020-03-27,2020-04-16,Voolia,voolia.com,Sales Pipeline,Clayton Farr,2020-05-08,Voolia Deal (2020-05-08),433,.40,,Presentation scheduled,2020-06-15,High
+2020-03-13,2020-03-19,Voolia,voolia.com,Sales Pipeline,Clayton Farr,2020-05-08,Voolia Deal (2020-05-08),615,.20,,Qualified to buy,2020-06-15,High
+2021-10-11,2021-10-17,Yodo,yodo.com,Sales Pipeline,Test User 2,2021-11-29,Yodo Deal (2021-11-29),4088,.30,,Appointment scheduled,2022-01-11,
+2021-11-22,2021-11-22,Yodo,yodo.com,Sales Pipeline,Test User 2,2021-11-29,Yodo Deal (2021-11-29),3753,.00,,Closed lost,2022-01-11,
+2021-11-15,2021-11-21,Yodo,yodo.com,Sales Pipeline,Test User 2,2021-11-29,Yodo Deal (2021-11-29),3608,.80,,Contract sent,2022-01-11,
+2021-11-08,2021-11-14,Yodo,yodo.com,Sales Pipeline,Test User 2,2021-11-29,Yodo Deal (2021-11-29),5077,.70,,Decision maker bought-In,2022-01-11,
+2021-10-18,2021-11-07,Yodo,yodo.com,Sales Pipeline,Test User 2,2021-11-29,Yodo Deal (2021-11-29),5044,.40,,Presentation scheduled,2022-01-11,
+2021-10-04,2021-10-10,Yodo,yodo.com,Sales Pipeline,Test User 2,2021-11-29,Yodo Deal (2021-11-29),4956,.20,,Qualified to buy,2022-01-11,
+2020-08-06,2020-08-12,Abata,abata.com,Sales Pipeline,Test User 2,2020-09-24,Abata Deal (2020-09-24),4243,.30,,Appointment scheduled,2020-11-07,
+2020-09-17,2020-09-17,Abata,abata.com,Sales Pipeline,Test User 2,2020-09-24,Abata Deal (2020-09-24),6274,.00,,Closed lost,2020-11-07,
+2020-09-10,2020-09-16,Abata,abata.com,Sales Pipeline,Test User 2,2020-09-24,Abata Deal (2020-09-24),6848,.80,,Contract sent,2020-11-07,
+2020-09-03,2020-09-09,Abata,abata.com,Sales Pipeline,Test User 2,2020-09-24,Abata Deal (2020-09-24),5972,.70,,Decision maker bought-In,2020-11-07,
+2020-08-13,2020-09-02,Abata,abata.com,Sales Pipeline,Test User 2,2020-09-24,Abata Deal (2020-09-24),4781,.40,,Presentation scheduled,2020-11-07,
+2020-07-30,2020-08-05,Abata,abata.com,Sales Pipeline,Test User 2,2020-09-24,Abata Deal (2020-09-24),6883,.20,,Qualified to buy,2020-11-07,
+2020-05-18,2020-05-24,Fivespan,fivespan.com,Sales Pipeline,Test User 2,2020-07-06,Fivespan Deal (2020-07-06),6195,.30,,Appointment scheduled,2020-08-17,
+2020-06-29,2020-06-29,Fivespan,fivespan.com,Sales Pipeline,Test User 2,2020-07-06,Fivespan Deal (2020-07-06),6874,.00,,Closed lost,2020-08-17,
+2020-06-22,2020-06-28,Fivespan,fivespan.com,Sales Pipeline,Test User 2,2020-07-06,Fivespan Deal (2020-07-06),5954,.80,,Contract sent,2020-08-17,
+2020-06-15,2020-06-21,Fivespan,fivespan.com,Sales Pipeline,Test User 2,2020-07-06,Fivespan Deal (2020-07-06),5480,.70,,Decision maker bought-In,2020-08-17,
+2020-05-25,2020-06-14,Fivespan,fivespan.com,Sales Pipeline,Test User 2,2020-07-06,Fivespan Deal (2020-07-06),7217,.40,,Presentation scheduled,2020-08-17,
+2020-05-11,2020-05-17,Fivespan,fivespan.com,Sales Pipeline,Test User 2,2020-07-06,Fivespan Deal (2020-07-06),4709,.20,,Qualified to buy,2020-08-17,
+2020-09-18,2020-09-24,Yakidoo,yakidoo.com,Sales Pipeline,Clayton Farr,2020-11-06,Yakidoo Deal (2020-11-06),1178,.30,,Appointment scheduled,2020-11-26,
+2020-10-30,2020-10-30,Yakidoo,yakidoo.com,Sales Pipeline,Clayton Farr,2020-11-06,Yakidoo Deal (2020-11-06),1866,.00,,Closed lost,2020-11-26,
+2020-10-23,2020-10-29,Yakidoo,yakidoo.com,Sales Pipeline,Clayton Farr,2020-11-06,Yakidoo Deal (2020-11-06),1652,.80,,Contract sent,2020-11-26,
+2020-10-16,2020-10-22,Yakidoo,yakidoo.com,Sales Pipeline,Clayton Farr,2020-11-06,Yakidoo Deal (2020-11-06),1068,.70,,Decision maker bought-In,2020-11-26,
+2020-09-25,2020-10-15,Yakidoo,yakidoo.com,Sales Pipeline,Clayton Farr,2020-11-06,Yakidoo Deal (2020-11-06),1525,.40,,Presentation scheduled,2020-11-26,
+2020-09-11,2020-09-17,Yakidoo,yakidoo.com,Sales Pipeline,Clayton Farr,2020-11-06,Yakidoo Deal (2020-11-06),1054,.20,,Qualified to buy,2020-11-26,
+2021-09-22,2021-09-28,Yakidoo,yakidoo.com,Sales Pipeline,Clayton Farr,2021-11-10,Yakidoo Deal (2021-11-10),4148,.30,,Appointment scheduled,2021-12-05,High
+2021-11-03,2021-11-03,Yakidoo,yakidoo.com,Sales Pipeline,Clayton Farr,2021-11-10,Yakidoo Deal (2021-11-10),4184,.00,,Closed lost,2021-12-05,High
+2021-10-27,2021-11-02,Yakidoo,yakidoo.com,Sales Pipeline,Clayton Farr,2021-11-10,Yakidoo Deal (2021-11-10),4486,.80,,Contract sent,2021-12-05,High
+2021-10-20,2021-10-26,Yakidoo,yakidoo.com,Sales Pipeline,Clayton Farr,2021-11-10,Yakidoo Deal (2021-11-10),5056,.70,,Decision maker bought-In,2021-12-05,High
+2021-09-29,2021-10-19,Yakidoo,yakidoo.com,Sales Pipeline,Clayton Farr,2021-11-10,Yakidoo Deal (2021-11-10),6015,.40,,Presentation scheduled,2021-12-05,High
+2021-09-15,2021-09-21,Yakidoo,yakidoo.com,Sales Pipeline,Clayton Farr,2021-11-10,Yakidoo Deal (2021-11-10),3576,.20,,Qualified to buy,2021-12-05,High
+2020-07-20,2020-07-20,Wordpedia,wordpedia.com,Sales Pipeline,Clayton Farr,2020-07-27,Wordpedia Deal (2020-07-27),1795,.00,,Closed lost,,
+2021-04-09,2021-04-15,Midel,midel.com,Sales Pipeline,Test User 2,2021-05-28,Midel Deal (2021-05-28),246,.30,,Appointment scheduled,2021-07-03,
+2021-05-21,2021-05-21,Midel,midel.com,Sales Pipeline,Test User 2,2021-05-28,Midel Deal (2021-05-28),239,.00,,Closed lost,2021-07-03,
+2021-05-14,2021-05-20,Midel,midel.com,Sales Pipeline,Test User 2,2021-05-28,Midel Deal (2021-05-28),219,.80,,Contract sent,2021-07-03,
+2021-05-07,2021-05-13,Midel,midel.com,Sales Pipeline,Test User 2,2021-05-28,Midel Deal (2021-05-28),255,.70,,Decision maker bought-In,2021-07-03,
+2021-04-16,2021-05-06,Midel,midel.com,Sales Pipeline,Test User 2,2021-05-28,Midel Deal (2021-05-28),351,.40,,Presentation scheduled,2021-07-03,
+2021-04-02,2021-04-08,Midel,midel.com,Sales Pipeline,Test User 2,2021-05-28,Midel Deal (2021-05-28),250,.20,,Qualified to buy,2021-07-03,
+2020-01-15,2020-01-21,Agimba,agimba.com,Sales Pipeline,Clayton Farr,2020-03-04,Agimba Deal (2020-03-04),4593,.30,,Appointment scheduled,2020-04-18,High
+2020-02-26,2020-02-26,Agimba,agimba.com,Sales Pipeline,Clayton Farr,2020-03-04,Agimba Deal (2020-03-04),3963,.00,,Closed lost,2020-04-18,High
+2020-02-19,2020-02-25,Agimba,agimba.com,Sales Pipeline,Clayton Farr,2020-03-04,Agimba Deal (2020-03-04),5476,.80,,Contract sent,2020-04-18,High
+2020-02-12,2020-02-18,Agimba,agimba.com,Sales Pipeline,Clayton Farr,2020-03-04,Agimba Deal (2020-03-04),4068,.70,,Decision maker bought-In,2020-04-18,High
+2020-01-22,2020-02-11,Agimba,agimba.com,Sales Pipeline,Clayton Farr,2020-03-04,Agimba Deal (2020-03-04),5674,.40,,Presentation scheduled,2020-04-18,High
+2020-01-08,2020-01-14,Agimba,agimba.com,Sales Pipeline,Clayton Farr,2020-03-04,Agimba Deal (2020-03-04),6796,.20,,Qualified to buy,2020-04-18,High
+2020-03-24,2020-03-30,Gabtune,gabtune.com,Sales Pipeline,Test User 2,2020-05-12,Gabtune Deal (2020-05-12),3664,.30,,Appointment scheduled,2020-06-12,High
+2020-05-05,2020-05-05,Gabtune,gabtune.com,Sales Pipeline,Test User 2,2020-05-12,Gabtune Deal (2020-05-12),4699,.00,,Closed lost,2020-06-12,High
+2020-04-28,2020-05-04,Gabtune,gabtune.com,Sales Pipeline,Test User 2,2020-05-12,Gabtune Deal (2020-05-12),3518,.80,,Contract sent,2020-06-12,High
+2020-04-21,2020-04-27,Gabtune,gabtune.com,Sales Pipeline,Test User 2,2020-05-12,Gabtune Deal (2020-05-12),4473,.70,,Decision maker bought-In,2020-06-12,High
+2020-03-31,2020-04-20,Gabtune,gabtune.com,Sales Pipeline,Test User 2,2020-05-12,Gabtune Deal (2020-05-12),4390,.40,,Presentation scheduled,2020-06-12,High
+2020-03-17,2020-03-23,Gabtune,gabtune.com,Sales Pipeline,Test User 2,2020-05-12,Gabtune Deal (2020-05-12),4140,.20,,Qualified to buy,2020-06-12,High
+2021-10-24,2021-10-30,Cogibox,cogibox.com,Sales Pipeline,Test User 2,2021-12-12,Cogibox Deal (2021-12-12),7067,.30,,Appointment scheduled,2022-01-21,
+2021-12-05,2021-12-05,Cogibox,cogibox.com,Sales Pipeline,Test User 2,2021-12-12,Cogibox Deal (2021-12-12),6036,.00,,Closed lost,2022-01-21,
+2021-11-28,2021-12-04,Cogibox,cogibox.com,Sales Pipeline,Test User 2,2021-12-12,Cogibox Deal (2021-12-12),4932,.80,,Contract sent,2022-01-21,
+2021-11-21,2021-11-27,Cogibox,cogibox.com,Sales Pipeline,Test User 2,2021-12-12,Cogibox Deal (2021-12-12),4989,.70,,Decision maker bought-In,2022-01-21,
+2021-10-31,2021-11-20,Cogibox,cogibox.com,Sales Pipeline,Test User 2,2021-12-12,Cogibox Deal (2021-12-12),4400,.40,,Presentation scheduled,2022-01-21,
+2021-10-17,2021-10-23,Cogibox,cogibox.com,Sales Pipeline,Test User 2,2021-12-12,Cogibox Deal (2021-12-12),4886,.20,,Qualified to buy,2022-01-21,
+2021-02-09,2021-02-15,Devcast,devcast.com,Sales Pipeline,Clayton Farr,2021-03-30,Devcast Deal (2021-03-30),2092,.30,,Appointment scheduled,2021-05-10,Medium
+2021-03-23,2021-03-23,Devcast,devcast.com,Sales Pipeline,Clayton Farr,2021-03-30,Devcast Deal (2021-03-30),3830,.00,,Closed lost,2021-05-10,Medium
+2021-03-16,2021-03-22,Devcast,devcast.com,Sales Pipeline,Clayton Farr,2021-03-30,Devcast Deal (2021-03-30),3707,.80,,Contract sent,2021-05-10,Medium
+2021-03-09,2021-03-15,Devcast,devcast.com,Sales Pipeline,Clayton Farr,2021-03-30,Devcast Deal (2021-03-30),3279,.70,,Decision maker bought-In,2021-05-10,Medium
+2021-02-16,2021-03-08,Devcast,devcast.com,Sales Pipeline,Clayton Farr,2021-03-30,Devcast Deal (2021-03-30),2142,.40,,Presentation scheduled,2021-05-10,Medium
+2021-02-02,2021-02-08,Devcast,devcast.com,Sales Pipeline,Clayton Farr,2021-03-30,Devcast Deal (2021-03-30),3456,.20,,Qualified to buy,2021-05-10,Medium
+2020-06-15,2020-06-21,Npath,npath.com,Sales Pipeline,Test User 2,2020-08-03,Npath Deal (2020-08-03),589,.30,,Appointment scheduled,2020-09-15,
+2020-07-27,2020-07-27,Npath,npath.com,Sales Pipeline,Test User 2,2020-08-03,Npath Deal (2020-08-03),483,.00,,Closed lost,2020-09-15,
+2020-07-20,2020-07-26,Npath,npath.com,Sales Pipeline,Test User 2,2020-08-03,Npath Deal (2020-08-03),600,.80,,Contract sent,2020-09-15,
+2020-07-13,2020-07-19,Npath,npath.com,Sales Pipeline,Test User 2,2020-08-03,Npath Deal (2020-08-03),775,.70,,Decision maker bought-In,2020-09-15,
+2020-06-22,2020-07-12,Npath,npath.com,Sales Pipeline,Test User 2,2020-08-03,Npath Deal (2020-08-03),781,.40,,Presentation scheduled,2020-09-15,
+2020-06-08,2020-06-14,Npath,npath.com,Sales Pipeline,Test User 2,2020-08-03,Npath Deal (2020-08-03),432,.20,,Qualified to buy,2020-09-15,
+2020-02-05,2020-02-11,Innojam,innojam.com,Sales Pipeline,Test User 2,2020-03-04,Innojam Deal (2020-03-04),1857,.30,,Appointment scheduled,,
+2020-02-26,2020-02-26,Innojam,innojam.com,Sales Pipeline,Test User 2,2020-03-04,Innojam Deal (2020-03-04),2444,.00,,Closed lost,,
+2020-02-12,2020-02-25,Innojam,innojam.com,Sales Pipeline,Test User 2,2020-03-04,Innojam Deal (2020-03-04),3550,.40,,Presentation scheduled,,
+2020-01-29,2020-02-04,Innojam,innojam.com,Sales Pipeline,Test User 2,2020-03-04,Innojam Deal (2020-03-04),2193,.20,,Qualified to buy,,
+2021-11-30,2021-11-30,Npath,npath.com,Sales Pipeline,Test User 2,2021-12-07,Npath Deal (2021-12-07),9864,.00,,Closed lost,,
+2020-02-29,2020-03-06,Kwilith,kwilith.com,Sales Pipeline,Clayton Farr,2020-04-18,Kwilith Deal (2020-04-18),910,.30,,Appointment scheduled,2020-06-01,Low
+2020-04-11,2020-04-11,Kwilith,kwilith.com,Sales Pipeline,Clayton Farr,2020-04-18,Kwilith Deal (2020-04-18),795,.00,,Closed lost,2020-06-01,Low
+2020-04-04,2020-04-10,Kwilith,kwilith.com,Sales Pipeline,Clayton Farr,2020-04-18,Kwilith Deal (2020-04-18),789,.80,,Contract sent,2020-06-01,Low
+2020-03-28,2020-04-03,Kwilith,kwilith.com,Sales Pipeline,Clayton Farr,2020-04-18,Kwilith Deal (2020-04-18),659,.70,,Decision maker bought-In,2020-06-01,Low
+2020-03-07,2020-03-27,Kwilith,kwilith.com,Sales Pipeline,Clayton Farr,2020-04-18,Kwilith Deal (2020-04-18),847,.40,,Presentation scheduled,2020-06-01,Low
+2020-02-22,2020-02-28,Kwilith,kwilith.com,Sales Pipeline,Clayton Farr,2020-04-18,Kwilith Deal (2020-04-18),682,.20,,Qualified to buy,2020-06-01,Low
+2020-05-29,2020-06-04,Cogibox,cogibox.com,Sales Pipeline,Test User 2,2020-07-17,Cogibox Deal (2020-07-17),962,.30,,Appointment scheduled,2020-08-17,
+2020-07-10,2020-07-10,Cogibox,cogibox.com,Sales Pipeline,Test User 2,2020-07-17,Cogibox Deal (2020-07-17),1137,.00,,Closed lost,2020-08-17,
+2020-07-03,2020-07-09,Cogibox,cogibox.com,Sales Pipeline,Test User 2,2020-07-17,Cogibox Deal (2020-07-17),756,.80,,Contract sent,2020-08-17,
+2020-06-26,2020-07-02,Cogibox,cogibox.com,Sales Pipeline,Test User 2,2020-07-17,Cogibox Deal (2020-07-17),919,.70,,Decision maker bought-In,2020-08-17,
+2020-06-05,2020-06-25,Cogibox,cogibox.com,Sales Pipeline,Test User 2,2020-07-17,Cogibox Deal (2020-07-17),934,.40,,Presentation scheduled,2020-08-17,
+2020-05-22,2020-05-28,Cogibox,cogibox.com,Sales Pipeline,Test User 2,2020-07-17,Cogibox Deal (2020-07-17),819,.20,,Qualified to buy,2020-08-17,
+2021-11-18,2021-11-18,Yodoo,yodoo.com,Sales Pipeline,Test User 2,2021-11-25,Yodoo Deal (2021-11-25),4884,.00,,Closed lost,,
+2021-09-06,2021-09-12,Rhynyx,rhynyx.com,Sales Pipeline,Test User 2,2021-10-25,Rhynyx Deal (2021-10-25),4629,.30,,Appointment scheduled,2021-11-29,
+2021-10-18,2021-10-18,Rhynyx,rhynyx.com,Sales Pipeline,Test User 2,2021-10-25,Rhynyx Deal (2021-10-25),2660,.00,,Closed lost,2021-11-29,
+2021-10-11,2021-10-17,Rhynyx,rhynyx.com,Sales Pipeline,Test User 2,2021-10-25,Rhynyx Deal (2021-10-25),2372,.80,,Contract sent,2021-11-29,
+2021-10-04,2021-10-10,Rhynyx,rhynyx.com,Sales Pipeline,Test User 2,2021-10-25,Rhynyx Deal (2021-10-25),4150,.70,,Decision maker bought-In,2021-11-29,
+2021-09-13,2021-10-03,Rhynyx,rhynyx.com,Sales Pipeline,Test User 2,2021-10-25,Rhynyx Deal (2021-10-25),2577,.40,,Presentation scheduled,2021-11-29,
+2021-08-30,2021-09-05,Rhynyx,rhynyx.com,Sales Pipeline,Test User 2,2021-10-25,Rhynyx Deal (2021-10-25),3002,.20,,Qualified to buy,2021-11-29,
+2021-07-08,2021-07-14,Tazzy,tazzy.com,Sales Pipeline,Test User 2,2021-08-26,Tazzy Deal (2021-08-26),990,.30,,Appointment scheduled,2021-09-10,High
+2021-08-19,2021-08-19,Tazzy,tazzy.com,Sales Pipeline,Test User 2,2021-08-26,Tazzy Deal (2021-08-26),910,.00,,Closed lost,2021-09-10,High
+2021-08-12,2021-08-18,Tazzy,tazzy.com,Sales Pipeline,Test User 2,2021-08-26,Tazzy Deal (2021-08-26),665,.80,,Contract sent,2021-09-10,High
+2021-08-05,2021-08-11,Tazzy,tazzy.com,Sales Pipeline,Test User 2,2021-08-26,Tazzy Deal (2021-08-26),648,.70,,Decision maker bought-In,2021-09-10,High
+2021-07-15,2021-08-04,Tazzy,tazzy.com,Sales Pipeline,Test User 2,2021-08-26,Tazzy Deal (2021-08-26),672,.40,,Presentation scheduled,2021-09-10,High
+2021-07-01,2021-07-07,Tazzy,tazzy.com,Sales Pipeline,Test User 2,2021-08-26,Tazzy Deal (2021-08-26),1017,.20,,Qualified to buy,2021-09-10,High
+2020-11-09,2020-11-15,Wordpedia,wordpedia.com,Sales Pipeline,Test User 2,2020-12-28,Wordpedia Deal (2020-12-28),1627,.30,,Appointment scheduled,2021-01-20,Low
+2020-12-21,2020-12-21,Wordpedia,wordpedia.com,Sales Pipeline,Test User 2,2020-12-28,Wordpedia Deal (2020-12-28),1544,.00,,Closed lost,2021-01-20,Low
+2020-12-14,2020-12-20,Wordpedia,wordpedia.com,Sales Pipeline,Test User 2,2020-12-28,Wordpedia Deal (2020-12-28),2382,.80,,Contract sent,2021-01-20,Low
+2020-12-07,2020-12-13,Wordpedia,wordpedia.com,Sales Pipeline,Test User 2,2020-12-28,Wordpedia Deal (2020-12-28),2320,.70,,Decision maker bought-In,2021-01-20,Low
+2020-11-16,2020-12-06,Wordpedia,wordpedia.com,Sales Pipeline,Test User 2,2020-12-28,Wordpedia Deal (2020-12-28),2277,.40,,Presentation scheduled,2021-01-20,Low
+2020-11-02,2020-11-08,Wordpedia,wordpedia.com,Sales Pipeline,Test User 2,2020-12-28,Wordpedia Deal (2020-12-28),1508,.20,,Qualified to buy,2021-01-20,Low
+2020-07-28,2020-07-28,Eayo,eayo.com,Sales Pipeline,Clayton Farr,2020-08-04,Eayo Deal (2020-08-04),9489,.00,,Closed lost,,Low
+2020-07-28,2023-05-16,Eayo,eayo.com,Sales Pipeline,Clayton Farr,2020-08-04,Eayo Deal (2020-08-04),7708,.20,,Qualified to buy,,Low
+2020-12-20,2020-12-26,Yodoo,yodoo.com,Sales Pipeline,Clayton Farr,2021-02-07,Yodoo Deal (2021-02-07),2452,.30,,Appointment scheduled,2021-03-24,High
+2021-01-31,2021-01-31,Yodoo,yodoo.com,Sales Pipeline,Clayton Farr,2021-02-07,Yodoo Deal (2021-02-07),1688,.00,,Closed lost,2021-03-24,High
+2021-01-24,2021-01-30,Yodoo,yodoo.com,Sales Pipeline,Clayton Farr,2021-02-07,Yodoo Deal (2021-02-07),1583,.80,,Contract sent,2021-03-24,High
+2021-01-17,2021-01-23,Yodoo,yodoo.com,Sales Pipeline,Clayton Farr,2021-02-07,Yodoo Deal (2021-02-07),2321,.70,,Decision maker bought-In,2021-03-24,High
+2020-12-27,2021-01-16,Yodoo,yodoo.com,Sales Pipeline,Clayton Farr,2021-02-07,Yodoo Deal (2021-02-07),2262,.40,,Presentation scheduled,2021-03-24,High
+2020-12-13,2020-12-19,Yodoo,yodoo.com,Sales Pipeline,Clayton Farr,2021-02-07,Yodoo Deal (2021-02-07),1693,.20,,Qualified to buy,2021-03-24,High
+2020-06-28,2020-07-04,Skalith,skalith.com,Sales Pipeline,Test User 2,2020-08-16,Skalith Deal (2020-08-16),2792,.30,,Appointment scheduled,2020-09-01,
+2020-08-09,2020-08-09,Skalith,skalith.com,Sales Pipeline,Test User 2,2020-08-16,Skalith Deal (2020-08-16),1776,.00,,Closed lost,2020-09-01,
+2020-08-02,2020-08-08,Skalith,skalith.com,Sales Pipeline,Test User 2,2020-08-16,Skalith Deal (2020-08-16),2737,.80,,Contract sent,2020-09-01,
+2020-07-26,2020-08-01,Skalith,skalith.com,Sales Pipeline,Test User 2,2020-08-16,Skalith Deal (2020-08-16),2776,.70,,Decision maker bought-In,2020-09-01,
+2020-07-05,2020-07-25,Skalith,skalith.com,Sales Pipeline,Test User 2,2020-08-16,Skalith Deal (2020-08-16),1888,.40,,Presentation scheduled,2020-09-01,
+2020-06-21,2020-06-27,Skalith,skalith.com,Sales Pipeline,Test User 2,2020-08-16,Skalith Deal (2020-08-16),2911,.20,,Qualified to buy,2020-09-01,
+2021-10-25,2021-10-31,Minyx,minyx.com,Sales Pipeline,Clayton Farr,2021-12-13,Minyx Deal (2021-12-13),4409,.30,,Appointment scheduled,2022-01-26,
+2021-12-06,2021-12-06,Minyx,minyx.com,Sales Pipeline,Clayton Farr,2021-12-13,Minyx Deal (2021-12-13),4392,.00,,Closed lost,2022-01-26,
+2021-11-29,2021-12-05,Minyx,minyx.com,Sales Pipeline,Clayton Farr,2021-12-13,Minyx Deal (2021-12-13),3701,.80,,Contract sent,2022-01-26,
+2021-11-22,2021-11-28,Minyx,minyx.com,Sales Pipeline,Clayton Farr,2021-12-13,Minyx Deal (2021-12-13),3811,.70,,Decision maker bought-In,2022-01-26,
+2021-11-01,2021-11-21,Minyx,minyx.com,Sales Pipeline,Clayton Farr,2021-12-13,Minyx Deal (2021-12-13),3255,.40,,Presentation scheduled,2022-01-26,
+2021-10-18,2021-10-24,Minyx,minyx.com,Sales Pipeline,Clayton Farr,2021-12-13,Minyx Deal (2021-12-13),3166,.20,,Qualified to buy,2022-01-26,
+2021-10-19,2021-10-25,Flashpoint,flashpoint.com,Sales Pipeline,Clayton Farr,2021-12-07,Flashpoint Deal (2021-12-07),1177,.30,,Appointment scheduled,2022-01-03,
+2021-11-30,2021-11-30,Flashpoint,flashpoint.com,Sales Pipeline,Clayton Farr,2021-12-07,Flashpoint Deal (2021-12-07),1401,.00,,Closed lost,2022-01-03,
+2021-11-23,2021-11-29,Flashpoint,flashpoint.com,Sales Pipeline,Clayton Farr,2021-12-07,Flashpoint Deal (2021-12-07),1504,.80,,Contract sent,2022-01-03,
+2021-11-16,2021-11-22,Flashpoint,flashpoint.com,Sales Pipeline,Clayton Farr,2021-12-07,Flashpoint Deal (2021-12-07),1181,.70,,Decision maker bought-In,2022-01-03,
+2021-10-26,2021-11-15,Flashpoint,flashpoint.com,Sales Pipeline,Clayton Farr,2021-12-07,Flashpoint Deal (2021-12-07),1862,.40,,Presentation scheduled,2022-01-03,
+2021-10-12,2021-10-18,Flashpoint,flashpoint.com,Sales Pipeline,Clayton Farr,2021-12-07,Flashpoint Deal (2021-12-07),1694,.20,,Qualified to buy,2022-01-03,
+2020-06-21,2020-06-27,Youtags,youtags.com,Sales Pipeline,Test User 2,2020-07-19,Youtags Deal (2020-07-19),374,.30,,Appointment scheduled,,
+2020-07-12,2020-07-12,Youtags,youtags.com,Sales Pipeline,Test User 2,2020-07-19,Youtags Deal (2020-07-19),583,.00,,Closed lost,,
+2020-06-28,2020-07-11,Youtags,youtags.com,Sales Pipeline,Test User 2,2020-07-19,Youtags Deal (2020-07-19),545,.40,,Presentation scheduled,,
+2020-06-14,2020-06-20,Youtags,youtags.com,Sales Pipeline,Test User 2,2020-07-19,Youtags Deal (2020-07-19),398,.20,,Qualified to buy,,
+2020-01-23,2020-01-29,JumpXS,jumpxs.com,Sales Pipeline,Clayton Farr,2020-03-12,JumpXS Deal (2020-03-12),4742,.30,,Appointment scheduled,2020-04-16,
+2020-03-05,2020-03-05,JumpXS,jumpxs.com,Sales Pipeline,Clayton Farr,2020-03-12,JumpXS Deal (2020-03-12),2771,.00,,Closed lost,2020-04-16,
+2020-02-27,2020-03-04,JumpXS,jumpxs.com,Sales Pipeline,Clayton Farr,2020-03-12,JumpXS Deal (2020-03-12),3346,.80,,Contract sent,2020-04-16,
+2020-02-20,2020-02-26,JumpXS,jumpxs.com,Sales Pipeline,Clayton Farr,2020-03-12,JumpXS Deal (2020-03-12),4021,.70,,Decision maker bought-In,2020-04-16,
+2020-01-30,2020-02-19,JumpXS,jumpxs.com,Sales Pipeline,Clayton Farr,2020-03-12,JumpXS Deal (2020-03-12),4453,.40,,Presentation scheduled,2020-04-16,
+2020-01-16,2020-01-22,JumpXS,jumpxs.com,Sales Pipeline,Clayton Farr,2020-03-12,JumpXS Deal (2020-03-12),2783,.20,,Qualified to buy,2020-04-16,
+2021-08-05,2021-08-11,Devbug,devbug.com,Sales Pipeline,Test User 2,2021-09-23,Devbug Deal (2021-09-23),6036,.30,,Appointment scheduled,2021-11-06,
+2021-09-16,2021-09-16,Devbug,devbug.com,Sales Pipeline,Test User 2,2021-09-23,Devbug Deal (2021-09-23),8753,.00,,Closed lost,2021-11-06,
+2021-09-09,2021-09-15,Devbug,devbug.com,Sales Pipeline,Test User 2,2021-09-23,Devbug Deal (2021-09-23),6038,.80,,Contract sent,2021-11-06,
+2021-09-02,2021-09-08,Devbug,devbug.com,Sales Pipeline,Test User 2,2021-09-23,Devbug Deal (2021-09-23),6696,.70,,Decision maker bought-In,2021-11-06,
+2021-08-12,2021-09-01,Devbug,devbug.com,Sales Pipeline,Test User 2,2021-09-23,Devbug Deal (2021-09-23),8222,.40,,Presentation scheduled,2021-11-06,
+2021-07-29,2021-08-04,Devbug,devbug.com,Sales Pipeline,Test User 2,2021-09-23,Devbug Deal (2021-09-23),9252,.20,,Qualified to buy,2021-11-06,
+2021-05-04,2021-05-04,Skippad,skippad.com,Sales Pipeline,Test User 2,2021-05-11,Skippad Deal (2021-05-11),1036,.00,,Closed lost,,Low
+2021-05-04,2023-05-16,Skippad,skippad.com,Sales Pipeline,Test User 2,2021-05-11,Skippad Deal (2021-05-11),1105,.20,,Qualified to buy,,Low
+2020-12-13,2020-12-13,Yakitri,yakitri.com,Sales Pipeline,Clayton Farr,2020-12-20,Yakitri Deal (2020-12-20),5917,.00,,Closed lost,,
+2020-12-13,2023-05-16,Yakitri,yakitri.com,Sales Pipeline,Clayton Farr,2020-12-20,Yakitri Deal (2020-12-20),5993,.20,,Qualified to buy,,
+2020-10-31,2020-10-31,Abata,abata.com,Sales Pipeline,Clayton Farr,2020-11-07,Abata Deal (2020-11-07),1346,.00,,Closed lost,,
+2021-02-12,2021-02-18,Agivu,agivu.com,Sales Pipeline,Test User 2,2021-04-02,Agivu Deal (2021-04-02),4506,.30,,Appointment scheduled,2021-05-06,Medium
+2021-03-26,2021-03-26,Agivu,agivu.com,Sales Pipeline,Test User 2,2021-04-02,Agivu Deal (2021-04-02),4964,.00,,Closed lost,2021-05-06,Medium
+2021-03-19,2021-03-25,Agivu,agivu.com,Sales Pipeline,Test User 2,2021-04-02,Agivu Deal (2021-04-02),4899,.80,,Contract sent,2021-05-06,Medium
+2021-03-12,2021-03-18,Agivu,agivu.com,Sales Pipeline,Test User 2,2021-04-02,Agivu Deal (2021-04-02),3788,.70,,Decision maker bought-In,2021-05-06,Medium
+2021-02-19,2021-03-11,Agivu,agivu.com,Sales Pipeline,Test User 2,2021-04-02,Agivu Deal (2021-04-02),4016,.40,,Presentation scheduled,2021-05-06,Medium
+2021-02-05,2021-02-11,Agivu,agivu.com,Sales Pipeline,Test User 2,2021-04-02,Agivu Deal (2021-04-02),4656,.20,,Qualified to buy,2021-05-06,Medium
+2021-06-13,2021-06-19,Skaboo,skaboo.com,Sales Pipeline,Clayton Farr,2021-07-11,Skaboo Deal (2021-07-11),3373,.30,,Appointment scheduled,,Medium
+2021-07-04,2021-07-04,Skaboo,skaboo.com,Sales Pipeline,Clayton Farr,2021-07-11,Skaboo Deal (2021-07-11),4406,.00,,Closed lost,,Medium
+2021-06-20,2021-07-03,Skaboo,skaboo.com,Sales Pipeline,Clayton Farr,2021-07-11,Skaboo Deal (2021-07-11),5596,.40,,Presentation scheduled,,Medium
+2021-06-06,2021-06-12,Skaboo,skaboo.com,Sales Pipeline,Clayton Farr,2021-07-11,Skaboo Deal (2021-07-11),4392,.20,,Qualified to buy,,Medium
+2020-04-26,2020-04-26,Photojam,photojam.com,Sales Pipeline,Clayton Farr,2020-05-03,Photojam Deal (2020-05-03),323,.00,,Closed lost,,
+2020-04-26,2023-05-16,Photojam,photojam.com,Sales Pipeline,Clayton Farr,2020-05-03,Photojam Deal (2020-05-03),440,.20,,Qualified to buy,,
+2020-05-26,2020-06-01,Yabox,yabox.com,Sales Pipeline,Clayton Farr,2020-07-14,Yabox Deal (2020-07-14),535,.30,,Appointment scheduled,2020-08-10,Medium
+2020-07-07,2020-07-07,Yabox,yabox.com,Sales Pipeline,Clayton Farr,2020-07-14,Yabox Deal (2020-07-14),692,.00,,Closed lost,2020-08-10,Medium
+2020-06-30,2020-07-06,Yabox,yabox.com,Sales Pipeline,Clayton Farr,2020-07-14,Yabox Deal (2020-07-14),521,.80,,Contract sent,2020-08-10,Medium
+2020-06-23,2020-06-29,Yabox,yabox.com,Sales Pipeline,Clayton Farr,2020-07-14,Yabox Deal (2020-07-14),523,.70,,Decision maker bought-In,2020-08-10,Medium
+2020-06-02,2020-06-22,Yabox,yabox.com,Sales Pipeline,Clayton Farr,2020-07-14,Yabox Deal (2020-07-14),628,.40,,Presentation scheduled,2020-08-10,Medium
+2020-05-19,2020-05-25,Yabox,yabox.com,Sales Pipeline,Clayton Farr,2020-07-14,Yabox Deal (2020-07-14),729,.20,,Qualified to buy,2020-08-10,Medium
+2021-06-18,2021-06-24,Feedfish,feedfish.com,Sales Pipeline,Test User 2,2021-08-06,Feedfish Deal (2021-08-06),869,.30,,Appointment scheduled,2021-08-21,High
+2021-07-30,2021-07-30,Feedfish,feedfish.com,Sales Pipeline,Test User 2,2021-08-06,Feedfish Deal (2021-08-06),858,.00,,Closed lost,2021-08-21,High
+2021-07-23,2021-07-29,Feedfish,feedfish.com,Sales Pipeline,Test User 2,2021-08-06,Feedfish Deal (2021-08-06),613,.80,,Contract sent,2021-08-21,High
+2021-07-16,2021-07-22,Feedfish,feedfish.com,Sales Pipeline,Test User 2,2021-08-06,Feedfish Deal (2021-08-06),884,.70,,Decision maker bought-In,2021-08-21,High
+2021-06-25,2021-07-15,Feedfish,feedfish.com,Sales Pipeline,Test User 2,2021-08-06,Feedfish Deal (2021-08-06),627,.40,,Presentation scheduled,2021-08-21,High
+2021-06-11,2021-06-17,Feedfish,feedfish.com,Sales Pipeline,Test User 2,2021-08-06,Feedfish Deal (2021-08-06),886,.20,,Qualified to buy,2021-08-21,High
+2021-07-08,2021-07-14,Latz,latz.com,Sales Pipeline,Clayton Farr,2021-08-26,Latz Deal (2021-08-26),5745,.30,,Appointment scheduled,2021-09-25,Medium
+2021-08-19,2021-08-19,Latz,latz.com,Sales Pipeline,Clayton Farr,2021-08-26,Latz Deal (2021-08-26),7896,.00,,Closed lost,2021-09-25,Medium
+2021-08-12,2021-08-18,Latz,latz.com,Sales Pipeline,Clayton Farr,2021-08-26,Latz Deal (2021-08-26),7295,.80,,Contract sent,2021-09-25,Medium
+2021-08-05,2021-08-11,Latz,latz.com,Sales Pipeline,Clayton Farr,2021-08-26,Latz Deal (2021-08-26),7485,.70,,Decision maker bought-In,2021-09-25,Medium
+2021-07-15,2021-08-04,Latz,latz.com,Sales Pipeline,Clayton Farr,2021-08-26,Latz Deal (2021-08-26),5450,.40,,Presentation scheduled,2021-09-25,Medium
+2021-07-01,2021-07-07,Latz,latz.com,Sales Pipeline,Clayton Farr,2021-08-26,Latz Deal (2021-08-26),7534,.20,,Qualified to buy,2021-09-25,Medium
+2020-12-29,2020-12-29,Livetube,livetube.com,Sales Pipeline,Test User 2,2021-01-05,Livetube Deal (2021-01-05),2801,.00,,Closed lost,,Medium
+2021-07-19,2021-07-25,Thoughtsphere,thoughtsphere.com,Sales Pipeline,Clayton Farr,2021-09-06,Thoughtsphere Deal (2021-09-06),6042,.30,,Appointment scheduled,2021-09-23,
+2021-08-30,2021-08-30,Thoughtsphere,thoughtsphere.com,Sales Pipeline,Clayton Farr,2021-09-06,Thoughtsphere Deal (2021-09-06),5733,.00,,Closed lost,2021-09-23,
+2021-08-23,2021-08-29,Thoughtsphere,thoughtsphere.com,Sales Pipeline,Clayton Farr,2021-09-06,Thoughtsphere Deal (2021-09-06),6764,.80,,Contract sent,2021-09-23,
+2021-08-16,2021-08-22,Thoughtsphere,thoughtsphere.com,Sales Pipeline,Clayton Farr,2021-09-06,Thoughtsphere Deal (2021-09-06),5991,.70,,Decision maker bought-In,2021-09-23,
+2021-07-26,2021-08-15,Thoughtsphere,thoughtsphere.com,Sales Pipeline,Clayton Farr,2021-09-06,Thoughtsphere Deal (2021-09-06),8250,.40,,Presentation scheduled,2021-09-23,
+2021-07-12,2021-07-18,Thoughtsphere,thoughtsphere.com,Sales Pipeline,Clayton Farr,2021-09-06,Thoughtsphere Deal (2021-09-06),6882,.20,,Qualified to buy,2021-09-23,
+2020-01-04,2020-01-10,Browsebug,browsebug.com,Sales Pipeline,Clayton Farr,2020-02-22,Browsebug Deal (2020-02-22),3484,.30,,Appointment scheduled,2020-04-06,
+2020-02-15,2020-02-15,Browsebug,browsebug.com,Sales Pipeline,Clayton Farr,2020-02-22,Browsebug Deal (2020-02-22),3208,.00,,Closed lost,2020-04-06,
+2020-02-08,2020-02-14,Browsebug,browsebug.com,Sales Pipeline,Clayton Farr,2020-02-22,Browsebug Deal (2020-02-22),4152,.80,,Contract sent,2020-04-06,
+2020-02-01,2020-02-07,Browsebug,browsebug.com,Sales Pipeline,Clayton Farr,2020-02-22,Browsebug Deal (2020-02-22),4105,.70,,Decision maker bought-In,2020-04-06,
+2020-01-11,2020-01-31,Browsebug,browsebug.com,Sales Pipeline,Clayton Farr,2020-02-22,Browsebug Deal (2020-02-22),3662,.40,,Presentation scheduled,2020-04-06,
+2019-12-28,2020-01-03,Browsebug,browsebug.com,Sales Pipeline,Clayton Farr,2020-02-22,Browsebug Deal (2020-02-22),4127,.20,,Qualified to buy,2020-04-06,
+2020-06-19,2020-06-19,Avavee,avavee.com,Sales Pipeline,Test User 2,2020-06-26,Avavee Deal (2020-06-26),5753,.00,,Closed lost,,
+2020-06-03,2020-06-09,Oyope,oyope.com,Sales Pipeline,Clayton Farr,2020-07-22,Oyope Deal (2020-07-22),1004,.30,,Appointment scheduled,2020-08-28,Medium
+2020-07-15,2020-07-15,Oyope,oyope.com,Sales Pipeline,Clayton Farr,2020-07-22,Oyope Deal (2020-07-22),791,.00,,Closed lost,2020-08-28,Medium
+2020-07-08,2020-07-14,Oyope,oyope.com,Sales Pipeline,Clayton Farr,2020-07-22,Oyope Deal (2020-07-22),1115,.80,,Contract sent,2020-08-28,Medium
+2020-07-01,2020-07-07,Oyope,oyope.com,Sales Pipeline,Clayton Farr,2020-07-22,Oyope Deal (2020-07-22),693,.70,,Decision maker bought-In,2020-08-28,Medium
+2020-06-10,2020-06-30,Oyope,oyope.com,Sales Pipeline,Clayton Farr,2020-07-22,Oyope Deal (2020-07-22),676,.40,,Presentation scheduled,2020-08-28,Medium
+2020-05-27,2020-06-02,Oyope,oyope.com,Sales Pipeline,Clayton Farr,2020-07-22,Oyope Deal (2020-07-22),664,.20,,Qualified to buy,2020-08-28,Medium
+2019-12-25,2019-12-31,Photofeed,photofeed.com,Sales Pipeline,Test User 2,2020-02-12,Photofeed Deal (2020-02-12),2338,.30,,Appointment scheduled,2020-03-06,
+2020-02-05,2020-02-05,Photofeed,photofeed.com,Sales Pipeline,Test User 2,2020-02-12,Photofeed Deal (2020-02-12),2224,.00,,Closed lost,2020-03-06,
+2020-01-29,2020-02-04,Photofeed,photofeed.com,Sales Pipeline,Test User 2,2020-02-12,Photofeed Deal (2020-02-12),2241,.80,,Contract sent,2020-03-06,
+2020-01-22,2020-01-28,Photofeed,photofeed.com,Sales Pipeline,Test User 2,2020-02-12,Photofeed Deal (2020-02-12),2060,.70,,Decision maker bought-In,2020-03-06,
+2020-01-01,2020-01-21,Photofeed,photofeed.com,Sales Pipeline,Test User 2,2020-02-12,Photofeed Deal (2020-02-12),2495,.40,,Presentation scheduled,2020-03-06,
+2019-12-18,2019-12-24,Photofeed,photofeed.com,Sales Pipeline,Test User 2,2020-02-12,Photofeed Deal (2020-02-12),2587,.20,,Qualified to buy,2020-03-06,
+2021-06-05,2023-05-16,Innojam,innojam.com,Sales Pipeline,Clayton Farr,2021-06-12,Innojam Deal (2021-06-12),7961,.30,,Appointment scheduled,,
+2021-06-05,2021-06-05,Innojam,innojam.com,Sales Pipeline,Clayton Farr,2021-06-12,Innojam Deal (2021-06-12),6819,.00,,Closed lost,,
+2021-05-29,2021-06-04,Innojam,innojam.com,Sales Pipeline,Clayton Farr,2021-06-12,Innojam Deal (2021-06-12),4629,.20,,Qualified to buy,,
+2021-07-05,2021-07-11,Thoughtblab,thoughtblab.com,Sales Pipeline,Clayton Farr,2021-08-23,Thoughtblab Deal (2021-08-23),6740,.30,,Appointment scheduled,2021-09-29,
+2021-08-16,2021-08-16,Thoughtblab,thoughtblab.com,Sales Pipeline,Clayton Farr,2021-08-23,Thoughtblab Deal (2021-08-23),5021,.00,,Closed lost,2021-09-29,
+2021-08-09,2021-08-15,Thoughtblab,thoughtblab.com,Sales Pipeline,Clayton Farr,2021-08-23,Thoughtblab Deal (2021-08-23),5571,.80,,Contract sent,2021-09-29,
+2021-08-02,2021-08-08,Thoughtblab,thoughtblab.com,Sales Pipeline,Clayton Farr,2021-08-23,Thoughtblab Deal (2021-08-23),4889,.70,,Decision maker bought-In,2021-09-29,
+2021-07-12,2021-08-01,Thoughtblab,thoughtblab.com,Sales Pipeline,Clayton Farr,2021-08-23,Thoughtblab Deal (2021-08-23),7333,.40,,Presentation scheduled,2021-09-29,
+2021-06-28,2021-07-04,Thoughtblab,thoughtblab.com,Sales Pipeline,Clayton Farr,2021-08-23,Thoughtblab Deal (2021-08-23),4648,.20,,Qualified to buy,2021-09-29,
+2021-10-25,2021-10-31,Oba,oba.com,Sales Pipeline,Test User 2,2021-12-13,Oba Deal (2021-12-13),2472,.30,,Appointment scheduled,2022-01-07,
+2021-12-06,2021-12-06,Oba,oba.com,Sales Pipeline,Test User 2,2021-12-13,Oba Deal (2021-12-13),1919,.00,,Closed lost,2022-01-07,
+2021-11-29,2021-12-05,Oba,oba.com,Sales Pipeline,Test User 2,2021-12-13,Oba Deal (2021-12-13),2074,.80,,Contract sent,2022-01-07,
+2021-11-22,2021-11-28,Oba,oba.com,Sales Pipeline,Test User 2,2021-12-13,Oba Deal (2021-12-13),3476,.70,,Decision maker bought-In,2022-01-07,
+2021-11-01,2021-11-21,Oba,oba.com,Sales Pipeline,Test User 2,2021-12-13,Oba Deal (2021-12-13),3242,.40,,Presentation scheduled,2022-01-07,
+2021-10-18,2021-10-24,Oba,oba.com,Sales Pipeline,Test User 2,2021-12-13,Oba Deal (2021-12-13),2115,.20,,Qualified to buy,2022-01-07,
+2020-04-14,2020-04-20,Browsecat,browsecat.com,Sales Pipeline,Clayton Farr,2020-06-02,Browsecat Deal (2020-06-02),5293,.30,,Appointment scheduled,2020-06-19,Medium
+2020-05-26,2020-05-26,Browsecat,browsecat.com,Sales Pipeline,Clayton Farr,2020-06-02,Browsecat Deal (2020-06-02),5129,.00,,Closed lost,2020-06-19,Medium
+2020-05-19,2020-05-25,Browsecat,browsecat.com,Sales Pipeline,Clayton Farr,2020-06-02,Browsecat Deal (2020-06-02),5164,.80,,Contract sent,2020-06-19,Medium
+2020-05-12,2020-05-18,Browsecat,browsecat.com,Sales Pipeline,Clayton Farr,2020-06-02,Browsecat Deal (2020-06-02),7357,.70,,Decision maker bought-In,2020-06-19,Medium
+2020-04-21,2020-05-11,Browsecat,browsecat.com,Sales Pipeline,Clayton Farr,2020-06-02,Browsecat Deal (2020-06-02),8834,.40,,Presentation scheduled,2020-06-19,Medium
+2020-04-07,2020-04-13,Browsecat,browsecat.com,Sales Pipeline,Clayton Farr,2020-06-02,Browsecat Deal (2020-06-02),5306,.20,,Qualified to buy,2020-06-19,Medium
+2020-11-04,2020-11-10,Dabtype,dabtype.com,Sales Pipeline,Clayton Farr,2020-12-23,Dabtype Deal (2020-12-23),578,.30,,Appointment scheduled,2021-01-21,Medium
+2020-12-16,2020-12-16,Dabtype,dabtype.com,Sales Pipeline,Clayton Farr,2020-12-23,Dabtype Deal (2020-12-23),626,.00,,Closed lost,2021-01-21,Medium
+2020-12-09,2020-12-15,Dabtype,dabtype.com,Sales Pipeline,Clayton Farr,2020-12-23,Dabtype Deal (2020-12-23),969,.80,,Contract sent,2021-01-21,Medium
+2020-12-02,2020-12-08,Dabtype,dabtype.com,Sales Pipeline,Clayton Farr,2020-12-23,Dabtype Deal (2020-12-23),612,.70,,Decision maker bought-In,2021-01-21,Medium
+2020-11-11,2020-12-01,Dabtype,dabtype.com,Sales Pipeline,Clayton Farr,2020-12-23,Dabtype Deal (2020-12-23),1069,.40,,Presentation scheduled,2021-01-21,Medium
+2020-10-28,2020-11-03,Dabtype,dabtype.com,Sales Pipeline,Clayton Farr,2020-12-23,Dabtype Deal (2020-12-23),767,.20,,Qualified to buy,2021-01-21,Medium
+2021-05-21,2021-05-27,Rooxo,rooxo.com,Sales Pipeline,Clayton Farr,2021-07-09,Rooxo Deal (2021-07-09),1195,.30,,Appointment scheduled,2021-07-30,
+2021-07-02,2021-07-02,Rooxo,rooxo.com,Sales Pipeline,Clayton Farr,2021-07-09,Rooxo Deal (2021-07-09),1219,.00,,Closed lost,2021-07-30,
+2021-06-25,2021-07-01,Rooxo,rooxo.com,Sales Pipeline,Clayton Farr,2021-07-09,Rooxo Deal (2021-07-09),1526,.80,,Contract sent,2021-07-30,
+2021-06-18,2021-06-24,Rooxo,rooxo.com,Sales Pipeline,Clayton Farr,2021-07-09,Rooxo Deal (2021-07-09),961,.70,,Decision maker bought-In,2021-07-30,
+2021-05-28,2021-06-17,Rooxo,rooxo.com,Sales Pipeline,Clayton Farr,2021-07-09,Rooxo Deal (2021-07-09),1086,.40,,Presentation scheduled,2021-07-30,
+2021-05-14,2021-05-20,Rooxo,rooxo.com,Sales Pipeline,Clayton Farr,2021-07-09,Rooxo Deal (2021-07-09),1294,.20,,Qualified to buy,2021-07-30,
+2020-05-01,2020-05-07,Flashdog,flashdog.com,Sales Pipeline,Test User 2,2020-06-19,Flashdog Deal (2020-06-19),6577,.30,,Appointment scheduled,2020-07-10,
+2020-06-12,2020-06-12,Flashdog,flashdog.com,Sales Pipeline,Test User 2,2020-06-19,Flashdog Deal (2020-06-19),5281,.00,,Closed lost,2020-07-10,
+2020-06-05,2020-06-11,Flashdog,flashdog.com,Sales Pipeline,Test User 2,2020-06-19,Flashdog Deal (2020-06-19),3887,.80,,Contract sent,2020-07-10,
+2020-05-29,2020-06-04,Flashdog,flashdog.com,Sales Pipeline,Test User 2,2020-06-19,Flashdog Deal (2020-06-19),5946,.70,,Decision maker bought-In,2020-07-10,
+2020-05-08,2020-05-28,Flashdog,flashdog.com,Sales Pipeline,Test User 2,2020-06-19,Flashdog Deal (2020-06-19),5109,.40,,Presentation scheduled,2020-07-10,
+2020-04-24,2020-04-30,Flashdog,flashdog.com,Sales Pipeline,Test User 2,2020-06-19,Flashdog Deal (2020-06-19),5310,.20,,Qualified to buy,2020-07-10,
+2021-02-20,2021-02-20,Voonte,voonte.com,Sales Pipeline,Test User 2,2021-02-27,Voonte Deal (2021-02-27),415,.00,,Closed lost,,
+2020-08-25,2020-08-31,Cogilith,cogilith.com,Sales Pipeline,Test User 2,2020-10-13,Cogilith Deal (2020-10-13),5540,.30,,Appointment scheduled,2020-10-31,
+2020-10-06,2020-10-06,Cogilith,cogilith.com,Sales Pipeline,Test User 2,2020-10-13,Cogilith Deal (2020-10-13),6454,.00,,Closed lost,2020-10-31,
+2020-09-29,2020-10-05,Cogilith,cogilith.com,Sales Pipeline,Test User 2,2020-10-13,Cogilith Deal (2020-10-13),6224,.80,,Contract sent,2020-10-31,
+2020-09-22,2020-09-28,Cogilith,cogilith.com,Sales Pipeline,Test User 2,2020-10-13,Cogilith Deal (2020-10-13),6237,.70,,Decision maker bought-In,2020-10-31,
+2020-09-01,2020-09-21,Cogilith,cogilith.com,Sales Pipeline,Test User 2,2020-10-13,Cogilith Deal (2020-10-13),5110,.40,,Presentation scheduled,2020-10-31,
+2020-08-18,2020-08-24,Cogilith,cogilith.com,Sales Pipeline,Test User 2,2020-10-13,Cogilith Deal (2020-10-13),6787,.20,,Qualified to buy,2020-10-31,
+2020-09-30,2020-10-06,Oyoloo,oyoloo.com,Sales Pipeline,Test User 2,2020-11-18,Oyoloo Deal (2020-11-18),3784,.30,,Appointment scheduled,2020-12-10,
+2020-11-11,2020-11-11,Oyoloo,oyoloo.com,Sales Pipeline,Test User 2,2020-11-18,Oyoloo Deal (2020-11-18),2674,.00,,Closed lost,2020-12-10,
+2020-11-04,2020-11-10,Oyoloo,oyoloo.com,Sales Pipeline,Test User 2,2020-11-18,Oyoloo Deal (2020-11-18),3498,.80,,Contract sent,2020-12-10,
+2020-10-28,2020-11-03,Oyoloo,oyoloo.com,Sales Pipeline,Test User 2,2020-11-18,Oyoloo Deal (2020-11-18),4005,.70,,Decision maker bought-In,2020-12-10,
+2020-10-07,2020-10-27,Oyoloo,oyoloo.com,Sales Pipeline,Test User 2,2020-11-18,Oyoloo Deal (2020-11-18),2481,.40,,Presentation scheduled,2020-12-10,
+2020-09-23,2020-09-29,Oyoloo,oyoloo.com,Sales Pipeline,Test User 2,2020-11-18,Oyoloo Deal (2020-11-18),2107,.20,,Qualified to buy,2020-12-10,
+2021-05-28,2021-06-03,Devbug,devbug.com,Sales Pipeline,Test User 2,2021-07-16,Devbug Deal (2021-07-16),5687,.30,,Appointment scheduled,2021-08-16,
+2021-07-09,2021-07-09,Devbug,devbug.com,Sales Pipeline,Test User 2,2021-07-16,Devbug Deal (2021-07-16),4695,.00,,Closed lost,2021-08-16,
+2021-07-02,2021-07-08,Devbug,devbug.com,Sales Pipeline,Test User 2,2021-07-16,Devbug Deal (2021-07-16),5310,.80,,Contract sent,2021-08-16,
+2021-06-25,2021-07-01,Devbug,devbug.com,Sales Pipeline,Test User 2,2021-07-16,Devbug Deal (2021-07-16),3399,.70,,Decision maker bought-In,2021-08-16,
+2021-06-04,2021-06-24,Devbug,devbug.com,Sales Pipeline,Test User 2,2021-07-16,Devbug Deal (2021-07-16),4214,.40,,Presentation scheduled,2021-08-16,
+2021-05-21,2021-05-27,Devbug,devbug.com,Sales Pipeline,Test User 2,2021-07-16,Devbug Deal (2021-07-16),3359,.20,,Qualified to buy,2021-08-16,
+2020-08-08,2020-08-14,Mydo,mydo.com,Sales Pipeline,Clayton Farr,2020-09-26,Mydo Deal (2020-09-26),785,.30,,Appointment scheduled,2020-10-12,High
+2020-09-19,2020-09-19,Mydo,mydo.com,Sales Pipeline,Clayton Farr,2020-09-26,Mydo Deal (2020-09-26),1145,.00,,Closed lost,2020-10-12,High
+2020-09-12,2020-09-18,Mydo,mydo.com,Sales Pipeline,Clayton Farr,2020-09-26,Mydo Deal (2020-09-26),916,.80,,Contract sent,2020-10-12,High
+2020-09-05,2020-09-11,Mydo,mydo.com,Sales Pipeline,Clayton Farr,2020-09-26,Mydo Deal (2020-09-26),591,.70,,Decision maker bought-In,2020-10-12,High
+2020-08-15,2020-09-04,Mydo,mydo.com,Sales Pipeline,Clayton Farr,2020-09-26,Mydo Deal (2020-09-26),936,.40,,Presentation scheduled,2020-10-12,High
+2020-08-01,2020-08-07,Mydo,mydo.com,Sales Pipeline,Clayton Farr,2020-09-26,Mydo Deal (2020-09-26),633,.20,,Qualified to buy,2020-10-12,High
+2020-06-22,2020-06-28,Abata,abata.com,Sales Pipeline,Clayton Farr,2020-07-27,Abata Deal (2020-07-27),2994,.30,,Appointment scheduled,,High
+2020-07-20,2020-07-20,Abata,abata.com,Sales Pipeline,Clayton Farr,2020-07-27,Abata Deal (2020-07-27),3577,.00,,Closed lost,,High
+2020-07-20,2023-05-16,Abata,abata.com,Sales Pipeline,Clayton Farr,2020-07-27,Abata Deal (2020-07-27),2206,.70,,Decision maker bought-In,,High
+2020-06-29,2020-07-19,Abata,abata.com,Sales Pipeline,Clayton Farr,2020-07-27,Abata Deal (2020-07-27),2174,.40,,Presentation scheduled,,High
+2020-06-15,2020-06-21,Abata,abata.com,Sales Pipeline,Clayton Farr,2020-07-27,Abata Deal (2020-07-27),3824,.20,,Qualified to buy,,High
+2020-01-31,2020-02-06,Einti,einti.com,Sales Pipeline,Clayton Farr,2020-03-20,Einti Deal (2020-03-20),3309,.30,,Appointment scheduled,2020-05-04,
+2020-03-13,2020-03-13,Einti,einti.com,Sales Pipeline,Clayton Farr,2020-03-20,Einti Deal (2020-03-20),4437,.00,,Closed lost,2020-05-04,
+2020-03-06,2020-03-12,Einti,einti.com,Sales Pipeline,Clayton Farr,2020-03-20,Einti Deal (2020-03-20),3391,.80,,Contract sent,2020-05-04,
+2020-02-28,2020-03-05,Einti,einti.com,Sales Pipeline,Clayton Farr,2020-03-20,Einti Deal (2020-03-20),3431,.70,,Decision maker bought-In,2020-05-04,
+2020-02-07,2020-02-27,Einti,einti.com,Sales Pipeline,Clayton Farr,2020-03-20,Einti Deal (2020-03-20),2491,.40,,Presentation scheduled,2020-05-04,
+2020-01-24,2020-01-30,Einti,einti.com,Sales Pipeline,Clayton Farr,2020-03-20,Einti Deal (2020-03-20),3709,.20,,Qualified to buy,2020-05-04,
